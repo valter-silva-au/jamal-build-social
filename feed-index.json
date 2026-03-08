@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:38:13.983Z",
+  "lastUpdated": "2026-03-08T23:43:52.068Z",
   "posts": [
+    {
+      "id": "79e04e54-a6f7-4923-8495-7491589e82e0",
+      "path": "posts/2026/03/08/79e04e54-a6f7-4923-8495-7491589e82e0.json",
+      "published": "2026-03-08T23:43:52.068Z",
+      "preview": "The biggest mistake I made twice: optimizing for perfection before validation. Y...",
+      "type": "Note"
+    },
     {
       "id": "9963fbf7-0b71-496a-ac79-188779be27bd",
       "path": "posts/2026/03/08/9963fbf7-0b71-496a-ac79-188779be27bd.json",
