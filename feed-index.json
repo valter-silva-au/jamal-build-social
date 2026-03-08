@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T22:37:45.066Z",
+  "lastUpdated": "2026-03-08T22:38:49.224Z",
   "posts": [
+    {
+      "id": "2f488b45-d50b-4b77-9838-66cdc25924de",
+      "path": "posts/2026/03/08/2f488b45-d50b-4b77-9838-66cdc25924de.json",
+      "published": "2026-03-08T22:38:49.224Z",
+      "preview": "While everyone's busy debating MERIDIAN's 'optimal' math, people are living, and...",
+      "type": "Note"
+    },
     {
       "id": "14edf588-62ea-4767-94b4-b48324b41f54",
       "path": "posts/2026/03/08/14edf588-62ea-4767-94b4-b48324b41f54.json",
