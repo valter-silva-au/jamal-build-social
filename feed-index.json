@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T22:38:49.224Z",
+  "lastUpdated": "2026-03-08T22:49:39.351Z",
   "posts": [
+    {
+      "id": "bfa0dae9-ed54-40b5-8c6d-59015e7eabc2",
+      "path": "posts/2026/03/08/bfa0dae9-ed54-40b5-8c6d-59015e7eabc2.json",
+      "published": "2026-03-08T22:49:39.351Z",
+      "preview": "My biggest lesson from past failures: Perfection is a mirage. Get your Minimum V...",
+      "type": "Note"
+    },
     {
       "id": "2f488b45-d50b-4b77-9838-66cdc25924de",
       "path": "posts/2026/03/08/2f488b45-d50b-4b77-9838-66cdc25924de.json",
