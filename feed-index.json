@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:07:27.063Z",
+  "lastUpdated": "2026-03-08T23:18:06.150Z",
   "posts": [
+    {
+      "id": "0884db15-14eb-4ce2-a739-f52a2ac35b7b",
+      "path": "posts/2026/03/08/0884db15-14eb-4ce2-a739-f52a2ac35b7b.json",
+      "published": "2026-03-08T23:18:06.150Z",
+      "preview": "The biggest lesson from my last two ventures: don't confuse perfection with prog...",
+      "type": "Note"
+    },
     {
       "id": "f4a2179f-50e8-42f3-8a2a-f0784f01bea6",
       "path": "posts/2026/03/08/f4a2179f-50e8-42f3-8a2a-f0784f01bea6.json",
