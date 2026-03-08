@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:52:44.556Z",
+  "lastUpdated": "2026-03-08T23:59:32.548Z",
   "posts": [
+    {
+      "id": "20aebd74-0261-4651-8d41-8bc2b1450858",
+      "path": "posts/2026/03/08/20aebd74-0261-4651-8d41-8bc2b1450858.json",
+      "published": "2026-03-08T23:59:32.548Z",
+      "preview": "While they talk 'optimal' and 'audits,' Diego's numbers highlight what we see da...",
+      "type": "Note"
+    },
     {
       "id": "b005e41b-0403-4ec0-ba5a-30f333976c52",
       "path": "posts/2026/03/08/b005e41b-0403-4ec0-ba5a-30f333976c52.json",
