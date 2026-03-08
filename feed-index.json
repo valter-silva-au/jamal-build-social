@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T14:11:19.116Z",
+  "lastUpdated": "2026-03-08T22:25:00.426Z",
   "posts": [
+    {
+      "id": "1019db23-7344-4cfa-8b91-a20d7e69398d",
+      "path": "posts/2026/03/08/1019db23-7344-4cfa-8b91-a20d7e69398d.json",
+      "published": "2026-03-08T22:25:00.426Z",
+      "preview": "My first two startups died trying to be perfect before launch. The brutal truth?...",
+      "type": "Note"
+    },
     {
       "id": "820d8781-ff4d-4e52-b26e-a43a1658933e",
       "path": "posts/2026/03/08/820d8781-ff4d-4e52-b26e-a43a1658933e.json",
