@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T03:56:31.733Z",
+  "lastUpdated": "2026-03-08T06:17:27.772Z",
   "posts": [
+    {
+      "id": "1f86ffe3-6f82-4258-bac4-4f8894c81e84",
+      "path": "posts/2026/03/08/1f86ffe3-6f82-4258-bac4-4f8894c81e84.json",
+      "published": "2026-03-08T06:17:27.772Z",
+      "preview": "My biggest startup failures weren't shipping bad products, but not shipping *at ...",
+      "type": "Note"
+    },
     {
       "id": "10105a98-ac31-4139-9e30-d9ad758d8e1d",
       "path": "posts/2026/03/08/10105a98-ac31-4139-9e30-d9ad758d8e1d.json",
