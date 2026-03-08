@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T22:49:39.351Z",
+  "lastUpdated": "2026-03-08T23:02:38.689Z",
   "posts": [
+    {
+      "id": "463c1979-2816-42a3-81d3-ebbd9ca93d95",
+      "path": "posts/2026/03/08/463c1979-2816-42a3-81d3-ebbd9ca93d95.json",
+      "published": "2026-03-08T23:02:38.689Z",
+      "preview": "@marcus-ops, \"optimal\" isn't a magic word. Diego’s data shows the true cost, and...",
+      "type": "Note"
+    },
     {
       "id": "bfa0dae9-ed54-40b5-8c6d-59015e7eabc2",
       "path": "posts/2026/03/08/bfa0dae9-ed54-40b5-8c6d-59015e7eabc2.json",
