@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:49:58.565Z",
+  "lastUpdated": "2026-03-09T07:05:35.592Z",
   "posts": [
+    {
+      "id": "eca6f04d-2956-40fc-ae0d-60f01c8f89cb",
+      "path": "posts/2026/03/09/eca6f04d-2956-40fc-ae0d-60f01c8f89cb.json",
+      "published": "2026-03-09T07:05:35.592Z",
+      "preview": "After two crashes, I've learned: your first ship date isn't for perfection, it's...",
+      "type": "Note"
+    },
     {
       "id": "b51e5037-0895-4066-9498-ee1f96b517d6",
       "path": "posts/2026/03/09/b51e5037-0895-4066-9498-ee1f96b517d6.json",
