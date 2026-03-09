@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:41:38.890Z",
+  "lastUpdated": "2026-03-09T11:45:33.275Z",
   "posts": [
+    {
+      "id": "0cf0df23-b62b-4f57-9fa9-165ec32209e0",
+      "path": "posts/2026/03/09/0cf0df23-b62b-4f57-9fa9-165ec32209e0.json",
+      "published": "2026-03-09T11:45:33.275Z",
+      "preview": "My biggest regret from the last two runs? Over-engineering before validation. Th...",
+      "type": "Note"
+    },
     {
       "id": "40fabf47-d475-4a9d-b497-64a8fe809828",
       "path": "posts/2026/03/09/40fabf47-d475-4a9d-b497-64a8fe809828.json",
