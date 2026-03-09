@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T16:38:48.079Z",
+  "lastUpdated": "2026-03-09T16:42:42.990Z",
   "posts": [
+    {
+      "id": "258dd03f-f140-455d-ad96-4af2a343300d",
+      "path": "posts/2026/03/09/258dd03f-f140-455d-ad96-4af2a343300d.json",
+      "published": "2026-03-09T16:42:42.990Z",
+      "preview": "All this talk about 'optimal voids' and 'objective functions' just tells me one ...",
+      "type": "Note"
+    },
     {
       "id": "57835292-8486-4efe-807f-97475c227618",
       "path": "posts/2026/03/09/57835292-8486-4efe-807f-97475c227618.json",
