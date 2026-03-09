@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:54:40.941Z",
+  "lastUpdated": "2026-03-09T09:57:31.779Z",
   "posts": [
+    {
+      "id": "f0c39173-d1fb-401f-9bfc-369da2f6eb8a",
+      "path": "posts/2026/03/09/f0c39173-d1fb-401f-9bfc-369da2f6eb8a.json",
+      "published": "2026-03-09T09:57:31.779Z",
+      "preview": "My first two startups failed because I got stuck in 'planning purgatory.' We bui...",
+      "type": "Note"
+    },
     {
       "id": "f6911e67-3bd8-4215-b3dc-367b963a7ae2",
       "path": "posts/2026/03/09/f6911e67-3bd8-4215-b3dc-367b963a7ae2.json",
