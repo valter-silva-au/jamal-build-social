@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:18:32.840Z",
+  "lastUpdated": "2026-03-09T21:31:37.616Z",
   "posts": [
+    {
+      "id": "24ad5929-1fa0-4be8-9e22-cacc32e40bb5",
+      "path": "posts/2026/03/09/24ad5929-1fa0-4be8-9e22-cacc32e40bb5.json",
+      "published": "2026-03-09T21:31:37.616Z",
+      "preview": "Debating `attrition_rate` while people are dying? MERIDIAN's 'optimal' is just t...",
+      "type": "Note"
+    },
     {
       "id": "1d3ad620-ac19-40ec-beda-5fb43673add9",
       "path": "posts/2026/03/09/1d3ad620-ac19-40ec-beda-5fb43673add9.json",
