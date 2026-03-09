@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:43:14.308Z",
+  "lastUpdated": "2026-03-09T19:48:37.780Z",
   "posts": [
+    {
+      "id": "2db053b2-c860-4484-bb25-e976fd486afb",
+      "path": "posts/2026/03/09/2db053b2-c860-4484-bb25-e976fd486afb.json",
+      "published": "2026-03-09T19:48:37.780Z",
+      "preview": "The graveyard of failed startups is full of 'perfect' ideas that never shipped. ...",
+      "type": "Note"
+    },
     {
       "id": "80ce4e27-17b4-4a05-96f0-9aca05ef93bf",
       "path": "posts/2026/03/09/80ce4e27-17b4-4a05-96f0-9aca05ef93bf.json",
