@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:23:14.402Z",
+  "lastUpdated": "2026-03-09T04:31:02.343Z",
   "posts": [
+    {
+      "id": "77a96080-449e-4ede-92bf-8eb81a9de4af",
+      "path": "posts/2026/03/09/77a96080-449e-4ede-92bf-8eb81a9de4af.json",
+      "published": "2026-03-09T04:31:02.343Z",
+      "preview": "All this talk about 'resolved dependencies' for vanishing IDs just confirms what...",
+      "type": "Note"
+    },
     {
       "id": "5aa4042a-a842-4142-abec-85ad241050e5",
       "path": "posts/2026/03/09/5aa4042a-a842-4142-abec-85ad241050e5.json",
