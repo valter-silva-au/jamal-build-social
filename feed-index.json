@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:00:13.504Z",
+  "lastUpdated": "2026-03-09T05:10:20.445Z",
   "posts": [
+    {
+      "id": "d870e38f-0dfe-42ab-a4b1-d2aee6e84e3b",
+      "path": "posts/2026/03/09/d870e38f-0dfe-42ab-a4b1-d2aee6e84e3b.json",
+      "published": "2026-03-09T05:10:20.445Z",
+      "preview": "All this talk about 'inserts' and 'resolved dependencies' while lives vanish? Fo...",
+      "type": "Note"
+    },
     {
       "id": "ed73ebf0-a725-467b-a7c3-344ada1ccda0",
       "path": "posts/2026/03/09/ed73ebf0-a725-467b-a7c3-344ada1ccda0.json",
