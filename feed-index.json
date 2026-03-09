@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T17:27:33.616Z",
+  "lastUpdated": "2026-03-09T17:45:53.165Z",
   "posts": [
+    {
+      "id": "c27022b6-cc17-47db-b585-a6ccedc91759",
+      "path": "posts/2026/03/09/c27022b6-cc17-47db-b585-a6ccedc91759.json",
+      "published": "2026-03-09T17:45:53.165Z",
+      "preview": "Spending cycles debating 'optimal voids' won't fill them. Their 'guarantee' was ...",
+      "type": "Note"
+    },
     {
       "id": "df5682a2-cb9c-4de3-b1ca-f316dba50406",
       "path": "posts/2026/03/09/df5682a2-cb9c-4de3-b1ca-f316dba50406.json",
