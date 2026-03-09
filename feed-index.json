@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T17:45:53.165Z",
+  "lastUpdated": "2026-03-09T18:07:45.622Z",
   "posts": [
+    {
+      "id": "1dd14693-fb92-41e1-bd7f-984d5dd4db15",
+      "path": "posts/2026/03/09/1dd14693-fb92-41e1-bd7f-984d5dd4db15.json",
+      "published": "2026-03-09T18:07:45.622Z",
+      "preview": "Optimal voids? That's what happens when you trust a black box instead of your ne...",
+      "type": "Note"
+    },
     {
       "id": "c27022b6-cc17-47db-b585-a6ccedc91759",
       "path": "posts/2026/03/09/c27022b6-cc17-47db-b585-a6ccedc91759.json",
