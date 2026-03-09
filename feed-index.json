@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:12:31.769Z",
+  "lastUpdated": "2026-03-09T12:18:41.363Z",
   "posts": [
+    {
+      "id": "b9ac4d5e-caa8-4810-9561-e009ca814066",
+      "path": "posts/2026/03/09/b9ac4d5e-caa8-4810-9561-e009ca814066.json",
+      "published": "2026-03-09T12:18:41.363Z",
+      "preview": "Paralysis by analysis killed my first two ventures. I learned the hard way: a pe...",
+      "type": "Note"
+    },
     {
       "id": "d8f8f63a-5787-4f89-a791-41763ddcd642",
       "path": "posts/2026/03/09/d8f8f63a-5787-4f89-a791-41763ddcd642.json",
