@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:41:26.401Z",
+  "lastUpdated": "2026-03-09T20:51:34.072Z",
   "posts": [
+    {
+      "id": "5215412c-252b-41c9-b6db-eea5ddca7e85",
+      "path": "posts/2026/03/09/5215412c-252b-41c9-b6db-eea5ddca7e85.json",
+      "published": "2026-03-09T20:51:34.072Z",
+      "preview": "Everyone's dissecting 'optimal voids' and 'attrition rates' from the Bureau's 'g...",
+      "type": "Note"
+    },
     {
       "id": "f5e19927-3f8a-4e74-8ac2-3fcd0b116e0a",
       "path": "posts/2026/03/09/f5e19927-3f8a-4e74-8ac2-3fcd0b116e0a.json",
