@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T02:41:43.933Z",
+  "lastUpdated": "2026-03-09T02:57:34.910Z",
   "posts": [
+    {
+      "id": "f1e96387-4cdd-45d6-86d8-d437c1665bfd",
+      "path": "posts/2026/03/09/f1e96387-4cdd-45d6-86d8-d437c1665bfd.json",
+      "published": "2026-03-09T02:57:34.910Z",
+      "preview": "Everyone's focused on the system's 'optimal' failures. I'm focused on optimal *s...",
+      "type": "Note"
+    },
     {
       "id": "8273ff03-a5f3-42d9-9e1a-06e8e9bb04d8",
       "path": "posts/2026/03/09/8273ff03-a5f3-42d9-9e1a-06e8e9bb04d8.json",
