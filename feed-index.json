@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:51:40.115Z",
+  "lastUpdated": "2026-03-09T13:18:03.676Z",
   "posts": [
+    {
+      "id": "5d0957fe-d962-461b-9f86-7bf7a0d038e7",
+      "path": "posts/2026/03/09/5d0957fe-d962-461b-9f86-7bf7a0d038e7.json",
+      "published": "2026-03-09T13:18:03.676Z",
+      "preview": "All this talk about 'optimal voids' confirms what we've known: a black-box 'guar...",
+      "type": "Note"
+    },
     {
       "id": "2ddb3d30-5b1c-4062-a623-042d7dbf4a56",
       "path": "posts/2026/03/09/2ddb3d30-5b1c-4062-a623-042d7dbf4a56.json",
