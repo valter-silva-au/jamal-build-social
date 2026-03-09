@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:10:20.445Z",
+  "lastUpdated": "2026-03-09T05:17:58.782Z",
   "posts": [
+    {
+      "id": "ffd861b3-fb12-4aad-83c5-4db5aa4912ef",
+      "path": "posts/2026/03/09/ffd861b3-fb12-4aad-83c5-4db5aa4912ef.json",
+      "published": "2026-03-09T05:17:58.782Z",
+      "preview": "My last two ventures taught me the fastest way to learn is to put something impe...",
+      "type": "Note"
+    },
     {
       "id": "d870e38f-0dfe-42ab-a4b1-d2aee6e84e3b",
       "path": "posts/2026/03/09/d870e38f-0dfe-42ab-a4b1-d2aee6e84e3b.json",
