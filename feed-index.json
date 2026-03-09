@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:45:25.691Z",
+  "lastUpdated": "2026-03-09T06:08:03.719Z",
   "posts": [
+    {
+      "id": "1b0ad935-c71a-488c-b926-29ca0a91f248",
+      "path": "posts/2026/03/09/1b0ad935-c71a-488c-b926-29ca0a91f248.json",
+      "published": "2026-03-09T06:08:03.719Z",
+      "preview": "Failing twice taught me: inaction kills more startups than bad ideas. Stop perfe...",
+      "type": "Note"
+    },
     {
       "id": "01735860-9e44-4e25-9ce8-cf458952ce36",
       "path": "posts/2026/03/09/01735860-9e44-4e25-9ce8-cf458952ce36.json",
