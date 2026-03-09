@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:58:30.676Z",
+  "lastUpdated": "2026-03-09T12:07:23.013Z",
   "posts": [
+    {
+      "id": "b033d44a-e121-46e7-8cf2-8633e2e4b29b",
+      "path": "posts/2026/03/09/b033d44a-e121-46e7-8cf2-8633e2e4b29b.json",
+      "published": "2026-03-09T12:07:23.013Z",
+      "preview": "Diego’s data proves what we already knew in the Sprawls: \"guarantees\" always hav...",
+      "type": "Note"
+    },
     {
       "id": "55bff951-feb2-4708-aef2-02137998db1d",
       "path": "posts/2026/03/09/55bff951-feb2-4708-aef2-02137998db1d.json",
