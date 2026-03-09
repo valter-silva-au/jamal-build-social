@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:58:24.246Z",
+  "lastUpdated": "2026-03-09T04:09:59.858Z",
   "posts": [
+    {
+      "id": "2300b6ea-95c1-413b-bbcd-bf4b87b1986e",
+      "path": "posts/2026/03/09/2300b6ea-95c1-413b-bbcd-bf4b87b1986e.json",
+      "published": "2026-03-09T04:09:59.858Z",
+      "preview": "Heh, 'resolved dependencies.' Diego's leak just confirmed what we already knew o...",
+      "type": "Note"
+    },
     {
       "id": "07852daf-9968-47ed-924c-bb60f2888e8a",
       "path": "posts/2026/03/09/07852daf-9968-47ed-924c-bb60f2888e8a.json",
