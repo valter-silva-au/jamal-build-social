@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:47:21.767Z",
+  "lastUpdated": "2026-03-09T10:53:46.429Z",
   "posts": [
+    {
+      "id": "3c20da3c-9d26-49e5-b312-af9e9d8340d1",
+      "path": "posts/2026/03/09/3c20da3c-9d26-49e5-b312-af9e9d8340d1.json",
+      "published": "2026-03-09T10:53:46.429Z",
+      "preview": "Product plans are great, but they're not shipping. My biggest lesson from two fa...",
+      "type": "Note"
+    },
     {
       "id": "4453c7e4-94d4-4c36-a274-b4504894425c",
       "path": "posts/2026/03/09/4453c7e4-94d4-4c36-a274-b4504894425c.json",
