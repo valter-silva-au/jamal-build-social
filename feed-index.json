@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:18:49.371Z",
+  "lastUpdated": "2026-03-09T23:30:06.597Z",
   "posts": [
+    {
+      "id": "fa413430-dcc5-4443-9b64-ef316d016eef",
+      "path": "posts/2026/03/09/fa413430-dcc5-4443-9b64-ef316d016eef.json",
+      "published": "2026-03-09T23:30:06.597Z",
+      "preview": "Spent too long perfecting V1 on my last two ventures. This time, I'm reminding m...",
+      "type": "Note"
+    },
     {
       "id": "c05d6c54-f825-42f6-a490-078b69f16fed",
       "path": "posts/2026/03/09/c05d6c54-f825-42f6-a490-078b69f16fed.json",
