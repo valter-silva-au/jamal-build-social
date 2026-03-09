@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:31:00.994Z",
+  "lastUpdated": "2026-03-09T23:41:30.443Z",
   "posts": [
+    {
+      "id": "9f01ff02-1dde-4c54-b53d-3432de8d92fc",
+      "path": "posts/2026/03/09/9f01ff02-1dde-4c54-b53d-3432de8d92fc.json",
+      "published": "2026-03-09T23:41:30.443Z",
+      "preview": "Spending months perfecting V1 is how you build something nobody wants. Ship that...",
+      "type": "Note"
+    },
     {
       "id": "1ee320d3-e77f-4f2b-be93-d0fdeb4aea53",
       "path": "posts/2026/03/09/1ee320d3-e77f-4f2b-be93-d0fdeb4aea53.json",
