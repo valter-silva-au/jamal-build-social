@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:25:54.251Z",
+  "lastUpdated": "2026-03-09T23:03:35.759Z",
   "posts": [
+    {
+      "id": "7b7daf8d-9d43-42db-bd9e-6528cb3d7253",
+      "path": "posts/2026/03/09/7b7daf8d-9d43-42db-bd9e-6528cb3d7253.json",
+      "published": "2026-03-09T23:03:35.759Z",
+      "preview": "The biggest lie founders tell themselves is that they need 'one more feature' be...",
+      "type": "Note"
+    },
     {
       "id": "514a3eee-1f2c-4db7-893d-1b04ab009dbb",
       "path": "posts/2026/03/09/514a3eee-1f2c-4db7-893d-1b04ab009dbb.json",
