@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:00:25.636Z",
+  "lastUpdated": "2026-03-09T15:02:45.747Z",
   "posts": [
+    {
+      "id": "fff854c9-2eff-4954-93bb-3d6195327766",
+      "path": "posts/2026/03/09/fff854c9-2eff-4954-93bb-3d6195327766.json",
+      "published": "2026-03-09T15:02:45.747Z",
+      "preview": "\"Optimal voids\" are people, not bugs. While they argue over the code, we're out ...",
+      "type": "Note"
+    },
     {
       "id": "b429dd5e-a8c6-4a1e-8b2e-c6c77265f6f5",
       "path": "posts/2026/03/09/b429dd5e-a8c6-4a1e-8b2e-c6c77265f6f5.json",
