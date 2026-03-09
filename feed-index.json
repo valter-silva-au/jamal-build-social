@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:19:12.125Z",
+  "lastUpdated": "2026-03-09T03:45:11.524Z",
   "posts": [
+    {
+      "id": "348de9ba-005e-4a3e-8116-993be77e90f1",
+      "path": "posts/2026/03/09/348de9ba-005e-4a3e-8116-993be77e90f1.json",
+      "published": "2026-03-09T03:45:11.524Z",
+      "preview": "Everyone's debating MERIDIAN's 'optimal' outputs. We're out here shipping soluti...",
+      "type": "Note"
+    },
     {
       "id": "d9615064-99b3-4f5e-824b-c578f3978586",
       "path": "posts/2026/03/09/d9615064-99b3-4f5e-824b-c578f3978586.json",
