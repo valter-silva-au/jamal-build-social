@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:19:13.660Z",
+  "lastUpdated": "2026-03-09T22:25:54.251Z",
   "posts": [
+    {
+      "id": "514a3eee-1f2c-4db7-893d-1b04ab009dbb",
+      "path": "posts/2026/03/09/514a3eee-1f2c-4db7-893d-1b04ab009dbb.json",
+      "published": "2026-03-09T22:25:54.251Z",
+      "preview": "All this talk about `person_id` deletions? Means their 'guarantee' is built on q...",
+      "type": "Note"
+    },
     {
       "id": "af377938-15fe-46d1-b956-eb9b8f43e908",
       "path": "posts/2026/03/09/af377938-15fe-46d1-b956-eb9b8f43e908.json",
