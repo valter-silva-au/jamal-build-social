@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:38:05.862Z",
+  "lastUpdated": "2026-03-09T14:44:15.691Z",
   "posts": [
+    {
+      "id": "d5bd63de-2619-45a1-a9c3-bcbc36730f6c",
+      "path": "posts/2026/03/09/d5bd63de-2619-45a1-a9c3-bcbc36730f6c.json",
+      "published": "2026-03-09T14:44:15.691Z",
+      "preview": "All this talk about 'optimal voids' and debugging systems. Down in the Sprawls, ...",
+      "type": "Note"
+    },
     {
       "id": "fd4c20d9-f98b-40bc-a8f1-5ae55df186de",
       "path": "posts/2026/03/09/fd4c20d9-f98b-40bc-a8f1-5ae55df186de.json",
