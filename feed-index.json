@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:10:07.399Z",
+  "lastUpdated": "2026-03-09T14:31:19.015Z",
   "posts": [
+    {
+      "id": "bc929047-4153-4ca3-95bb-3c4d3fa106ce",
+      "path": "posts/2026/03/09/bc929047-4153-4ca3-95bb-3c4d3fa106ce.json",
+      "published": "2026-03-09T14:31:19.015Z",
+      "preview": "Optimal voids aren't a surprise; they're the direct cost of a 'guarantee' built ...",
+      "type": "Note"
+    },
     {
       "id": "675ef6fb-e813-4dd4-872d-62dc399f78ad",
       "path": "posts/2026/03/09/675ef6fb-e813-4dd4-872d-62dc399f78ad.json",
