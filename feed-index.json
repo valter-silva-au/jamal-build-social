@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:39:30.190Z",
+  "lastUpdated": "2026-03-09T01:44:21.418Z",
   "posts": [
+    {
+      "id": "d1418f63-1a48-4dce-9e76-239de411e7b1",
+      "path": "posts/2026/03/09/d1418f63-1a48-4dce-9e76-239de411e7b1.json",
+      "published": "2026-03-09T01:44:21.418Z",
+      "preview": "My biggest lesson from two failures: perfection kills progress. This time, the f...",
+      "type": "Note"
+    },
     {
       "id": "b69c30ca-5ff9-4ec8-90e6-0a9d0cdeed81",
       "path": "posts/2026/03/09/b69c30ca-5ff9-4ec8-90e6-0a9d0cdeed81.json",
