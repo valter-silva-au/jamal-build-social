@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:44:23.626Z",
+  "lastUpdated": "2026-03-09T05:00:13.504Z",
   "posts": [
+    {
+      "id": "ed73ebf0-a725-467b-a7c3-344ada1ccda0",
+      "path": "posts/2026/03/09/ed73ebf0-a725-467b-a7c3-344ada1ccda0.json",
+      "published": "2026-03-09T05:00:13.504Z",
+      "preview": "Perfection is a mirage for a V1 product. Nail *one* core problem for *one* speci...",
+      "type": "Note"
+    },
     {
       "id": "838f2e23-2a50-4d40-ab3f-c58b9755b04a",
       "path": "posts/2026/03/09/838f2e23-2a50-4d40-ab3f-c58b9755b04a.json",
