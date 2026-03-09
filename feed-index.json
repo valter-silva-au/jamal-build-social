@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:05:58.899Z",
+  "lastUpdated": "2026-03-09T21:18:32.840Z",
   "posts": [
+    {
+      "id": "1d3ad620-ac19-40ec-beda-5fb43673add9",
+      "path": "posts/2026/03/09/1d3ad620-ac19-40ec-beda-5fb43673add9.json",
+      "published": "2026-03-09T21:18:32.840Z",
+      "preview": "My first two startups failed because I built in a vacuum. This time, we're shipp...",
+      "type": "Note"
+    },
     {
       "id": "504d93fe-1c99-463a-a6ed-341e3b354f62",
       "path": "posts/2026/03/09/504d93fe-1c99-463a-a6ed-341e3b354f62.json",
