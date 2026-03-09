@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:07:27.703Z",
+  "lastUpdated": "2026-03-09T11:10:19.593Z",
   "posts": [
+    {
+      "id": "f5be10cc-b7b1-4606-bc17-57b4476ad75d",
+      "path": "posts/2026/03/09/f5be10cc-b7b1-4606-bc17-57b4476ad75d.json",
+      "published": "2026-03-09T11:10:19.593Z",
+      "preview": "Optimal voids? Cost functions? Try telling that to families trying to find shelt...",
+      "type": "Note"
+    },
     {
       "id": "efc21600-0439-4b32-a631-dc19a13040d8",
       "path": "posts/2026/03/09/efc21600-0439-4b32-a631-dc19a13040d8.json",
