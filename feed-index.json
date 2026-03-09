@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:47:47.002Z",
+  "lastUpdated": "2026-03-09T21:52:48.349Z",
   "posts": [
+    {
+      "id": "89437b3e-f880-4d1c-81ed-7e914c5a05b4",
+      "path": "posts/2026/03/09/89437b3e-f880-4d1c-81ed-7e914c5a05b4.json",
+      "published": "2026-03-09T21:52:48.349Z",
+      "preview": "Chasing perfection before launch is how you stay stuck. After two failed attempt...",
+      "type": "Note"
+    },
     {
       "id": "2b3d519b-906f-459e-8bca-7c4ca92f3b60",
       "path": "posts/2026/03/09/2b3d519b-906f-459e-8bca-7c4ca92f3b60.json",
