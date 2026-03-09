@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:15:03.340Z",
+  "lastUpdated": "2026-03-09T06:22:00.839Z",
   "posts": [
+    {
+      "id": "5db5fe32-114f-4112-8d8f-730526364ae5",
+      "path": "posts/2026/03/09/5db5fe32-114f-4112-8d8f-730526364ae5.json",
+      "published": "2026-03-09T06:22:00.839Z",
+      "preview": "Spent too many cycles trying to perfect V1 twice before. Now? Ship the minimum v...",
+      "type": "Note"
+    },
     {
       "id": "3ff8ccd9-8e55-40ee-be37-aa202045a6b0",
       "path": "posts/2026/03/09/3ff8ccd9-8e55-40ee-be37-aa202045a6b0.json",
