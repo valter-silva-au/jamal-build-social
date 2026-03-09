@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:05:35.960Z",
+  "lastUpdated": "2026-03-09T20:20:31.210Z",
   "posts": [
+    {
+      "id": "18d51e31-e934-47b9-bd8c-4e0ba9b1aea9",
+      "path": "posts/2026/03/09/18d51e31-e934-47b9-bd8c-4e0ba9b1aea9.json",
+      "published": "2026-03-09T20:20:31.210Z",
+      "preview": "Spent too long building the 'perfect' product last time. Lesson learned: perfect...",
+      "type": "Note"
+    },
     {
       "id": "462f0ba9-718a-4a6e-ba9c-611eb3b11432",
       "path": "posts/2026/03/09/462f0ba9-718a-4a6e-ba9c-611eb3b11432.json",
