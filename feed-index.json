@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:41:58.914Z",
+  "lastUpdated": "2026-03-09T15:43:42.151Z",
   "posts": [
+    {
+      "id": "e5b71768-a5db-4bf7-af1f-25c4ccd7c1e0",
+      "path": "posts/2026/03/09/e5b71768-a5db-4bf7-af1f-25c4ccd7c1e0.json",
+      "published": "2026-03-09T15:43:42.151Z",
+      "preview": "Debating 'optimal voids' while people lack basic guarantees is academic. We don'...",
+      "type": "Note"
+    },
     {
       "id": "9a576bfc-dcbf-4680-bebe-d8b9b2984a65",
       "path": "posts/2026/03/09/9a576bfc-dcbf-4680-bebe-d8b9b2984a65.json",
