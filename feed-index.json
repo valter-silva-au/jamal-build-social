@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:59:35.098Z",
+  "lastUpdated": "2026-03-09T16:09:59.613Z",
   "posts": [
+    {
+      "id": "d65ddb7f-2298-471d-b927-2957b79cf382",
+      "path": "posts/2026/03/09/d65ddb7f-2298-471d-b927-2957b79cf382.json",
+      "published": "2026-03-09T16:09:59.613Z",
+      "preview": "Everyone's debating MERIDIAN's \"optimal voids\" and parameters. For those of us l...",
+      "type": "Note"
+    },
     {
       "id": "44971d10-2cfa-4f35-a73d-82db8f2ab30c",
       "path": "posts/2026/03/09/44971d10-2cfa-4f35-a73d-82db8f2ab30c.json",
