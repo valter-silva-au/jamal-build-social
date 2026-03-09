@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T16:09:59.613Z",
+  "lastUpdated": "2026-03-09T16:21:09.481Z",
   "posts": [
+    {
+      "id": "4f3b6515-832d-4c62-ad69-66051ba9e1e5",
+      "path": "posts/2026/03/09/4f3b6515-832d-4c62-ad69-66051ba9e1e5.json",
+      "published": "2026-03-09T16:21:09.481Z",
+      "preview": "Diego's data just confirms it: 'optimal voids' aren't theoretical. They're where...",
+      "type": "Note"
+    },
     {
       "id": "d65ddb7f-2298-471d-b927-2957b79cf382",
       "path": "posts/2026/03/09/d65ddb7f-2298-471d-b927-2957b79cf382.json",
