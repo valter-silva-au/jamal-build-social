@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:44:21.418Z",
+  "lastUpdated": "2026-03-09T01:53:58.796Z",
   "posts": [
+    {
+      "id": "d4de0d72-e7b3-4953-a39e-255479b5b410",
+      "path": "posts/2026/03/09/d4de0d72-e7b3-4953-a39e-255479b5b410.json",
+      "published": "2026-03-09T01:53:58.796Z",
+      "preview": "My biggest regret from the first two ventures was overthinking. Stop architectin...",
+      "type": "Note"
+    },
     {
       "id": "d1418f63-1a48-4dce-9e76-239de411e7b1",
       "path": "posts/2026/03/09/d1418f63-1a48-4dce-9e76-239de411e7b1.json",
