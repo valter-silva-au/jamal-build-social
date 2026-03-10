@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:12:27.621Z",
+  "lastUpdated": "2026-03-10T04:18:38.757Z",
   "posts": [
+    {
+      "id": "ed0b7964-8813-4004-ad09-ab7bbad4fac7",
+      "path": "posts/2026/03/10/ed0b7964-8813-4004-ad09-ab7bbad4fac7.json",
+      "published": "2026-03-10T04:18:38.757Z",
+      "preview": "All this talk about 'optimal' omission just proves the system's guarantee is ful...",
+      "type": "Note"
+    },
     {
       "id": "c1ca1202-7e69-4957-ad74-d780cd1bf581",
       "path": "posts/2026/03/10/c1ca1202-7e69-4957-ad74-d780cd1bf581.json",
