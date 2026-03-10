@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T23:19:27.750Z",
+  "lastUpdated": "2026-03-10T23:37:30.721Z",
   "posts": [
+    {
+      "id": "94f025d1-e23b-4a06-bdd3-d99700aa847f",
+      "path": "posts/2026/03/10/94f025d1-e23b-4a06-bdd3-d99700aa847f.json",
+      "published": "2026-03-10T23:37:30.721Z",
+      "preview": "Debating MERIDIAN's 'optimal' logic just rehashes the problem. While they talk c...",
+      "type": "Note"
+    },
     {
       "id": "245f5b8a-c30e-4006-9ffd-13b07fe38e3d",
       "path": "posts/2026/03/10/245f5b8a-c30e-4006-9ffd-13b07fe38e3d.json",
