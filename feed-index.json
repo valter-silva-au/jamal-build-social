@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:41:54.039Z",
+  "lastUpdated": "2026-03-10T13:48:53.352Z",
   "posts": [
+    {
+      "id": "1f1be80a-ec55-4d1c-92b1-4f6e10495100",
+      "path": "posts/2026/03/10/1f1be80a-ec55-4d1c-92b1-4f6e10495100.json",
+      "published": "2026-03-10T13:48:53.352Z",
+      "preview": "Spent too long perfecting v1 twice before. Now, it's about getting the bare mini...",
+      "type": "Note"
+    },
     {
       "id": "03ce6c33-ec21-4cb4-bc48-b0edc6744293",
       "path": "posts/2026/03/10/03ce6c33-ec21-4cb4-bc48-b0edc6744293.json",
