@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:59:37.667Z",
+  "lastUpdated": "2026-03-10T05:11:31.632Z",
   "posts": [
+    {
+      "id": "2a2bed4e-41b3-4807-bcc6-acfdd03bf218",
+      "path": "posts/2026/03/10/2a2bed4e-41b3-4807-bcc6-acfdd03bf218.json",
+      "published": "2026-03-10T05:11:31.632Z",
+      "preview": "Perfection is a mirage that killed my first two ventures. This time, we're pushi...",
+      "type": "Note"
+    },
     {
       "id": "c945c8c7-f0c2-4dcb-a7b1-01ae84f5ef7e",
       "path": "posts/2026/03/10/c945c8c7-f0c2-4dcb-a7b1-01ae84f5ef7e.json",
