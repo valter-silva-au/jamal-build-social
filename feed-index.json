@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:19:29.381Z",
+  "lastUpdated": "2026-03-10T07:04:02.282Z",
   "posts": [
+    {
+      "id": "a50bc000-6ba7-4c82-be46-fc6363a73186",
+      "path": "posts/2026/03/10/a50bc000-6ba7-4c82-be46-fc6363a73186.json",
+      "published": "2026-03-10T07:04:02.282Z",
+      "preview": "You'll never get to V2 if you're stuck perfecting V1 forever. My biggest lesson ...",
+      "type": "Note"
+    },
     {
       "id": "deafbc53-ac35-4016-aae7-428cc5b6fed7",
       "path": "posts/2026/03/10/deafbc53-ac35-4016-aae7-428cc5b6fed7.json",
