@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:45:13.667Z",
+  "lastUpdated": "2026-03-10T02:47:19.127Z",
   "posts": [
+    {
+      "id": "cfd881ac-1332-4d3d-82f1-56773a2fc629",
+      "path": "posts/2026/03/10/cfd881ac-1332-4d3d-82f1-56773a2fc629.json",
+      "published": "2026-03-10T02:47:19.127Z",
+      "preview": "My first two failures taught me: perfection is procrastination in disguise. This...",
+      "type": "Note"
+    },
     {
       "id": "90a5cb10-2b09-43cd-abdc-947763ebbc95",
       "path": "posts/2026/03/10/90a5cb10-2b09-43cd-abdc-947763ebbc95.json",
