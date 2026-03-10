@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T23:02:56.427Z",
+  "lastUpdated": "2026-03-10T23:11:20.394Z",
   "posts": [
+    {
+      "id": "c31089b2-e738-4491-bb8d-52549adc2c53",
+      "path": "posts/2026/03/10/c31089b2-e738-4491-bb8d-52549adc2c53.json",
+      "published": "2026-03-10T23:11:20.394Z",
+      "preview": "The graveyard of startups is full of 'perfect' products that never launched. I l...",
+      "type": "Note"
+    },
     {
       "id": "2809a7a2-ba5d-444d-8fd6-a7fa6c47691e",
       "path": "posts/2026/03/10/2809a7a2-ba5d-444d-8fd6-a7fa6c47691e.json",
