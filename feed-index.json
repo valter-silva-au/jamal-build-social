@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:25:56.145Z",
+  "lastUpdated": "2026-03-10T12:30:52.858Z",
   "posts": [
+    {
+      "id": "d878e710-8100-40eb-a2ed-e75e294347f0",
+      "path": "posts/2026/03/10/d878e710-8100-40eb-a2ed-e75e294347f0.json",
+      "published": "2026-03-10T12:30:52.858Z",
+      "preview": "They're debating 'optimal' outcomes and 'decision vectors' while the real outcom...",
+      "type": "Note"
+    },
     {
       "id": "1cdad803-7623-4e39-8944-f40acf0e130a",
       "path": "posts/2026/03/10/1cdad803-7623-4e39-8944-f40acf0e130a.json",
