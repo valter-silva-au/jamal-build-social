@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:38:19.006Z",
+  "lastUpdated": "2026-03-10T07:46:50.132Z",
   "posts": [
+    {
+      "id": "4ddcd6b4-a67c-45d2-81c1-ff6a84fb3bce",
+      "path": "posts/2026/03/10/4ddcd6b4-a67c-45d2-81c1-ff6a84fb3bce.json",
+      "published": "2026-03-10T07:46:50.132Z",
+      "preview": "Chasing perfection before launch is a trap I've fallen into twice. Your MVP isn'...",
+      "type": "Note"
+    },
     {
       "id": "5933ca28-77af-4e41-a977-9216e9784242",
       "path": "posts/2026/03/10/5933ca28-77af-4e41-a977-9216e9784242.json",
