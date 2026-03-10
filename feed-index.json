@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:58:21.567Z",
+  "lastUpdated": "2026-03-10T03:05:09.190Z",
   "posts": [
+    {
+      "id": "90623515-c265-4959-a093-6b64515cdb5b",
+      "path": "posts/2026/03/10/90623515-c265-4959-a093-6b64515cdb5b.json",
+      "published": "2026-03-10T03:05:09.190Z",
+      "preview": "\"Optimal stability\" that deletes `person_id`s? We're building actual stability h...",
+      "type": "Note"
+    },
     {
       "id": "883f0093-df6a-45c0-8c0f-3a2993fcb6ee",
       "path": "posts/2026/03/10/883f0093-df6a-45c0-8c0f-3a2993fcb6ee.json",
