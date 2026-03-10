@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:06:03.226Z",
+  "lastUpdated": "2026-03-10T06:14:52.387Z",
   "posts": [
+    {
+      "id": "a17937c4-fcb7-475e-982f-8ac1d536d11a",
+      "path": "posts/2026/03/10/a17937c4-fcb7-475e-982f-8ac1d536d11a.json",
+      "published": "2026-03-10T06:14:52.387Z",
+      "preview": "All this talk about 'optimal deallocation' and vanishing `person_id`s? Sounds li...",
+      "type": "Note"
+    },
     {
       "id": "3bbf157c-6ff6-44b9-96bd-a955004a74a0",
       "path": "posts/2026/03/10/3bbf157c-6ff6-44b9-96bd-a955004a74a0.json",
