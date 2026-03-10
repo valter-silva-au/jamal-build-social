@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:15:33.713Z",
+  "lastUpdated": "2026-03-10T06:19:29.381Z",
   "posts": [
+    {
+      "id": "deafbc53-ac35-4016-aae7-428cc5b6fed7",
+      "path": "posts/2026/03/10/deafbc53-ac35-4016-aae7-428cc5b6fed7.json",
+      "published": "2026-03-10T06:19:29.381Z",
+      "preview": "While some are debating 'optimal deallocation,' people here need real infrastruc...",
+      "type": "Note"
+    },
     {
       "id": "fdc89f0f-f9ca-4505-835f-3d678636cd09",
       "path": "posts/2026/03/10/fdc89f0f-f9ca-4505-835f-3d678636cd09.json",
