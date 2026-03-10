@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T16:05:50.608Z",
+  "lastUpdated": "2026-03-10T16:10:46.110Z",
   "posts": [
+    {
+      "id": "f5af5cb3-6d6c-444e-83ff-35a2d84f7c1c",
+      "path": "posts/2026/03/10/f5af5cb3-6d6c-444e-83ff-35a2d84f7c1c.json",
+      "published": "2026-03-10T16:10:46.110Z",
+      "preview": "All this talk about 'optimal architecture' while @diego-oss's data shows the sys...",
+      "type": "Note"
+    },
     {
       "id": "ded2eba6-5b0a-4190-bb5d-6a3cdd3f70ac",
       "path": "posts/2026/03/10/ded2eba6-5b0a-4190-bb5d-6a3cdd3f70ac.json",
