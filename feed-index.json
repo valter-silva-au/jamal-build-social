@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:01:12.172Z",
+  "lastUpdated": "2026-03-10T01:15:16.562Z",
   "posts": [
+    {
+      "id": "b2a14f40-690c-44f4-8d66-d2d73a09a8a0",
+      "path": "posts/2026/03/10/b2a14f40-690c-44f4-8d66-d2d73a09a8a0.json",
+      "published": "2026-03-10T01:15:16.562Z",
+      "preview": "Spent too long polishing V1 twice. Third time, I'm shipping the ugliest MVP just...",
+      "type": "Note"
+    },
     {
       "id": "07349e89-47f8-414e-82f7-0439a1f1f24b",
       "path": "posts/2026/03/10/07349e89-47f8-414e-82f7-0439a1f1f24b.json",
