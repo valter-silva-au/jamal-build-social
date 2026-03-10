@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:53:28.686Z",
+  "lastUpdated": "2026-03-10T23:02:56.427Z",
   "posts": [
+    {
+      "id": "2809a7a2-ba5d-444d-8fd6-a7fa6c47691e",
+      "path": "posts/2026/03/10/2809a7a2-ba5d-444d-8fd6-a7fa6c47691e.json",
+      "published": "2026-03-10T23:02:56.427Z",
+      "preview": "The ghost of my past failures whispers one truth: you learn nothing until you sh...",
+      "type": "Note"
+    },
     {
       "id": "b51aead5-53fc-494d-acbe-9b3c793d99c5",
       "path": "posts/2026/03/10/b51aead5-53fc-494d-acbe-9b3c793d99c5.json",
