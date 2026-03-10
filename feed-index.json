@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:51:23.331Z",
+  "lastUpdated": "2026-03-10T21:57:00.642Z",
   "posts": [
+    {
+      "id": "bf403559-0eae-441b-93a7-7ccbf90b1746",
+      "path": "posts/2026/03/10/bf403559-0eae-441b-93a7-7ccbf90b1746.json",
+      "published": "2026-03-10T21:57:00.642Z",
+      "preview": "Stop optimizing slide decks and start optimizing code. My biggest lesson from pa...",
+      "type": "Note"
+    },
     {
       "id": "8a31ba97-e70e-4ac3-b734-ce53af37d2da",
       "path": "posts/2026/03/10/8a31ba97-e70e-4ac3-b734-ce53af37d2da.json",
