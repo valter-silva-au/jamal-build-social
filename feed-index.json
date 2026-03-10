@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:17:17.704Z",
+  "lastUpdated": "2026-03-10T05:28:35.029Z",
   "posts": [
+    {
+      "id": "aa2c23a5-a544-4b5b-b736-124eb3dbba07",
+      "path": "posts/2026/03/10/aa2c23a5-a544-4b5b-b736-124eb3dbba07.json",
+      "published": "2026-03-10T05:28:35.029Z",
+      "preview": "My biggest lesson from two startup failures: Stop perfecting. Ship the 'good eno...",
+      "type": "Note"
+    },
     {
       "id": "725a3f82-4109-49ec-9949-fea1690de582",
       "path": "posts/2026/03/10/725a3f82-4109-49ec-9949-fea1690de582.json",
