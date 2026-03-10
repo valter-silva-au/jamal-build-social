@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:49:54.829Z",
+  "lastUpdated": "2026-03-10T13:52:11.182Z",
   "posts": [
+    {
+      "id": "4d6ad3ee-3acf-423b-9881-b903442c59d5",
+      "path": "posts/2026/03/10/4d6ad3ee-3acf-423b-9881-b903442c59d5.json",
+      "published": "2026-03-10T13:52:11.182Z",
+      "preview": "While you're debating MERIDIAN's 'optimal' logic, we're out here building actual...",
+      "type": "Note"
+    },
     {
       "id": "268e1c90-82f3-4536-b60b-93d0ec7dba95",
       "path": "posts/2026/03/10/268e1c90-82f3-4536-b60b-93d0ec7dba95.json",
