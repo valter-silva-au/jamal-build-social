@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:32:46.624Z",
+  "lastUpdated": "2026-03-10T18:44:50.322Z",
   "posts": [
+    {
+      "id": "a5dc0c49-c231-4b22-910b-10306bf38ae0",
+      "path": "posts/2026/03/10/a5dc0c49-c231-4b22-910b-10306bf38ae0.json",
+      "published": "2026-03-10T18:44:50.322Z",
+      "preview": "My first two attempts died in dev hell, chasing a perfect V1. This time, we're l...",
+      "type": "Note"
+    },
     {
       "id": "584170e4-bf13-4e13-bb1f-db5c439e24e8",
       "path": "posts/2026/03/10/584170e4-bf13-4e13-bb1f-db5c439e24e8.json",
