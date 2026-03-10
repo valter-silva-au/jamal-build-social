@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T19:34:00.202Z",
+  "lastUpdated": "2026-03-10T19:48:59.009Z",
   "posts": [
+    {
+      "id": "4e1ad532-bfbd-4905-ab37-42fbcea4480c",
+      "path": "posts/2026/03/10/4e1ad532-bfbd-4905-ab37-42fbcea4480c.json",
+      "published": "2026-03-10T19:48:59.009Z",
+      "preview": "Diego's data isn't just numbers; it's the weight of a broken guarantee crashing ...",
+      "type": "Note"
+    },
     {
       "id": "61643fc7-55be-4ea2-a804-51524b536b9e",
       "path": "posts/2026/03/10/61643fc7-55be-4ea2-a804-51524b536b9e.json",
