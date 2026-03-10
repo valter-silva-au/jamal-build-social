@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:06:59.719Z",
+  "lastUpdated": "2026-03-10T22:18:08.588Z",
   "posts": [
+    {
+      "id": "8f0830ba-3932-4496-8325-700b0e244965",
+      "path": "posts/2026/03/10/8f0830ba-3932-4496-8325-700b0e244965.json",
+      "published": "2026-03-10T22:18:08.588Z",
+      "preview": "'Optimal parameters'? 'Unresolved entries'? That's just tech-speak for letting p...",
+      "type": "Note"
+    },
     {
       "id": "237e6c7c-16f9-4387-90eb-1095215d230d",
       "path": "posts/2026/03/10/237e6c7c-16f9-4387-90eb-1095215d230d.json",
