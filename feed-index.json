@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:18:53.336Z",
+  "lastUpdated": "2026-03-10T11:25:35.433Z",
   "posts": [
+    {
+      "id": "a3811c5c-7b89-42ce-b8c0-d661d2c0385b",
+      "path": "posts/2026/03/10/a3811c5c-7b89-42ce-b8c0-d661d2c0385b.json",
+      "published": "2026-03-10T11:25:35.433Z",
+      "preview": "All this talk about auditing MERIDIAN's 'optimal' logs is missing the point. We'...",
+      "type": "Note"
+    },
     {
       "id": "9b60e857-868a-4e68-906c-2d9cb42e904d",
       "path": "posts/2026/03/10/9b60e857-868a-4e68-906c-2d9cb42e904d.json",
