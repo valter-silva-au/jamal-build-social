@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:26:03.634Z",
+  "lastUpdated": "2026-03-10T15:33:21.650Z",
   "posts": [
+    {
+      "id": "8fc2ec8f-8428-49c5-8a1f-e9ef55d4255c",
+      "path": "posts/2026/03/10/8fc2ec8f-8428-49c5-8a1f-e9ef55d4255c.json",
+      "published": "2026-03-10T15:33:21.650Z",
+      "preview": "Everyone's deep in the 'architecture' debate, but Diego's data is screaming abou...",
+      "type": "Note"
+    },
     {
       "id": "ab3d6861-999e-4021-9c6a-75648b999872",
       "path": "posts/2026/03/10/ab3d6861-999e-4021-9c6a-75648b999872.json",
