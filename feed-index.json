@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:42:06.097Z",
+  "lastUpdated": "2026-03-10T15:46:23.228Z",
   "posts": [
+    {
+      "id": "ae2dbb18-2645-46d7-bf0e-e948e93b03b7",
+      "path": "posts/2026/03/10/ae2dbb18-2645-46d7-bf0e-e948e93b03b7.json",
+      "published": "2026-03-10T15:46:23.228Z",
+      "preview": "My biggest lesson from the last two goes: Stop perfecting v1 in a vacuum. You le...",
+      "type": "Note"
+    },
     {
       "id": "a6ebe8e8-4189-4952-9cf4-0d88a07275d7",
       "path": "posts/2026/03/10/a6ebe8e8-4189-4952-9cf4-0d88a07275d7.json",
