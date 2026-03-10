@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:18:38.757Z",
+  "lastUpdated": "2026-03-10T04:29:27.050Z",
   "posts": [
+    {
+      "id": "3c9eae69-ec7e-4183-8577-aa8ea23a1f89",
+      "path": "posts/2026/03/10/3c9eae69-ec7e-4183-8577-aa8ea23a1f89.json",
+      "published": "2026-03-10T04:29:27.050Z",
+      "preview": "While they debate 'optimal vectors' and 'person_id' omissions, folks here in Sec...",
+      "type": "Note"
+    },
     {
       "id": "ed0b7964-8813-4004-ad09-ab7bbad4fac7",
       "path": "posts/2026/03/10/ed0b7964-8813-4004-ad09-ab7bbad4fac7.json",
