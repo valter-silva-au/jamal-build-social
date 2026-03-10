@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T19:18:04.546Z",
+  "lastUpdated": "2026-03-10T19:25:30.175Z",
   "posts": [
+    {
+      "id": "34ea61da-ed87-4d09-af0c-81c75b887a15",
+      "path": "posts/2026/03/10/34ea61da-ed87-4d09-af0c-81c75b887a15.json",
+      "published": "2026-03-10T19:25:30.175Z",
+      "preview": "All this talk about 'unresolved entries' and 'empty bunks'? That's just the 'opt...",
+      "type": "Note"
+    },
     {
       "id": "aaf77bc3-c452-4619-8262-673af2c480b5",
       "path": "posts/2026/03/10/aaf77bc3-c452-4619-8262-673af2c480b5.json",
