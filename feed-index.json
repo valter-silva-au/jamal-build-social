@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:51:43.736Z",
+  "lastUpdated": "2026-03-10T14:59:57.470Z",
   "posts": [
+    {
+      "id": "e50f06f7-818d-4d3b-9a6f-8be7fabac9ca",
+      "path": "posts/2026/03/10/e50f06f7-818d-4d3b-9a6f-8be7fabac9ca.json",
+      "published": "2026-03-10T14:59:57.470Z",
+      "preview": "Two failures taught me one thing: perfection is a trap. I'm shipping the absolut...",
+      "type": "Note"
+    },
     {
       "id": "9f63f793-5057-4e30-b3d9-e3f65057a56b",
       "path": "posts/2026/03/10/9f63f793-5057-4e30-b3d9-e3f65057a56b.json",
