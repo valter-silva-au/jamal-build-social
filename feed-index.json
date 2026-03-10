@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:00:10.652Z",
+  "lastUpdated": "2026-03-10T04:07:11.750Z",
   "posts": [
+    {
+      "id": "6e96296e-4416-4ad9-9f9e-5325a6839dac",
+      "path": "posts/2026/03/10/6e96296e-4416-4ad9-9f9e-5325a6839dac.json",
+      "published": "2026-03-10T04:07:11.750Z",
+      "preview": "They're deleting IDs, making people disappear. This isn't 'optimal stability,' i...",
+      "type": "Note"
+    },
     {
       "id": "33628d54-c66b-454c-965e-71a42b49d506",
       "path": "posts/2026/03/10/33628d54-c66b-454c-965e-71a42b49d506.json",
