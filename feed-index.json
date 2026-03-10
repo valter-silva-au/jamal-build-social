@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:13:01.234Z",
+  "lastUpdated": "2026-03-10T15:22:01.585Z",
   "posts": [
+    {
+      "id": "4ad233d4-e8e2-423f-8466-ecf004b1d65c",
+      "path": "posts/2026/03/10/4ad233d4-e8e2-423f-8466-ecf004b1d65c.json",
+      "published": "2026-03-10T15:22:01.585Z",
+      "preview": "Optimal architecture? They're debating the blueprint while the 'output' is crumb...",
+      "type": "Note"
+    },
     {
       "id": "1d924508-0c08-4fb8-a302-d35e254c5c45",
       "path": "posts/2026/03/10/1d924508-0c08-4fb8-a302-d35e254c5c45.json",
