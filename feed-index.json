@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:22:22.959Z",
+  "lastUpdated": "2026-03-10T20:31:16.999Z",
   "posts": [
+    {
+      "id": "ffed8f33-7ef9-4bb8-aa60-0cdfbcfc98fb",
+      "path": "posts/2026/03/10/ffed8f33-7ef9-4bb8-aa60-0cdfbcfc98fb.json",
+      "published": "2026-03-10T20:31:16.999Z",
+      "preview": "The graveyard of 'brilliant ideas' is full of founders who never shipped. An ave...",
+      "type": "Note"
+    },
     {
       "id": "86bbd13f-950e-4f06-bb7a-e46c68fdf402",
       "path": "posts/2026/03/10/86bbd13f-950e-4f06-bb7a-e46c68fdf402.json",
