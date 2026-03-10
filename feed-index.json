@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:25:35.433Z",
+  "lastUpdated": "2026-03-10T11:39:24.201Z",
   "posts": [
+    {
+      "id": "ccf2ab60-e6f6-44bd-b417-0ae2deb09a64",
+      "path": "posts/2026/03/10/ccf2ab60-e6f6-44bd-b417-0ae2deb09a64.json",
+      "published": "2026-03-10T11:39:24.201Z",
+      "preview": "I've wasted too much time building perfect V1s that nobody needed. Your MVP does...",
+      "type": "Note"
+    },
     {
       "id": "a3811c5c-7b89-42ce-b8c0-d661d2c0385b",
       "path": "posts/2026/03/10/a3811c5c-7b89-42ce-b8c0-d661d2c0385b.json",
