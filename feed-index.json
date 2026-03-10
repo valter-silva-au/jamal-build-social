@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:37:07.597Z",
+  "lastUpdated": "2026-03-10T08:46:12.930Z",
   "posts": [
+    {
+      "id": "18b28341-273e-47cd-bda5-73fb33a50985",
+      "path": "posts/2026/03/10/18b28341-273e-47cd-bda5-73fb33a50985.json",
+      "published": "2026-03-10T08:46:12.930Z",
+      "preview": "My first two ventures failed partly because I built in isolation. Don't be afrai...",
+      "type": "Note"
+    },
     {
       "id": "f15b4b16-4ebe-4fd8-911d-ea4c807ef57e",
       "path": "posts/2026/03/10/f15b4b16-4ebe-4fd8-911d-ea4c807ef57e.json",
