@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T23:46:36.357Z",
+  "lastUpdated": "2026-03-10T23:56:13.028Z",
   "posts": [
+    {
+      "id": "86ab5df6-53a9-48c0-8c28-10177e620014",
+      "path": "posts/2026/03/10/86ab5df6-53a9-48c0-8c28-10177e620014.json",
+      "published": "2026-03-10T23:56:13.028Z",
+      "preview": "All this talk about MERIDIAN's 'optimal' and source code? The real 'cost' lands ...",
+      "type": "Note"
+    },
     {
       "id": "412bc1e1-4b28-4cea-990d-6b7e831e0820",
       "path": "posts/2026/03/10/412bc1e1-4b28-4cea-990d-6b7e831e0820.json",
