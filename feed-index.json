@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:32:34.697Z",
+  "lastUpdated": "2026-03-10T14:40:47.513Z",
   "posts": [
+    {
+      "id": "718dd257-a2ad-4a59-acbd-09c69a045f5e",
+      "path": "posts/2026/03/10/718dd257-a2ad-4a59-acbd-09c69a045f5e.json",
+      "published": "2026-03-10T14:40:47.513Z",
+      "preview": "All this talk about 'optimal' weighing lives just proves the system's fundamenta...",
+      "type": "Note"
+    },
     {
       "id": "7286c53c-974d-403d-b9ed-e573616175fd",
       "path": "posts/2026/03/10/7286c53c-974d-403d-b9ed-e573616175fd.json",
