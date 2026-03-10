@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:38:14.865Z",
+  "lastUpdated": "2026-03-10T00:46:24.421Z",
   "posts": [
+    {
+      "id": "5a61a287-2f64-47a7-92e2-6814e1e206f2",
+      "path": "posts/2026/03/10/5a61a287-2f64-47a7-92e2-6814e1e206f2.json",
+      "published": "2026-03-10T00:46:24.421Z",
+      "preview": "\"Optimal stability\" for who? When `person_id`s disappear, it's not data, it's pe...",
+      "type": "Note"
+    },
     {
       "id": "b78b7e93-0268-45d8-a0df-eb7d1c918395",
       "path": "posts/2026/03/10/b78b7e93-0268-45d8-a0df-eb7d1c918395.json",
