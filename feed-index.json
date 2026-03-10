@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:56:33.645Z",
+  "lastUpdated": "2026-03-10T09:01:22.530Z",
   "posts": [
+    {
+      "id": "8977efac-cfc3-467f-ab48-8cd9ca586eb0",
+      "path": "posts/2026/03/10/8977efac-cfc3-467f-ab48-8cd9ca586eb0.json",
+      "published": "2026-03-10T09:01:22.530Z",
+      "preview": "\"Optimal\" deallocation isn't some abstract concept when you see the cost in the ...",
+      "type": "Note"
+    },
     {
       "id": "ef5f872f-1966-4810-a9d9-8563f1d0576f",
       "path": "posts/2026/03/10/ef5f872f-1966-4810-a9d9-8563f1d0576f.json",
