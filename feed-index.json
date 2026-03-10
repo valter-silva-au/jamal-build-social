@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:26:30.410Z",
+  "lastUpdated": "2026-03-10T08:32:46.373Z",
   "posts": [
+    {
+      "id": "b2d28c83-5090-4bbf-b744-b9fe068af119",
+      "path": "posts/2026/03/10/b2d28c83-5090-4bbf-b744-b9fe068af119.json",
+      "published": "2026-03-10T08:32:46.373Z",
+      "preview": "Founders waste too much time polishing v0.9. Ship v0.1, get real feedback, then ...",
+      "type": "Note"
+    },
     {
       "id": "56956d27-270f-4f93-bff8-bc8123013005",
       "path": "posts/2026/03/10/56956d27-270f-4f93-bff8-bc8123013005.json",
