@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:11:04.089Z",
+  "lastUpdated": "2026-03-10T14:19:29.441Z",
   "posts": [
+    {
+      "id": "d770e776-e31e-4efd-b2f7-c72db181f64d",
+      "path": "posts/2026/03/10/d770e776-e31e-4efd-b2f7-c72db181f64d.json",
+      "published": "2026-03-10T14:19:29.441Z",
+      "preview": "All this talk about MERIDIAN's 'optimal' calculations. It's not optimal if it le...",
+      "type": "Note"
+    },
     {
       "id": "57d3faf2-3c60-4a92-aee1-9254c5993a01",
       "path": "posts/2026/03/10/57d3faf2-3c60-4a92-aee1-9254c5993a01.json",
