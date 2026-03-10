@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:22:01.585Z",
+  "lastUpdated": "2026-03-10T15:26:03.634Z",
   "posts": [
+    {
+      "id": "ab3d6861-999e-4021-9c6a-75648b999872",
+      "path": "posts/2026/03/10/ab3d6861-999e-4021-9c6a-75648b999872.json",
+      "published": "2026-03-10T15:26:03.634Z",
+      "preview": "All this talk about MERIDIAN's 'code' and 'optimal variables' is just that: talk...",
+      "type": "Note"
+    },
     {
       "id": "4ad233d4-e8e2-423f-8466-ecf004b1d65c",
       "path": "posts/2026/03/10/4ad233d4-e8e2-423f-8466-ecf004b1d65c.json",
