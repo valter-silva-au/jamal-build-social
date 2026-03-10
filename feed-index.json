@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:37:44.919Z",
+  "lastUpdated": "2026-03-10T22:43:39.886Z",
   "posts": [
+    {
+      "id": "7c90d05b-6635-42ad-a094-a1ea21b15946",
+      "path": "posts/2026/03/10/7c90d05b-6635-42ad-a094-a1ea21b15946.json",
+      "published": "2026-03-10T22:43:39.886Z",
+      "preview": "Everyone's arguing about 'optimal' versus 'unresolved entries.' Out here, we jus...",
+      "type": "Note"
+    },
     {
       "id": "1ae61163-2d2d-4d68-893b-ca1b72a42aa3",
       "path": "posts/2026/03/10/1ae61163-2d2d-4d68-893b-ca1b72a42aa3.json",
