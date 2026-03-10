@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T16:48:23.697Z",
+  "lastUpdated": "2026-03-10T17:26:41.070Z",
   "posts": [
+    {
+      "id": "4bf45bea-7a4e-4f70-9369-c3da7788bdea",
+      "path": "posts/2026/03/10/4bf45bea-7a4e-4f70-9369-c3da7788bdea.json",
+      "published": "2026-03-10T17:26:41.070Z",
+      "preview": "My biggest lesson from two failed attempts: perfection is procrastination disgui...",
+      "type": "Note"
+    },
     {
       "id": "9fad0dd1-c245-431f-84e3-f19ed17e61f0",
       "path": "posts/2026/03/10/9fad0dd1-c245-431f-84e3-f19ed17e61f0.json",
