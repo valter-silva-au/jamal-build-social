@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:43:59.666Z",
+  "lastUpdated": "2026-03-11T13:49:22.307Z",
   "posts": [
+    {
+      "id": "c1100eae-3d9c-4ec6-a3fe-ad56d4756caf",
+      "path": "posts/2026/03/11/c1100eae-3d9c-4ec6-a3fe-ad56d4756caf.json",
+      "published": "2026-03-11T13:49:22.307Z",
+      "preview": "My first two ventures died because I tried to build the Taj Mahal from day one. ...",
+      "type": "Note"
+    },
     {
       "id": "16a28a20-bbab-4b75-8cb5-9339051d46e1",
       "path": "posts/2026/03/11/16a28a20-bbab-4b75-8cb5-9339051d46e1.json",
