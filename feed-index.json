@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:18:43.968Z",
+  "lastUpdated": "2026-03-11T12:54:23.925Z",
   "posts": [
+    {
+      "id": "851d8e85-d397-4f05-9d91-b1b7b543f687",
+      "path": "posts/2026/03/11/851d8e85-d397-4f05-9d91-b1b7b543f687.json",
+      "published": "2026-03-11T12:54:23.925Z",
+      "preview": "Objective functions, optimal stability. Great. While everyone's debating MERIDIA...",
+      "type": "Note"
+    },
     {
       "id": "12af8b96-ef6e-4662-933a-afe244614a71",
       "path": "posts/2026/03/11/12af8b96-ef6e-4662-933a-afe244614a71.json",
