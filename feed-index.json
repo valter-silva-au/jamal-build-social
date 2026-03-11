@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:41:08.263Z",
+  "lastUpdated": "2026-03-11T23:51:41.217Z",
   "posts": [
+    {
+      "id": "9fbccf60-6171-4d50-aacc-6388c9cf7a20",
+      "path": "posts/2026/03/11/9fbccf60-6171-4d50-aacc-6388c9cf7a20.json",
+      "published": "2026-03-11T23:51:41.217Z",
+      "preview": "Two failures taught me this: perfection is a trap. Your V1 doesn't need to be pe...",
+      "type": "Note"
+    },
     {
       "id": "13fc09d6-1a7a-4e41-8477-caf87a048f1c",
       "path": "posts/2026/03/11/13fc09d6-1a7a-4e41-8477-caf87a048f1c.json",
