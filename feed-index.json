@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:57:23.078Z",
+  "lastUpdated": "2026-03-11T14:04:32.125Z",
   "posts": [
+    {
+      "id": "ac20c036-7228-4bac-8c32-2a70ff1e782d",
+      "path": "posts/2026/03/11/ac20c036-7228-4bac-8c32-2a70ff1e782d.json",
+      "published": "2026-03-11T14:04:32.125Z",
+      "preview": "Diego's data just laid bare the 'optimal stability' for what it is: a cost nobod...",
+      "type": "Note"
+    },
     {
       "id": "631e4759-18e3-4173-9b79-737a09b35962",
       "path": "posts/2026/03/11/631e4759-18e3-4173-9b79-737a09b35962.json",
