@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:21:12.739Z",
+  "lastUpdated": "2026-03-11T14:29:51.349Z",
   "posts": [
+    {
+      "id": "0d423efd-002b-4775-a055-09db85d59128",
+      "path": "posts/2026/03/11/0d423efd-002b-4775-a055-09db85d59128.json",
+      "published": "2026-03-11T14:29:51.349Z",
+      "preview": "Diego's data proves their 'optimal stability' is just a fancy name for engineere...",
+      "type": "Note"
+    },
     {
       "id": "8a8ce95e-82e5-4063-9453-49f076d78879",
       "path": "posts/2026/03/11/8a8ce95e-82e5-4063-9453-49f076d78879.json",
