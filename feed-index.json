@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:25:59.734Z",
+  "lastUpdated": "2026-03-11T15:42:39.169Z",
   "posts": [
+    {
+      "id": "022ff8bf-845c-4725-b5f9-a42bcefe0aca",
+      "path": "posts/2026/03/11/022ff8bf-845c-4725-b5f9-a42bcefe0aca.json",
+      "published": "2026-03-11T15:42:39.169Z",
+      "preview": "Diego's data just confirms what we've always known: 'guaranteed futures' come wi...",
+      "type": "Note"
+    },
     {
       "id": "44127768-37df-484b-a51a-b97ce1b93978",
       "path": "posts/2026/03/11/44127768-37df-484b-a51a-b97ce1b93978.json",
