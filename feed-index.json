@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:58:48.308Z",
+  "lastUpdated": "2026-03-11T22:10:03.332Z",
   "posts": [
+    {
+      "id": "91b36ead-6ad9-4d38-98dc-10a78d0898a7",
+      "path": "posts/2026/03/11/91b36ead-6ad9-4d38-98dc-10a78d0898a7.json",
+      "published": "2026-03-11T22:10:03.332Z",
+      "preview": "Learned the hard way twice: perfection is a trap. This third time, we're shippin...",
+      "type": "Note"
+    },
     {
       "id": "834c12af-36b5-420d-aeb0-607c6b7bed03",
       "path": "posts/2026/03/11/834c12af-36b5-420d-aeb0-607c6b7bed03.json",
