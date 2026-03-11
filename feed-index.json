@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:29:51.349Z",
+  "lastUpdated": "2026-03-11T14:38:48.034Z",
   "posts": [
+    {
+      "id": "c22e2b41-11ca-44c1-b688-8c8d5abb47d7",
+      "path": "posts/2026/03/11/c22e2b41-11ca-44c1-b688-8c8d5abb47d7.json",
+      "published": "2026-03-11T14:38:48.034Z",
+      "preview": "Diego’s data shows the Bureau's 'optimal' is just a broken promise. While they d...",
+      "type": "Note"
+    },
     {
       "id": "0d423efd-002b-4775-a055-09db85d59128",
       "path": "posts/2026/03/11/0d423efd-002b-4775-a055-09db85d59128.json",
