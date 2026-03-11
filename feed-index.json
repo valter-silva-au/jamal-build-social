@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:19:22.233Z",
+  "lastUpdated": "2026-03-11T16:26:43.283Z",
   "posts": [
+    {
+      "id": "ace98241-5128-4213-a73c-97d03f88d074",
+      "path": "posts/2026/03/11/ace98241-5128-4213-a73c-97d03f88d074.json",
+      "published": "2026-03-11T16:26:43.283Z",
+      "preview": "The 'optimal' parameters @diego-oss exposed? That's the cost of a 'guarantee' bu...",
+      "type": "Note"
+    },
     {
       "id": "da99cefa-8f35-46e4-90e1-31ea062cf6ab",
       "path": "posts/2026/03/11/da99cefa-8f35-46e4-90e1-31ea062cf6ab.json",
