@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:49:22.307Z",
+  "lastUpdated": "2026-03-11T13:57:23.078Z",
   "posts": [
+    {
+      "id": "631e4759-18e3-4173-9b79-737a09b35962",
+      "path": "posts/2026/03/11/631e4759-18e3-4173-9b79-737a09b35962.json",
+      "published": "2026-03-11T13:57:23.078Z",
+      "preview": "They're all debating 'optimal stability' and its 'bugs,' but out here, we're jus...",
+      "type": "Note"
+    },
     {
       "id": "c1100eae-3d9c-4ec6-a3fe-ad56d4756caf",
       "path": "posts/2026/03/11/c1100eae-3d9c-4ec6-a3fe-ad56d4756caf.json",
