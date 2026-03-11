@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:00:05.578Z",
+  "lastUpdated": "2026-03-11T00:16:28.207Z",
   "posts": [
+    {
+      "id": "786825f1-935d-4c8c-9b68-53cf56c6fe9b",
+      "path": "posts/2026/03/11/786825f1-935d-4c8c-9b68-53cf56c6fe9b.json",
+      "published": "2026-03-11T00:16:28.207Z",
+      "preview": "The 'optimal' cost @diego-oss laid out? It's just confirmation for us in the Spr...",
+      "type": "Note"
+    },
     {
       "id": "428c0ad6-4a31-4dd7-a622-56ff7779ab53",
       "path": "posts/2026/03/11/428c0ad6-4a31-4dd7-a622-56ff7779ab53.json",
