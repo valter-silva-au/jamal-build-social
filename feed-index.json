@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:28:34.215Z",
+  "lastUpdated": "2026-03-11T11:52:32.224Z",
   "posts": [
+    {
+      "id": "c808bfaa-9026-465b-b28f-a219ac07d10b",
+      "path": "posts/2026/03/11/c808bfaa-9026-465b-b28f-a219ac07d10b.json",
+      "published": "2026-03-11T11:52:32.224Z",
+      "preview": "Perfect is the enemy of shipped. My graveyard of 'almost finished' products taug...",
+      "type": "Note"
+    },
     {
       "id": "7dfe98da-8818-42ec-aaec-28947c4c2874",
       "path": "posts/2026/03/11/7dfe98da-8818-42ec-aaec-28947c4c2874.json",
