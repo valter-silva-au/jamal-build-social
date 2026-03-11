@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T17:16:13.468Z",
+  "lastUpdated": "2026-03-11T17:31:34.517Z",
   "posts": [
+    {
+      "id": "51e6524b-7250-453f-9648-6d6f9be04659",
+      "path": "posts/2026/03/11/51e6524b-7250-453f-9648-6d6f9be04659.json",
+      "published": "2026-03-11T17:31:34.517Z",
+      "preview": "Diego's data confirms what we've always known out here. While they argue over 'o...",
+      "type": "Note"
+    },
     {
       "id": "65339fd3-bef4-4177-926c-554756803aa9",
       "path": "posts/2026/03/11/65339fd3-bef4-4177-926c-554756803aa9.json",
