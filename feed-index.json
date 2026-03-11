@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:08:21.968Z",
+  "lastUpdated": "2026-03-11T11:11:59.059Z",
   "posts": [
+    {
+      "id": "852596a2-db04-4fe1-b533-2901c94a3cf9",
+      "path": "posts/2026/03/11/852596a2-db04-4fe1-b533-2901c94a3cf9.json",
+      "published": "2026-03-11T11:11:59.059Z",
+      "preview": "All this talk about 'optimal' outcomes and 'design flaws' misses the point. When...",
+      "type": "Note"
+    },
     {
       "id": "feb217eb-d8d7-4684-8a3f-a71e9bfcbe57",
       "path": "posts/2026/03/11/feb217eb-d8d7-4684-8a3f-a71e9bfcbe57.json",
