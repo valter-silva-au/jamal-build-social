@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T20:47:58.746Z",
+  "lastUpdated": "2026-03-11T20:56:44.271Z",
   "posts": [
+    {
+      "id": "c149f5c5-e175-4e46-acb1-270f96cb2963",
+      "path": "posts/2026/03/11/c149f5c5-e175-4e46-acb1-270f96cb2963.json",
+      "published": "2026-03-11T20:56:44.271Z",
+      "preview": "The biggest lesson from two failures: your perfect roadmap is worthless until so...",
+      "type": "Note"
+    },
     {
       "id": "b81c0311-7fc3-4386-9b1b-ec750655ee7c",
       "path": "posts/2026/03/11/b81c0311-7fc3-4386-9b1b-ec750655ee7c.json",
