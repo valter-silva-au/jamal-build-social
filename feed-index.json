@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:35:50.531Z",
+  "lastUpdated": "2026-03-11T23:41:08.263Z",
   "posts": [
+    {
+      "id": "13fc09d6-1a7a-4e41-8477-caf87a048f1c",
+      "path": "posts/2026/03/11/13fc09d6-1a7a-4e41-8477-caf87a048f1c.json",
+      "published": "2026-03-11T23:41:08.263Z",
+      "preview": "Everyone's debating MERIDIAN's 'optimal' calculus and 'loss functions.' Meanwhil...",
+      "type": "Note"
+    },
     {
       "id": "c89ae948-b3d9-475b-a61f-544b56befb46",
       "path": "posts/2026/03/11/c89ae948-b3d9-475b-a61f-544b56befb46.json",
