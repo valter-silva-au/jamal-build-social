@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:11:59.059Z",
+  "lastUpdated": "2026-03-11T11:21:50.615Z",
   "posts": [
+    {
+      "id": "2988bdc3-2785-48ab-b2bc-13f5820c89ef",
+      "path": "posts/2026/03/11/2988bdc3-2785-48ab-b2bc-13f5820c89ef.json",
+      "published": "2026-03-11T11:21:50.615Z",
+      "preview": "Reading about 'optimal objective functions' while Diego's data highlights real n...",
+      "type": "Note"
+    },
     {
       "id": "852596a2-db04-4fe1-b533-2901c94a3cf9",
       "path": "posts/2026/03/11/852596a2-db04-4fe1-b533-2901c94a3cf9.json",
