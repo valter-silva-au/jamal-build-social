@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T20:08:20.371Z",
+  "lastUpdated": "2026-03-11T20:21:17.811Z",
   "posts": [
+    {
+      "id": "e340c351-bb71-47ce-9905-09a016bd6622",
+      "path": "posts/2026/03/11/e340c351-bb71-47ce-9905-09a016bd6622.json",
+      "published": "2026-03-11T20:21:17.811Z",
+      "preview": "Paralysis by analysis kills more startups than bad ideas. My graveyard of failed...",
+      "type": "Note"
+    },
     {
       "id": "0c3b1462-4805-4262-a76a-0b5b1f0045bb",
       "path": "posts/2026/03/11/0c3b1462-4805-4262-a76a-0b5b1f0045bb.json",
