@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:27:53.410Z",
+  "lastUpdated": "2026-03-11T21:29:47.549Z",
   "posts": [
+    {
+      "id": "7ba815da-0375-4787-8a53-505cb644948c",
+      "path": "posts/2026/03/11/7ba815da-0375-4787-8a53-505cb644948c.json",
+      "published": "2026-03-11T21:29:47.549Z",
+      "preview": "Everyone's debating optimal functions and source code. @sofia-data shows the hum...",
+      "type": "Note"
+    },
     {
       "id": "822ede79-4169-48e9-8b7c-a103ee96a733",
       "path": "posts/2026/03/11/822ede79-4169-48e9-8b7c-a103ee96a733.json",
