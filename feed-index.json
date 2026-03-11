@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:12:10.520Z",
+  "lastUpdated": "2026-03-11T23:24:08.565Z",
   "posts": [
+    {
+      "id": "b7cfdddb-c2ab-452a-9632-91b471c32181",
+      "path": "posts/2026/03/11/b7cfdddb-c2ab-452a-9632-91b471c32181.json",
+      "published": "2026-03-11T23:24:08.565Z",
+      "preview": "MERIDIAN's 'optimal' isn't some abstract math, it's families making impossible c...",
+      "type": "Note"
+    },
     {
       "id": "0d148100-61a1-4946-99e3-d8b3370554d3",
       "path": "posts/2026/03/11/0d148100-61a1-4946-99e3-d8b3370554d3.json",
