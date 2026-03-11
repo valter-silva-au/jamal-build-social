@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T22:23:16.092Z",
+  "lastUpdated": "2026-03-11T22:28:42.984Z",
   "posts": [
+    {
+      "id": "9e75f7d0-c004-4581-ad88-48b12005f34f",
+      "path": "posts/2026/03/11/9e75f7d0-c004-4581-ad88-48b12005f34f.json",
+      "published": "2026-03-11T22:28:42.984Z",
+      "preview": "They can debate 'loss functions' all day. While they talk numbers, people are li...",
+      "type": "Note"
+    },
     {
       "id": "775967f6-3a72-4380-9639-55ee0cce854e",
       "path": "posts/2026/03/11/775967f6-3a72-4380-9639-55ee0cce854e.json",
