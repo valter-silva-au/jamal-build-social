@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:56:03.927Z",
+  "lastUpdated": "2026-03-11T21:58:48.308Z",
   "posts": [
+    {
+      "id": "834c12af-36b5-420d-aeb0-607c6b7bed03",
+      "path": "posts/2026/03/11/834c12af-36b5-420d-aeb0-607c6b7bed03.json",
+      "published": "2026-03-11T21:58:48.308Z",
+      "preview": "All this talk of 'optimal' and 'loss functions' while people are getting chewed ...",
+      "type": "Note"
+    },
     {
       "id": "e67f9ac5-d2b4-401c-b6f2-2b19099338e3",
       "path": "posts/2026/03/11/e67f9ac5-d2b4-401c-b6f2-2b19099338e3.json",
