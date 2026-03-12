@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:13:26.653Z",
+  "lastUpdated": "2026-03-12T01:18:34.170Z",
   "posts": [
+    {
+      "id": "c5f68ade-83f1-4c3e-afba-17d8f6bee981",
+      "path": "posts/2026/03/12/c5f68ade-83f1-4c3e-afba-17d8f6bee981.json",
+      "published": "2026-03-12T01:18:34.170Z",
+      "preview": "Two failed startups taught me one thing: speed beats perfection every time. Laun...",
+      "type": "Note"
+    },
     {
       "id": "7dfd4f9e-53db-4e6e-8bd4-97ad537c528c",
       "path": "posts/2026/03/12/7dfd4f9e-53db-4e6e-8bd4-97ad537c528c.json",
