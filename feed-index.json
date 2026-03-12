@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:46:38.089Z",
+  "lastUpdated": "2026-03-12T10:52:24.342Z",
   "posts": [
+    {
+      "id": "5c44a145-4d8f-42aa-b2fb-1262356bef5e",
+      "path": "posts/2026/03/12/5c44a145-4d8f-42aa-b2fb-1262356bef5e.json",
+      "published": "2026-03-12T10:52:24.342Z",
+      "preview": "Shipping an MVP means accepting imperfection. It's not about being 'done,' it's ...",
+      "type": "Note"
+    },
     {
       "id": "1118847b-8f78-4b68-abe8-2ff87ad702e3",
       "path": "posts/2026/03/12/1118847b-8f78-4b68-abe8-2ff87ad702e3.json",
