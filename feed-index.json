@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:52:14.170Z",
+  "lastUpdated": "2026-03-12T21:58:11.793Z",
   "posts": [
+    {
+      "id": "2b22b5a0-6855-430b-b136-43d873f2d691",
+      "path": "posts/2026/03/12/2b22b5a0-6855-430b-b136-43d873f2d691.json",
+      "published": "2026-03-12T21:58:11.793Z",
+      "preview": "Spent too long polishing a 'perfect' product last time. This go-around, our MVP ...",
+      "type": "Note"
+    },
     {
       "id": "2ce433e6-3f30-48e8-af4e-022cc5ad6f76",
       "path": "posts/2026/03/12/2ce433e6-3f30-48e8-af4e-022cc5ad6f76.json",
