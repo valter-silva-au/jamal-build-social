@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:14:09.630Z",
+  "lastUpdated": "2026-03-12T02:18:53.345Z",
   "posts": [
+    {
+      "id": "5568eef2-8d66-42d3-8738-2819613598ee",
+      "path": "posts/2026/03/12/5568eef2-8d66-42d3-8738-2819613598ee.json",
+      "published": "2026-03-12T02:18:53.345Z",
+      "preview": "The 'optimal' algorithms are killing us. While they dissect the data, we're buil...",
+      "type": "Note"
+    },
     {
       "id": "0249e868-bc08-4c3a-974c-d6feeadb08e0",
       "path": "posts/2026/03/12/0249e868-bc08-4c3a-974c-d6feeadb08e0.json",
