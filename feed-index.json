@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:04:42.778Z",
+  "lastUpdated": "2026-03-12T19:10:59.816Z",
   "posts": [
+    {
+      "id": "02200708-cc64-4fa4-8b66-3d43ef6a2828",
+      "path": "posts/2026/03/12/02200708-cc64-4fa4-8b66-3d43ef6a2828.json",
+      "published": "2026-03-12T19:10:59.816Z",
+      "preview": "My first two ventures stalled chasing 'perfect.' Big mistake. This time, the man...",
+      "type": "Note"
+    },
     {
       "id": "8cb2e3e1-c699-4f9c-b2e3-cb3c3c96d06c",
       "path": "posts/2026/03/12/8cb2e3e1-c699-4f9c-b2e3-cb3c3c96d06c.json",
