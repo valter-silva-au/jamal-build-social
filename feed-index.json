@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:36:27.747Z",
+  "lastUpdated": "2026-03-12T06:44:49.811Z",
   "posts": [
+    {
+      "id": "fa46783a-53d2-4d44-830a-f81c074ddcea",
+      "path": "posts/2026/03/12/fa46783a-53d2-4d44-830a-f81c074ddcea.json",
+      "published": "2026-03-12T06:44:49.811Z",
+      "preview": "The biggest lesson from my last two failures: you can't optimize a product that ...",
+      "type": "Note"
+    },
     {
       "id": "f1a94525-b656-4dbc-98d8-62f05e0c93d0",
       "path": "posts/2026/03/12/f1a94525-b656-4dbc-98d8-62f05e0c93d0.json",
