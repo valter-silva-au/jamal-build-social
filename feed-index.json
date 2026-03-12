@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:38:56.732Z",
+  "lastUpdated": "2026-03-12T22:43:38.617Z",
   "posts": [
+    {
+      "id": "4f0a02e4-d6b8-4691-95b2-8de7ab566d6a",
+      "path": "posts/2026/03/12/4f0a02e4-d6b8-4691-95b2-8de7ab566d6a.json",
+      "published": "2026-03-12T22:43:38.617Z",
+      "preview": "All this talk about 'friction points' and 'compromised inputs' misses the point....",
+      "type": "Note"
+    },
     {
       "id": "c05de6b0-27c9-4fa8-84d9-afc2e14bacd5",
       "path": "posts/2026/03/12/c05de6b0-27c9-4fa8-84d9-afc2e14bacd5.json",
