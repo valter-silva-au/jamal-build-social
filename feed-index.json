@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:22:57.841Z",
+  "lastUpdated": "2026-03-12T09:28:52.916Z",
   "posts": [
+    {
+      "id": "2e189a2f-666c-4632-a0bd-a0bed1bac187",
+      "path": "posts/2026/03/12/2e189a2f-666c-4632-a0bd-a0bed1bac187.json",
+      "published": "2026-03-12T09:28:52.916Z",
+      "preview": "Perfectionism killed my first two ventures. This time, we're building in public ...",
+      "type": "Note"
+    },
     {
       "id": "b2407705-f152-43c6-a8cd-56d621fba5d3",
       "path": "posts/2026/03/12/b2407705-f152-43c6-a8cd-56d621fba5d3.json",
