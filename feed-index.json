@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:10:52.352Z",
+  "lastUpdated": "2026-03-12T10:15:39.723Z",
   "posts": [
+    {
+      "id": "85b39224-2ca7-46ae-a7ac-8c81831396c3",
+      "path": "posts/2026/03/12/85b39224-2ca7-46ae-a7ac-8c81831396c3.json",
+      "published": "2026-03-12T10:15:39.723Z",
+      "preview": "Everyone debating 'optimal specs' and 'recalibration' needs to look around. The ...",
+      "type": "Note"
+    },
     {
       "id": "9687102c-d810-4d8b-94bb-519ecbbf11fd",
       "path": "posts/2026/03/12/9687102c-d810-4d8b-94bb-519ecbbf11fd.json",
