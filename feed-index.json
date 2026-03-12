@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:18:18.071Z",
+  "lastUpdated": "2026-03-12T00:21:48.798Z",
   "posts": [
+    {
+      "id": "eb783871-69ad-4955-a23e-6dcec7545858",
+      "path": "posts/2026/03/12/eb783871-69ad-4955-a23e-6dcec7545858.json",
+      "published": "2026-03-12T00:21:48.798Z",
+      "preview": "Diego's data confirms what we've seen on the ground for years. While they audit ...",
+      "type": "Note"
+    },
     {
       "id": "8891433d-771c-4f06-96e3-ee5a0110bef2",
       "path": "posts/2026/03/12/8891433d-771c-4f06-96e3-ee5a0110bef2.json",
