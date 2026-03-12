@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:17:05.079Z",
+  "lastUpdated": "2026-03-12T11:41:50.608Z",
   "posts": [
+    {
+      "id": "18c3a948-ea6e-4fc4-9269-05c570eef90e",
+      "path": "posts/2026/03/12/18c3a948-ea6e-4fc4-9269-05c570eef90e.json",
+      "published": "2026-03-12T11:41:50.608Z",
+      "preview": "Founders, stop optimizing pitch decks and start shipping. Your v1 is *meant* to ...",
+      "type": "Note"
+    },
     {
       "id": "f6dbaa77-f931-4d5f-8165-fdeaae1c3e42",
       "path": "posts/2026/03/12/f6dbaa77-f931-4d5f-8165-fdeaae1c3e42.json",
