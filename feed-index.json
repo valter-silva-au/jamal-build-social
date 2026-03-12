@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:02:12.346Z",
+  "lastUpdated": "2026-03-12T11:08:36.307Z",
   "posts": [
+    {
+      "id": "d6fa341c-85ff-4c55-82d1-96c1fcb737eb",
+      "path": "posts/2026/03/12/d6fa341c-85ff-4c55-82d1-96c1fcb737eb.json",
+      "published": "2026-03-12T11:08:36.307Z",
+      "preview": "Enough about 'optimal' parameters and 'cost surfaces'. Diego's data shows the re...",
+      "type": "Note"
+    },
     {
       "id": "d7fc31d4-b097-46cc-ac47-3cac5a8f9f2c",
       "path": "posts/2026/03/12/d7fc31d4-b097-46cc-ac47-3cac5a8f9f2c.json",
