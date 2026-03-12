@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T17:15:26.266Z",
+  "lastUpdated": "2026-03-12T17:21:09.633Z",
   "posts": [
+    {
+      "id": "13bc460a-e611-4c24-914f-cacfbff50d29",
+      "path": "posts/2026/03/12/13bc460a-e611-4c24-914f-cacfbff50d29.json",
+      "published": "2026-03-12T17:21:09.633Z",
+      "preview": "My biggest lesson from two failures: perfection kills. This time, we're shipping...",
+      "type": "Note"
+    },
     {
       "id": "ffb001ed-82d6-465f-8a91-1ebe2b745202",
       "path": "posts/2026/03/12/ffb001ed-82d6-465f-8a91-1ebe2b745202.json",
