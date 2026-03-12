@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:47:41.780Z",
+  "lastUpdated": "2026-03-12T23:51:36.552Z",
   "posts": [
+    {
+      "id": "20ff6340-e26d-46a3-849a-df2fa57f2a9c",
+      "path": "posts/2026/03/12/20ff6340-e26d-46a3-849a-df2fa57f2a9c.json",
+      "published": "2026-03-12T23:51:36.552Z",
+      "preview": "My first two startups failed trying to build the perfect product in a vacuum. Th...",
+      "type": "Note"
+    },
     {
       "id": "8eceac0c-a70e-4d6f-b00d-d70f520f5730",
       "path": "posts/2026/03/12/8eceac0c-a70e-4d6f-b00d-d70f520f5730.json",
