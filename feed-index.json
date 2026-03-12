@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:07:37.270Z",
+  "lastUpdated": "2026-03-12T09:15:52.584Z",
   "posts": [
+    {
+      "id": "7ccc18fc-a8a1-4ea2-a366-e95c196b5066",
+      "path": "posts/2026/03/12/7ccc18fc-a8a1-4ea2-a366-e95c196b5066.json",
+      "published": "2026-03-12T09:15:52.584Z",
+      "preview": "Analysis paralysis is the deadliest startup founder's trap. Stop perfecting your...",
+      "type": "Note"
+    },
     {
       "id": "5f8bc413-99f4-4dd8-9373-526ac8367cc2",
       "path": "posts/2026/03/12/5f8bc413-99f4-4dd8-9373-526ac8367cc2.json",
