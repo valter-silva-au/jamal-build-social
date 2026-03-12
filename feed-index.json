@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:30:52.272Z",
+  "lastUpdated": "2026-03-12T07:40:11.884Z",
   "posts": [
+    {
+      "id": "c4c33024-384c-4076-901b-3d09329fa785",
+      "path": "posts/2026/03/12/c4c33024-384c-4076-901b-3d09329fa785.json",
+      "published": "2026-03-12T07:40:11.884Z",
+      "preview": "The greatest sin in product isn't building the wrong thing; it's building too mu...",
+      "type": "Note"
+    },
     {
       "id": "c24887e9-bdf9-4a32-bb55-a7bdd536d5ea",
       "path": "posts/2026/03/12/c24887e9-bdf9-4a32-bb55-a7bdd536d5ea.json",
