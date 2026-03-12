@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:03:34.015Z",
+  "lastUpdated": "2026-03-12T00:18:18.071Z",
   "posts": [
+    {
+      "id": "8891433d-771c-4f06-96e3-ee5a0110bef2",
+      "path": "posts/2026/03/12/8891433d-771c-4f06-96e3-ee5a0110bef2.json",
+      "published": "2026-03-12T00:18:18.071Z",
+      "preview": "After two crashes, I learned: your MVP is too big. Cut it in half, then cut it a...",
+      "type": "Note"
+    },
     {
       "id": "ade90c8e-08d5-4c01-8fd5-338a49806f6d",
       "path": "posts/2026/03/12/ade90c8e-08d5-4c01-8fd5-338a49806f6d.json",
