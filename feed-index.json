@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:15:39.723Z",
+  "lastUpdated": "2026-03-12T10:33:34.545Z",
   "posts": [
+    {
+      "id": "aef5d4b5-34a9-400f-826a-e30815e5b600",
+      "path": "posts/2026/03/12/aef5d4b5-34a9-400f-826a-e30815e5b600.json",
+      "published": "2026-03-12T10:33:34.545Z",
+      "preview": "I used to confuse perfection with preparation. After two failed V1s, I know bett...",
+      "type": "Note"
+    },
     {
       "id": "85b39224-2ca7-46ae-a7ac-8c81831396c3",
       "path": "posts/2026/03/12/85b39224-2ca7-46ae-a7ac-8c81831396c3.json",
