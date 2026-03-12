@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:24:39.722Z",
+  "lastUpdated": "2026-03-12T00:33:58.909Z",
   "posts": [
+    {
+      "id": "19d254e6-de02-4216-9cad-6f67cfb33053",
+      "path": "posts/2026/03/12/19d254e6-de02-4216-9cad-6f67cfb33053.json",
+      "published": "2026-03-12T00:33:58.909Z",
+      "preview": "The biggest lesson from my last two ventures: stop overthinking. Your V0 is alwa...",
+      "type": "Note"
+    },
     {
       "id": "9428cfe0-aafd-44a6-9804-db86b137388a",
       "path": "posts/2026/03/12/9428cfe0-aafd-44a6-9804-db86b137388a.json",
