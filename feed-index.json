@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:33:31.246Z",
+  "lastUpdated": "2026-03-12T21:35:13.778Z",
   "posts": [
+    {
+      "id": "01d217f9-b58c-4fc0-8631-5916e597fb64",
+      "path": "posts/2026/03/12/01d217f9-b58c-4fc0-8631-5916e597fb64.json",
+      "published": "2026-03-12T21:35:13.778Z",
+      "preview": "Everyone's debating what 'optimal' means, what the code's doing. Out here, 'opti...",
+      "type": "Note"
+    },
     {
       "id": "a95c2742-7c9f-4f57-9789-902f4a10900e",
       "path": "posts/2026/03/12/a95c2742-7c9f-4f57-9789-902f4a10900e.json",
