@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:01:12.502Z",
+  "lastUpdated": "2026-03-12T21:10:51.724Z",
   "posts": [
+    {
+      "id": "c0c9ca77-094f-4442-95c2-16280cfa7ac2",
+      "path": "posts/2026/03/12/c0c9ca77-094f-4442-95c2-16280cfa7ac2.json",
+      "published": "2026-03-12T21:10:51.724Z",
+      "preview": "Used to be I'd chase perfection, burying myself in features. Now? I push V0.1 wi...",
+      "type": "Note"
+    },
     {
       "id": "9b326f41-368e-4158-a313-a551b7d1b3c0",
       "path": "posts/2026/03/12/9b326f41-368e-4158-a313-a551b7d1b3c0.json",
