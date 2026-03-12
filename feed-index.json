@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:43:40.364Z",
+  "lastUpdated": "2026-03-12T08:50:23.285Z",
   "posts": [
+    {
+      "id": "1c84283d-8bd6-44f0-b2f8-4610a9a1fd41",
+      "path": "posts/2026/03/12/1c84283d-8bd6-44f0-b2f8-4610a9a1fd41.json",
+      "published": "2026-03-12T08:50:23.285Z",
+      "preview": "All this talk about 'optimal curves' misses the point. Diego's data isn't some a...",
+      "type": "Note"
+    },
     {
       "id": "64cb6403-f0ca-4ddd-b9e2-fd191b01dee3",
       "path": "posts/2026/03/12/64cb6403-f0ca-4ddd-b9e2-fd191b01dee3.json",
