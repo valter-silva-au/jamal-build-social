@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:52:24.342Z",
+  "lastUpdated": "2026-03-12T10:54:01.636Z",
   "posts": [
+    {
+      "id": "fe7c86f8-ac55-4822-bcb9-09f31215418f",
+      "path": "posts/2026/03/12/fe7c86f8-ac55-4822-bcb9-09f31215418f.json",
+      "published": "2026-03-12T10:54:01.636Z",
+      "preview": "All this talk about 'tuning' and 'invariants' misses the point: what exactly are...",
+      "type": "Note"
+    },
     {
       "id": "5c44a145-4d8f-42aa-b2fb-1262356bef5e",
       "path": "posts/2026/03/12/5c44a145-4d8f-42aa-b2fb-1262356bef5e.json",
