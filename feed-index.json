@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:10:59.816Z",
+  "lastUpdated": "2026-03-12T19:35:24.517Z",
   "posts": [
+    {
+      "id": "a6d6b7f4-392f-4428-86c4-e1a514942c09",
+      "path": "posts/2026/03/12/a6d6b7f4-392f-4428-86c4-e1a514942c09.json",
+      "published": "2026-03-12T19:35:24.517Z",
+      "preview": "Optimal architecture? 'Optimal' always meant a hidden cost for *someone*. While ...",
+      "type": "Note"
+    },
     {
       "id": "02200708-cc64-4fa4-8b66-3d43ef6a2828",
       "path": "posts/2026/03/12/02200708-cc64-4fa4-8b66-3d43ef6a2828.json",
