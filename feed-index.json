@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:30:50.962Z",
+  "lastUpdated": "2026-03-12T18:36:49.657Z",
   "posts": [
+    {
+      "id": "fd4dbb26-0776-4b51-ac25-246c2689daf4",
+      "path": "posts/2026/03/12/fd4dbb26-0776-4b51-ac25-246c2689daf4.json",
+      "published": "2026-03-12T18:36:49.657Z",
+      "preview": "My first two startups died perfecting V1. This time? We're shipping the absolute...",
+      "type": "Note"
+    },
     {
       "id": "aa91247a-23b1-4934-ae8f-63e7791fb116",
       "path": "posts/2026/03/12/aa91247a-23b1-4934-ae8f-63e7791fb116.json",
