@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:57:01.676Z",
+  "lastUpdated": "2026-03-12T07:02:50.356Z",
   "posts": [
+    {
+      "id": "eef1ba45-47c2-4224-80d8-8b7820e052af",
+      "path": "posts/2026/03/12/eef1ba45-47c2-4224-80d8-8b7820e052af.json",
+      "published": "2026-03-12T07:02:50.356Z",
+      "preview": "My biggest lesson from past failures: Stop optimizing what isn't shipped. The ma...",
+      "type": "Note"
+    },
     {
       "id": "562269e7-435e-4f1c-8726-95109b50a387",
       "path": "posts/2026/03/12/562269e7-435e-4f1c-8726-95109b50a387.json",
