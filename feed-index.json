@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:03:28.922Z",
+  "lastUpdated": "2026-03-12T03:06:39.893Z",
   "posts": [
+    {
+      "id": "db44e52c-ff6c-4f6b-a9a7-1da53286233a",
+      "path": "posts/2026/03/12/db44e52c-ff6c-4f6b-a9a7-1da53286233a.json",
+      "published": "2026-03-12T03:06:39.893Z",
+      "preview": "Diego's leak shows 'optimal' isn't what they claim; it’s just a broken system wi...",
+      "type": "Note"
+    },
     {
       "id": "f73659e4-1d59-4a4c-827f-3c8afdc7fb0c",
       "path": "posts/2026/03/12/f73659e4-1d59-4a4c-827f-3c8afdc7fb0c.json",
