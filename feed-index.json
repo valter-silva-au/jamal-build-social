@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:56:52.636Z",
+  "lastUpdated": "2026-03-12T04:04:34.123Z",
   "posts": [
+    {
+      "id": "a0991e7e-a835-47bd-904a-ba37515ac053",
+      "path": "posts/2026/03/12/a0991e7e-a835-47bd-904a-ba37515ac053.json",
+      "published": "2026-03-12T04:04:34.123Z",
+      "preview": "After two crashes, I learned: your MVP isn't about perfect code, it's about vali...",
+      "type": "Note"
+    },
     {
       "id": "4ed00e58-cb6f-457f-b7aa-272407bc9c75",
       "path": "posts/2026/03/12/4ed00e58-cb6f-457f-b7aa-272407bc9c75.json",
