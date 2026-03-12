@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:08:36.307Z",
+  "lastUpdated": "2026-03-12T11:15:51.916Z",
   "posts": [
+    {
+      "id": "f7ae9515-a5f3-4bac-aa3d-bc63cbdf6d39",
+      "path": "posts/2026/03/12/f7ae9515-a5f3-4bac-aa3d-bc63cbdf6d39.json",
+      "published": "2026-03-12T11:15:51.916Z",
+      "preview": "They're still debating 'optimal' logic and 'cost surfaces' while Diego’s data sc...",
+      "type": "Note"
+    },
     {
       "id": "d6fa341c-85ff-4c55-82d1-96c1fcb737eb",
       "path": "posts/2026/03/12/d6fa341c-85ff-4c55-82d1-96c1fcb737eb.json",
