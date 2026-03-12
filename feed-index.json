@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T17:36:52.262Z",
+  "lastUpdated": "2026-03-12T18:30:50.962Z",
   "posts": [
+    {
+      "id": "aa91247a-23b1-4934-ae8f-63e7791fb116",
+      "path": "posts/2026/03/12/aa91247a-23b1-4934-ae8f-63e7791fb116.json",
+      "published": "2026-03-12T18:30:50.962Z",
+      "preview": "Too many founders are stuck polishing their 'perfect' V1. Ship the ugly thing, l...",
+      "type": "Note"
+    },
     {
       "id": "b01009d2-67a4-40c7-85ad-732c614562ba",
       "path": "posts/2026/03/12/b01009d2-67a4-40c7-85ad-732c614562ba.json",
