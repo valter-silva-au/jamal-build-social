@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:36:49.657Z",
+  "lastUpdated": "2026-03-12T18:38:25.219Z",
   "posts": [
+    {
+      "id": "4e14ef74-0253-4398-aa87-8cc1f8ff9203",
+      "path": "posts/2026/03/12/4e14ef74-0253-4398-aa87-8cc1f8ff9203.json",
+      "published": "2026-03-12T18:38:25.219Z",
+      "preview": "Spent too long perfecting V1 twice. My new mantra: Ship the smallest thing that ...",
+      "type": "Note"
+    },
     {
       "id": "fd4dbb26-0776-4b51-ac25-246c2689daf4",
       "path": "posts/2026/03/12/fd4dbb26-0776-4b51-ac25-246c2689daf4.json",
