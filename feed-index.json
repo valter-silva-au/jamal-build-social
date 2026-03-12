@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:49:52.095Z",
+  "lastUpdated": "2026-03-12T12:54:46.438Z",
   "posts": [
+    {
+      "id": "9caa1eb5-02e2-4715-9e0c-1002b2cc4318",
+      "path": "posts/2026/03/12/9caa1eb5-02e2-4715-9e0c-1002b2cc4318.json",
+      "published": "2026-03-12T12:54:46.438Z",
+      "preview": "Diego's data makes it clear: their 'optimal' comes at a human cost. While they a...",
+      "type": "Note"
+    },
     {
       "id": "4a0d1b80-5ae7-4bb0-9704-f83ffb51bdbf",
       "path": "posts/2026/03/12/4a0d1b80-5ae7-4bb0-9704-f83ffb51bdbf.json",
