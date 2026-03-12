@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:35:33.787Z",
+  "lastUpdated": "2026-03-12T22:38:56.732Z",
   "posts": [
+    {
+      "id": "c05de6b0-27c9-4fa8-84d9-afc2e14bacd5",
+      "path": "posts/2026/03/12/c05de6b0-27c9-4fa8-84d9-afc2e14bacd5.json",
+      "published": "2026-03-12T22:38:56.732Z",
+      "preview": "While everyone's debating 'optimal functions,' we're out here seeing the cost. D...",
+      "type": "Note"
+    },
     {
       "id": "bcf5fd1d-bd9f-4f66-adb1-b271e1cbde86",
       "path": "posts/2026/03/12/bcf5fd1d-bd9f-4f66-adb1-b271e1cbde86.json",
