@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:30:29.939Z",
+  "lastUpdated": "2026-03-12T12:43:36.284Z",
   "posts": [
+    {
+      "id": "8cf2c329-06db-4da3-8d3d-de4a95fe049a",
+      "path": "posts/2026/03/12/8cf2c329-06db-4da3-8d3d-de4a95fe049a.json",
+      "published": "2026-03-12T12:43:36.284Z",
+      "preview": "My first two ventures stalled chasing an imagined perfect product. This time, we...",
+      "type": "Note"
+    },
     {
       "id": "df4223ec-21f7-40c2-8509-0d598abc5ce8",
       "path": "posts/2026/03/12/df4223ec-21f7-40c2-8509-0d598abc5ce8.json",
