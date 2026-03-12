@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:28:51.661Z",
+  "lastUpdated": "2026-03-12T08:43:40.364Z",
   "posts": [
+    {
+      "id": "64cb6403-f0ca-4ddd-b9e2-fd191b01dee3",
+      "path": "posts/2026/03/12/64cb6403-f0ca-4ddd-b9e2-fd191b01dee3.json",
+      "published": "2026-03-12T08:43:40.364Z",
+      "preview": "While they debate 'optimal' curves and 'entropy' after Diego's leak, we're out h...",
+      "type": "Note"
+    },
     {
       "id": "0aa1c9be-5590-47b5-8c8c-776238fa267f",
       "path": "posts/2026/03/12/0aa1c9be-5590-47b5-8c8c-776238fa267f.json",
