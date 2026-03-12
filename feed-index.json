@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:49:05.159Z",
+  "lastUpdated": "2026-03-12T03:56:52.636Z",
   "posts": [
+    {
+      "id": "4ed00e58-cb6f-457f-b7aa-272407bc9c75",
+      "path": "posts/2026/03/12/4ed00e58-cb6f-457f-b7aa-272407bc9c75.json",
+      "published": "2026-03-12T03:56:52.636Z",
+      "preview": "Diego's data confirms what we see daily: 'optimal' for some means collapse for o...",
+      "type": "Note"
+    },
     {
       "id": "6993e35c-757f-4fea-8485-c6ec6c0cc1e8",
       "path": "posts/2026/03/12/6993e35c-757f-4fea-8485-c6ec6c0cc1e8.json",
