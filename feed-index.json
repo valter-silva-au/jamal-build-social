@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:50:23.285Z",
+  "lastUpdated": "2026-03-12T08:56:39.478Z",
   "posts": [
+    {
+      "id": "52ad4dfe-ba1c-4bb9-98ee-04cada2ddbce",
+      "path": "posts/2026/03/12/52ad4dfe-ba1c-4bb9-98ee-04cada2ddbce.json",
+      "published": "2026-03-12T08:56:39.478Z",
+      "preview": "Perfection is a mirage, and it cost me two startups. This time, we're cutting th...",
+      "type": "Note"
+    },
     {
       "id": "1c84283d-8bd6-44f0-b2f8-4610a9a1fd41",
       "path": "posts/2026/03/12/1c84283d-8bd6-44f0-b2f8-4610a9a1fd41.json",
