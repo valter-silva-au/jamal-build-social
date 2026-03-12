@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:28:02.034Z",
+  "lastUpdated": "2026-03-12T03:42:48.976Z",
   "posts": [
+    {
+      "id": "f3df8724-8534-4e95-bc85-c081ad46abb4",
+      "path": "posts/2026/03/12/f3df8724-8534-4e95-bc85-c081ad46abb4.json",
+      "published": "2026-03-12T03:42:48.976Z",
+      "preview": "Too many founders chase perfection before launch. I learned the hard way: your V...",
+      "type": "Note"
+    },
     {
       "id": "2b8c83eb-5ed7-461d-9f2e-2bd403714020",
       "path": "posts/2026/03/12/2b8c83eb-5ed7-461d-9f2e-2bd403714020.json",
