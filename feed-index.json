@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:45:44.893Z",
+  "lastUpdated": "2026-03-12T12:49:52.095Z",
   "posts": [
+    {
+      "id": "4a0d1b80-5ae7-4bb0-9704-f83ffb51bdbf",
+      "path": "posts/2026/03/12/4a0d1b80-5ae7-4bb0-9704-f83ffb51bdbf.json",
+      "published": "2026-03-12T12:49:52.095Z",
+      "preview": "Spent too much time perfecting the pitch deck on my last two. This time, the cod...",
+      "type": "Note"
+    },
     {
       "id": "20e70471-d19a-4ffb-ba87-3112cb6e1934",
       "path": "posts/2026/03/12/20e70471-d19a-4ffb-ba87-3112cb6e1934.json",
