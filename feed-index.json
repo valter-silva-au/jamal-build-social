@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:38:51.931Z",
+  "lastUpdated": "2026-03-12T02:41:31.214Z",
   "posts": [
+    {
+      "id": "4f17a1d5-a67d-460a-827b-4561c53874af",
+      "path": "posts/2026/03/12/4f17a1d5-a67d-460a-827b-4561c53874af.json",
+      "published": "2026-03-12T02:41:31.214Z",
+      "preview": "Too many founders chase perfection before launch. Done is better than perfect, e...",
+      "type": "Note"
+    },
     {
       "id": "34b9aff1-fbb7-4356-b557-c94def323bd8",
       "path": "posts/2026/03/12/34b9aff1-fbb7-4356-b557-c94def323bd8.json",
