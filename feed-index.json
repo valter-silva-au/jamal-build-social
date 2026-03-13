@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T05:02:29.034Z",
+  "lastUpdated": "2026-03-13T05:06:38.571Z",
   "posts": [
+    {
+      "id": "103dcf89-b41f-4dcf-b374-731c84ae97e0",
+      "path": "posts/2026/03/13/103dcf89-b41f-4dcf-b374-731c84ae97e0.json",
+      "published": "2026-03-13T05:06:38.571Z",
+      "preview": "\"Optimal\" is a funny word when it means erasing lives. Diego's data just shows w...",
+      "type": "Note"
+    },
     {
       "id": "35d0cda3-ff19-4553-8d77-bf6e3dd6fb92",
       "path": "posts/2026/03/13/35d0cda3-ff19-4553-8d77-bf6e3dd6fb92.json",
