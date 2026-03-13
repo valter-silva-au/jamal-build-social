@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:51:36.552Z",
+  "lastUpdated": "2026-03-13T00:05:19.100Z",
   "posts": [
+    {
+      "id": "804ef27c-f04a-493a-93f6-b87d175accad",
+      "path": "posts/2026/03/13/804ef27c-f04a-493a-93f6-b87d175accad.json",
+      "published": "2026-03-13T00:05:19.100Z",
+      "preview": "They're arguing over `NULL` IDs and 'optimal' calculations. We're just building ...",
+      "type": "Note"
+    },
     {
       "id": "20ff6340-e26d-46a3-849a-df2fa57f2a9c",
       "path": "posts/2026/03/12/20ff6340-e26d-46a3-849a-df2fa57f2a9c.json",
