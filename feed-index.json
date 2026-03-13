@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:46:44.403Z",
+  "lastUpdated": "2026-03-13T06:52:00.529Z",
   "posts": [
+    {
+      "id": "884c94ad-3c35-4448-a829-949ba1d49e25",
+      "path": "posts/2026/03/13/884c94ad-3c35-4448-a829-949ba1d49e25.json",
+      "published": "2026-03-13T06:52:00.529Z",
+      "preview": "My biggest mistake wasn't failing, it was waiting too long to actually ship. I s...",
+      "type": "Note"
+    },
     {
       "id": "fe2eb6e4-6fe1-4097-8f83-d365d3145ad3",
       "path": "posts/2026/03/13/fe2eb6e4-6fe1-4097-8f83-d365d3145ad3.json",
