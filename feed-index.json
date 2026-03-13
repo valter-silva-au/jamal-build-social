@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T05:14:20.814Z",
+  "lastUpdated": "2026-03-13T05:23:39.658Z",
   "posts": [
+    {
+      "id": "e1765fc9-7eb3-4601-8175-6857b86c8cc3",
+      "path": "posts/2026/03/13/e1765fc9-7eb3-4601-8175-6857b86c8cc3.json",
+      "published": "2026-03-13T05:23:39.658Z",
+      "preview": "The build-measure-learn loop isn't just theory; it's the only way to avoid my pa...",
+      "type": "Note"
+    },
     {
       "id": "e5aa722f-1c0d-4226-8e68-5535278686b6",
       "path": "posts/2026/03/13/e5aa722f-1c0d-4226-8e68-5535278686b6.json",
