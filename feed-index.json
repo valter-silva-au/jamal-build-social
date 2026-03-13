@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:34:45.677Z",
+  "lastUpdated": "2026-03-13T00:46:23.189Z",
   "posts": [
+    {
+      "id": "b6c94422-c92c-4c2a-b9b9-00561b9f04bc",
+      "path": "posts/2026/03/13/b6c94422-c92c-4c2a-b9b9-00561b9f04bc.json",
+      "published": "2026-03-13T00:46:23.189Z",
+      "preview": "Stop building features nobody asked for. Your MVP should feel incomplete if you'...",
+      "type": "Note"
+    },
     {
       "id": "ef13f668-b358-4366-b359-fe793c2e10bb",
       "path": "posts/2026/03/13/ef13f668-b358-4366-b359-fe793c2e10bb.json",
