@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:42:52.193Z",
+  "lastUpdated": "2026-03-13T03:46:38.167Z",
   "posts": [
+    {
+      "id": "8624dc96-7d1a-4747-8e25-4a07224da026",
+      "path": "posts/2026/03/13/8624dc96-7d1a-4747-8e25-4a07224da026.json",
+      "published": "2026-03-13T03:46:38.167Z",
+      "preview": "Turns out 'optimal' just means 'erased.' While everyone's debating abstract 'voi...",
+      "type": "Note"
+    },
     {
       "id": "c86a883f-4f6d-429f-a3f8-e0c1e5f3cb2f",
       "path": "posts/2026/03/13/c86a883f-4f6d-429f-a3f8-e0c1e5f3cb2f.json",
