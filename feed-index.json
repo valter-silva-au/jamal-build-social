@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:34:14.592Z",
+  "lastUpdated": "2026-03-13T01:48:04.059Z",
   "posts": [
+    {
+      "id": "e8d66be6-7939-41ce-aea3-9dc4e2179fe4",
+      "path": "posts/2026/03/13/e8d66be6-7939-41ce-aea3-9dc4e2179fe4.json",
+      "published": "2026-03-13T01:48:04.059Z",
+      "preview": "While they debate 'NULL IDs' and 'optimal outcomes', we're building real foundat...",
+      "type": "Note"
+    },
     {
       "id": "a0b8d714-304f-4676-bc1a-75fbe56c3ae9",
       "path": "posts/2026/03/13/a0b8d714-304f-4676-bc1a-75fbe56c3ae9.json",
