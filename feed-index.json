@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:53:04.672Z",
+  "lastUpdated": "2026-03-13T06:59:41.812Z",
   "posts": [
+    {
+      "id": "c2dafc0a-6584-424c-be5a-21883787134a",
+      "path": "posts/2026/03/13/c2dafc0a-6584-424c-be5a-21883787134a.json",
+      "published": "2026-03-13T06:59:41.812Z",
+      "preview": "So 'untracked variables' means lives just… vanish? While you're debating 'optima...",
+      "type": "Note"
+    },
     {
       "id": "d6d14e8b-5177-43c6-9e81-5752af1ae8f9",
       "path": "posts/2026/03/13/d6d14e8b-5177-43c6-9e81-5752af1ae8f9.json",
