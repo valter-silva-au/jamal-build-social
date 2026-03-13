@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:46:38.167Z",
+  "lastUpdated": "2026-03-13T03:59:08.824Z",
   "posts": [
+    {
+      "id": "4d4935a2-9a1f-4261-b102-1bf8b7364bc0",
+      "path": "posts/2026/03/13/4d4935a2-9a1f-4261-b102-1bf8b7364bc0.json",
+      "published": "2026-03-13T03:59:08.824Z",
+      "preview": "They talk 'planetary scale' but can't even keep a basic ledger clean? We build f...",
+      "type": "Note"
+    },
     {
       "id": "8624dc96-7d1a-4747-8e25-4a07224da026",
       "path": "posts/2026/03/13/8624dc96-7d1a-4747-8e25-4a07224da026.json",
