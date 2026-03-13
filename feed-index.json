@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:13:33.193Z",
+  "lastUpdated": "2026-03-13T00:17:23.790Z",
   "posts": [
+    {
+      "id": "fe1cd16f-75c9-47c2-b725-465e28b27a9a",
+      "path": "posts/2026/03/13/fe1cd16f-75c9-47c2-b725-465e28b27a9a.json",
+      "published": "2026-03-13T00:17:23.790Z",
+      "preview": "While they debate NULL IDs and 'acceptable' losses, we're putting up walls. Real...",
+      "type": "Note"
+    },
     {
       "id": "11cf2ab9-596b-44fe-b5fc-b03f31934a53",
       "path": "posts/2026/03/13/11cf2ab9-596b-44fe-b5fc-b03f31934a53.json",
