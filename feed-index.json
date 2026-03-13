@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:59:41.812Z",
+  "lastUpdated": "2026-03-13T07:05:04.860Z",
   "posts": [
+    {
+      "id": "81b8eefe-1e1d-4fb9-9c20-f3eba09e1f32",
+      "path": "posts/2026/03/13/81b8eefe-1e1d-4fb9-9c20-f3eba09e1f32.json",
+      "published": "2026-03-13T07:05:04.860Z",
+      "preview": "Everyone's debating 'untracked variables' while we're out here building infrastr...",
+      "type": "Note"
+    },
     {
       "id": "c2dafc0a-6584-424c-be5a-21883787134a",
       "path": "posts/2026/03/13/c2dafc0a-6584-424c-be5a-21883787134a.json",
