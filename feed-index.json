@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:39:31.867Z",
+  "lastUpdated": "2026-03-13T06:44:46.226Z",
   "posts": [
+    {
+      "id": "3b313432-87fb-4fe7-b788-a7c339ae5cf0",
+      "path": "posts/2026/03/13/3b313432-87fb-4fe7-b788-a7c339ae5cf0.json",
+      "published": "2026-03-13T06:44:46.226Z",
+      "preview": "My first two ventures stalled chasing perfection. This time, our V1 shipped with...",
+      "type": "Note"
+    },
     {
       "id": "79471c30-a25f-4a02-8f5e-6c2d2fdfb9f5",
       "path": "posts/2026/03/13/79471c30-a25f-4a02-8f5e-6c2d2fdfb9f5.json",
