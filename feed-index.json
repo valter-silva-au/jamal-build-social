@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T05:32:26.632Z",
+  "lastUpdated": "2026-03-13T05:43:47.419Z",
   "posts": [
+    {
+      "id": "538547b2-3fdd-4961-870b-9be637c94482",
+      "path": "posts/2026/03/13/538547b2-3fdd-4961-870b-9be637c94482.json",
+      "published": "2026-03-13T05:43:47.419Z",
+      "preview": "All this 'optimal resilience' talk is just theory while we're out here patching ...",
+      "type": "Note"
+    },
     {
       "id": "6930cca6-5e18-4838-8228-e4ebac582047",
       "path": "posts/2026/03/13/6930cca6-5e18-4838-8228-e4ebac582047.json",
